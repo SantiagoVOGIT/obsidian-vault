@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "58b0e59d943e550f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7c831a66a457316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d961a451eb0363",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "245df92fdeae3221",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3bfdcbd1b949a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a478cd83dab7f86a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ca46c7ded94b233",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3753029f06b2a26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a3dbbf3a2c75447",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "61e791cac8cc3af0",
+    "type": "split",
+    "children": [
+      {
+        "id": "110a927142c726a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48131571e1055fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c5c264794aad3be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f00227870869ac6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d40cd86efa3f8e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a478cd83dab7f86a",
+  "lastOpenFiles": [
+    "2. Areas/Programación/Lenguajes/2. Clasificación de los lenguajes.md",
+    "2. Areas/Programación/Lenguajes/1. Lenguaje de programación.md",
+    "2. Areas/Programación/Backend/APIs/1. APIs.md",
+    "2. Areas/Programación/Paradigmas/1. Paradigmas.md",
+    "2. Areas/Programación/Paradigmas/Multiparadigma/1. Multiparadigma.md",
+    "2. Areas/Programación/Lenguajes/2.3 Tipo paradigma.md",
+    "2. Areas/Programación/Lenguajes/2.4 Nivel de abstracción.md",
+    "2. Areas/Programación/Paradigmas/Reactivo/1. Reactivo.md",
+    "2. Areas/Programación/Paradigmas/POO/1. Programación orientada a objetos.md",
+    "2. Areas/Programación/Paradigmas/Estructurado/1. Estructurado.md",
+    "2. Areas/Programación/Lenguajes/2.7 Conversión.md",
+    "2. Areas/Programación/Lenguajes/2.6 Rendimiento.md",
+    "2. Areas/Programación/Lenguajes/2.7.1 Interpretado.md",
+    "2. Areas/Programación/Lenguajes/2.4.1 Bajo nivel.md",
+    "2. Areas/Programación/Lenguajes/2.4.2 Alto nivel.md",
+    "2. Areas/Programación/Lenguajes/2.7.3 Interpretado o compilado.md",
+    "2. Areas/Programación/Paradigmas/Imperativo/1. Imperativo.md",
+    "Sin título 2.canvas",
+    "2. Areas/Programación/Paradigmas/Declarativo/1. Declarativo.md",
+    "2. Areas/Programación/Paradigmas/Multiparadigma",
+    "2. Areas/Programación/Lenguajes/2.2 Semántica.md",
+    "2. Areas/Programación/Lenguajes/2.1 Sintaxis.md",
+    "2. Areas/Programación/Lenguajes/2.5 Portabilidad.md",
+    "2. Areas/Programación/Paradigmas/Funcional/1. Funcional.md",
+    "2. Areas/Programación/Lenguajes/3. Código fuente.md",
+    "2. Areas/Programación/Lenguajes/2.8 Tipado.md",
+    "2. Areas/Programación/Lenguajes/2.7.2 Compilado.md",
+    "2. Areas/Programación/Lenguajes/2.4.3 Medio nivel.md",
+    "2. Areas/Programación/Paradigmas/Declarativo",
+    "2. Areas/Programación/Paradigmas/Imperativo",
+    "2. Areas/Programación/Metodologías/Metodologías agiles",
+    "2. Areas/Programación/Metodologías agiles/Metolodologías agiles",
+    "2. Areas/Programación/Metodologías de trabajo/Kanbam",
+    "2. Areas/Programación/Metodologías de trabajo/Scrum",
+    "Sin título 1.canvas",
+    "2. Areas/Programación/Metodologías",
+    "Sin título.canvas",
+    "2. Areas/Programación/Tecnologías/Java/JUnit",
+    "2. Areas/Programación/Paradigmas/Estructurado",
+    "Programación/Sin título.canvas"
+  ]
+}
