@@ -1,6 +1,166 @@
 {
   "recentFiles": [
     {
+      "basename": "Recursos - 470168",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md"
+    },
+    {
+      "basename": "Tareas - Sarlaft 4.0",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/Tareas - Sarlaft 4.0.md"
+    },
+    {
+      "basename": "2. Pruebas unitarias",
+      "path": "2. Áreas/Programación/Testing/2. Pruebas unitarias.md"
+    },
+    {
+      "basename": "3. Pruebas funcionales",
+      "path": "2. Áreas/Programación/Testing/3. Pruebas funcionales.md"
+    },
+    {
+      "basename": "1. Testing",
+      "path": "2. Áreas/Programación/Testing/1. Testing.md"
+    },
+    {
+      "basename": "8. Pruebas de aceptación",
+      "path": "2. Áreas/Programación/Testing/8. Pruebas de aceptación.md"
+    },
+    {
+      "basename": "7. Pruebas de estrés",
+      "path": "2. Áreas/Programación/Testing/7. Pruebas de estrés.md"
+    },
+    {
+      "basename": "6. Pruebas de regresión",
+      "path": "2. Áreas/Programación/Testing/6. Pruebas de regresión.md"
+    },
+    {
+      "basename": "5. Pruebas de rendimiento",
+      "path": "2. Áreas/Programación/Testing/5. Pruebas de rendimiento.md"
+    },
+    {
+      "basename": "4. Pruebas de integración",
+      "path": "2. Áreas/Programación/Testing/4. Pruebas de integración.md"
+    },
+    {
+      "basename": "1. Java",
+      "path": "2. Áreas/Programación/Tecnologías/Java/1. Java.md"
+    },
+    {
+      "basename": "1.1 Características",
+      "path": "2. Áreas/Programación/Tecnologías/Java/1.1 Características.md"
+    },
+    {
+      "basename": "1. JUnit",
+      "path": "2. Áreas/Programación/Tecnologías/Java/JUnit/1. JUnit.md"
+    },
+    {
+      "basename": "1. Tecnologías",
+      "path": "2. Áreas/Programación/Tecnologías/1. Tecnologías.md"
+    },
+    {
+      "basename": "Programación",
+      "path": "2. Áreas/Programación/Programación.md"
+    },
+    {
+      "basename": "1. Backend",
+      "path": "2. Áreas/Programación/Backend/1. Backend.md"
+    },
+    {
+      "basename": "tpl.subtema+anotaciones",
+      "path": "3. Templates/tpl.subtema+anotaciones.md"
+    },
+    {
+      "basename": "2.1 Sintaxis",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md"
+    },
+    {
+      "basename": "2. Clasificación de los lenguajes",
+      "path": "2. Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md"
+    },
+    {
+      "basename": "1. Lenguaje de programación",
+      "path": "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md"
+    },
+    {
+      "basename": "tpl.subtema",
+      "path": "3. Templates/tpl.subtema.md"
+    },
+    {
+      "basename": "tpl.tableroKanban",
+      "path": "3. Templates/tpl.tableroKanban.md"
+    },
+    {
+      "basename": "tpl.tema",
+      "path": "3. Templates/tpl.tema.md"
+    },
+    {
+      "basename": "Actividades - 470168",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Actividades - 470168.md"
+    },
+    {
+      "basename": "Criterios - 470168",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios - 470168.md"
+    },
+    {
+      "basename": "Notas - 470168",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md"
+    },
+    {
+      "basename": "470168 - Ajustes practicas técnicas de calidad Back_Q1_1",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md"
+    },
+    {
+      "basename": "Tablero - Sarlaft 4.0",
+      "path": "1. Proyectos/Sarlaft 4.0/Tablero - Sarlaft 4.0.md"
+    },
+    {
+      "basename": "1. Bases de datos",
+      "path": "2. Áreas/Programación/Bases de datos/1. Bases de datos.md"
+    },
+    {
+      "basename": "1. SQL",
+      "path": "2. Áreas/Programación/Tecnologías/SQL/1. SQL.md"
+    },
+    {
+      "basename": "2.2 Semántica",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.2 Semántica.md"
+    },
+    {
+      "basename": "2.3 Tipo paradigma",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.3 Tipo paradigma.md"
+    },
+    {
+      "basename": "2. Control de versiones",
+      "path": "2. Áreas/Programación/Tecnologías/Git/2. Control de versiones.md"
+    },
+    {
+      "basename": "1. Git",
+      "path": "2. Áreas/Programación/Tecnologías/Git/1. Git.md"
+    },
+    {
+      "basename": "2.5 Portabilidad",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.5 Portabilidad.md"
+    },
+    {
+      "basename": "2.4.2 Alto nivel",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4.2 Alto nivel.md"
+    },
+    {
+      "basename": "2.9.1 General (GPL)",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.9.1 General (GPL).md"
+    },
+    {
+      "basename": "2.4 Nivel de abstracción",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4 Nivel de abstracción.md"
+    },
+    {
+      "basename": "Áreas",
+      "path": "2. Áreas/Áreas.md"
+    },
+    {
+      "basename": "1. Spring",
+      "path": "2. Áreas/Programación/Tecnologías/Java/Spring/1. Spring.md"
+    },
+    {
       "basename": "Notas rapídas",
       "path": "Notas rapídas.md"
     },

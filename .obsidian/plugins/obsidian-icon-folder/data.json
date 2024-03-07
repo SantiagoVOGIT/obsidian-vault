@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxIntersect",
+      "RiRepeatOneLine",
       "BoBxCodeBlock",
       "RiKeyboardFill",
-      "BoBxTable",
-      "RiTestTubeLine",
-      "RiServerLine"
+      "BoBxTable"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,7 +58,6 @@
   "2. Áreas/Programación/Backend/Internet": "RiWindowFill",
   "2. Áreas/Programación/Backend/Caching": "FabFirstdraft",
   "2. Áreas/Programación/Backend/Servidores": "RiServerLine",
-  "2. Áreas/Programación/Backend/Testing": "RiTestTubeLine",
   "1. Proyectos/Tablero -  Proyectos.md": "BoBxTable",
   "1. Proyectos/Sarlaft 4.0/Tablero - Sarlaft 4.0.md": "BoBxTable",
   "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md": "BoBxTask",
@@ -69,5 +68,6 @@
   "2. Áreas/Programación/Conceptos de programación": "BoBxCodeCurly",
   "2. Áreas/Metodologías": "RiTeamLine",
   "2. Áreas/Metodologías/Metodologías agiles": "RiFlashlightLine",
-  "2. Áreas/Programación": "BoBxCodeBlock"
+  "2. Áreas/Programación": "BoBxCodeBlock",
+  "2. Áreas/Programación/Testing": "RiTestTubeLine"
 }

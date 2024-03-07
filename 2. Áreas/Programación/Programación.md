@@ -9,6 +9,7 @@ Se compone de los siguientes campos de conocimiento:
 - [[1. Bases de datos|Bases de datos]]
 - [[1. Arquitectura|Arquitectura]]
 - [[1. Dev Ops|Dev Ops]]
+- [[1. Testing|Testing]]
 
 
 
