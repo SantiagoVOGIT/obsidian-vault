@@ -5,5 +5,5 @@ Un área de conocimiento es una agrupación de programas académicos que compart
 
 **Índice:**
 
-- [[Programación]]
+- [[1. Programación]]
 - [[1. Metodologías|Metodologías]]
