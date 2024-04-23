@@ -1,4 +1,4 @@
-**Pipelines:**
+|**Pipelines:**
 
 - Sarlaft4_Back:
 - https://dev.azure.com/SuraColombia/Gerencia_Tecnologia/_build?definitionScope=%5CEGV_ADM_Y_FIN%5CSarlaft4_Back
@@ -21,4 +21,4 @@
 - 892-sarlaft-api-ms:
 - https://segurosti.atlassian.net/wiki/spaces/EPA/pages/1801159134/Microservicio+SarlaftAPI
 
-**Otros:**
+Debido al tipo de cambio técnico que se realizo en los dos microservicios (pruebas unitarias), la prueba de implantación se da por exitosa debido a la ejecución del 100% de pruebas unitarias exitosas en el pipeline, además de la carga exitosa en SonarQube reflejándose así el porcentaje de cobertura deseado derivado de los criterios de aceptación en la plataforma.

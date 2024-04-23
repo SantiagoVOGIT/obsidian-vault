@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"d66fa3b391809e51","type":"text","text":"Algoritmos","x":-540,"y":-280,"width":160,"height":60},
+		{"id":"b50ba960eb4bf8e1","type":"text","text":"Diagramas","x":-260,"y":-420,"width":160,"height":60},
+		{"id":"1534480a2a2161e3","type":"text","text":"Nassi-Shneiderman","x":-40,"y":-360,"width":160,"height":60},
+		{"id":"8d268d81ad7a9621","type":"text","text":"De flujo\n(Flowchart)","x":-40,"y":-480,"width":160,"height":60},
+		{"id":"8dc0e692c0d562ca","type":"text","text":"Pseudocodigo ","x":-40,"y":-200,"width":180,"height":60},
+		{"id":"3ae9165f1256400b","type":"text","text":"Lenguaje Real","x":-40,"y":-80,"width":180,"height":60},
+		{"id":"20d5731d2925ca9b","type":"text","text":"Código ","x":-260,"y":-140,"width":160,"height":60}
+	],
+	"edges":[
+		{"id":"1caa413a8a7b7354","fromNode":"d66fa3b391809e51","fromSide":"right","toNode":"b50ba960eb4bf8e1","toSide":"left"},
+		{"id":"2c35834b366d8893","fromNode":"b50ba960eb4bf8e1","fromSide":"right","toNode":"1534480a2a2161e3","toSide":"left","toEnd":"none"},
+		{"id":"ab28508918b52209","fromNode":"b50ba960eb4bf8e1","fromSide":"right","toNode":"8d268d81ad7a9621","toSide":"left"},
+		{"id":"a27a7dee31cfb68b","fromNode":"20d5731d2925ca9b","fromSide":"right","toNode":"3ae9165f1256400b","toSide":"left","toEnd":"none"},
+		{"id":"68c041ed23edeb69","fromNode":"20d5731d2925ca9b","fromSide":"right","toNode":"8dc0e692c0d562ca","toSide":"left"},
+		{"id":"c48b8ccce0951ed0","fromNode":"d66fa3b391809e51","fromSide":"right","toNode":"20d5731d2925ca9b","toSide":"left"}
+	]
+}

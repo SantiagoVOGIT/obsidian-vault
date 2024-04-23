@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "BoBxIntersect",
-      "RiRepeatOneLine",
-      "BoBxCodeBlock",
-      "RiKeyboardFill",
-      "BoBxTable"
+      "FabCodepen",
+      "FabAngular",
+      "BoBxChevronUpSquare",
+      "RiSecurePaymentLine",
+      "RiTerminalBoxLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,7 +25,11 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "debugMode": false
   },
   "2. Áreas/Programación/Backend": "RiDatabaseLine",
   "2. Áreas/Programación/Arquitectura": "RiBuilding3Line",
@@ -69,5 +73,11 @@
   "2. Áreas/Metodologías": "RiTeamLine",
   "2. Áreas/Metodologías/Metodologías agiles": "RiFlashlightLine",
   "2. Áreas/Programación": "BoBxCodeBlock",
-  "2. Áreas/Programación/Testing": "RiTestTubeLine"
+  "2. Áreas/Programación/Testing": "RiTestTubeLine",
+  "2. Áreas/Programación/Sistemas operativos": "RiComputerLine",
+  "2. Áreas/Programación/Sistemas operativos/Terminal": "RiTerminalBoxLine",
+  "2. Áreas/Programación/Backend/APIs/Autenticación": "RiSecurePaymentLine",
+  "2. Áreas/Programación/Backend/APIs/REST": "BoBxChevronUpSquare",
+  "2. Áreas/Programación/Tecnologías/Angular": "FabAngular",
+  "2. Áreas/Programación/Lógica de programación": "FabCodepen"
 }
