@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases: 
+tags:
+  - proyectos
 ---
 - [x] **1. Creación de pipelines:** ✅ 2024-02-28
 
@@ -24,12 +26,12 @@ aliases: []
 - **Repositorio:** sarlaftengines.
 - **Cambio:** Actualizar el nombre del repositorio a uno nuevo.
 
-- [ ] **4. Subir cobertura de sarlaftapi:**
+- [x] **4. Subir cobertura de sarlaftapi:** ✅ 2024-05-07
 
 - **Objetivo:** Aumentar la cobertura al 95% como mínimo.
 - **Acción:** Implementar las medidas necesarias para alcanzar la cobertura deseada.
 
-- [ ] **5. Probar y crear PR para develop y master:**
+- [x] **5. Probar y crear PR para develop y master:** ✅ 2024-05-07
 
 - **Pruebas:** Realizar pruebas exhaustivas de las pipelines y la cobertura de sarlaftapi.
 - **Pull requests:** Crear PRs para las ramas develop y master.

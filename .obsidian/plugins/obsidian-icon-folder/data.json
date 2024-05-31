@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabCodepen",
-      "FabAngular",
-      "BoBxChevronUpSquare",
-      "RiSecurePaymentLine",
-      "RiTerminalBoxLine"
+      "BoBxMapAlt",
+      "RiBearSmileLine",
+      "RiServerLine",
+      "BoBxsHdd",
+      "RiBookMarkedLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,8 +70,6 @@
   "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md": "BoBxNote",
   "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios - 470168.md": "RiListCheck3",
   "2. Áreas/Programación/Conceptos de programación": "BoBxCodeCurly",
-  "2. Áreas/Metodologías": "RiTeamLine",
-  "2. Áreas/Metodologías/Metodologías agiles": "RiFlashlightLine",
   "2. Áreas/Programación": "BoBxCodeBlock",
   "2. Áreas/Programación/Testing": "RiTestTubeLine",
   "2. Áreas/Programación/Sistemas operativos": "RiComputerLine",
@@ -79,5 +77,14 @@
   "2. Áreas/Programación/Backend/APIs/Autenticación": "RiSecurePaymentLine",
   "2. Áreas/Programación/Backend/APIs/REST": "BoBxChevronUpSquare",
   "2. Áreas/Programación/Tecnologías/Angular": "FabAngular",
-  "2. Áreas/Programación/Lógica de programación": "FabCodepen"
+  "2. Áreas/Programación/Lógica de programación": "FabCodepen",
+  "2. Áreas/Programación/Tecnologías/Go": "RiGoogleFill",
+  "1. Proyectos/Sarlaft 4.0/Tareas/Tareas - Sarlaft 4.0.md": "RiCheckboxLine",
+  "2. Áreas/Inglés": "RiBookMarkedLine",
+  "2. Áreas/Programación/Metodologías": "RiTeamLine",
+  "2. Áreas/Programación/Metodologías/Metodologías agiles": "RiFlashlightLine",
+  "2. Áreas/Programación/Tecnologías/Redis": "BoBxsHdd",
+  "2. Áreas/Programación/Tecnologías/Nginx": "RiServerLine",
+  "2. Áreas/Programación/Tecnologías/RabbitMQ": "RiBearSmileLine",
+  "2. Áreas/Programación/Patrones de diseño": "BoBxMapAlt"
 }

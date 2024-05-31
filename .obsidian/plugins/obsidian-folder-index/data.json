@@ -1,0 +1,20 @@
+{
+  "disableHeadlines": true,
+  "graphOverwrite": true,
+  "rootIndexFile": "Dashboard.md",
+  "autoCreateIndexFile": false,
+  "autoRenameIndexFile": true,
+  "includeFileContent": false,
+  "hideIndexFiles": false,
+  "indexFileInitText": "---\n###### Índice:\n---\n```folder-index-content\n```",
+  "autoPreviewMode": false,
+  "sortIndexFilesAlphabetically": true,
+  "sortHeadersAlphabetically": false,
+  "recursiveIndexFiles": false,
+  "renderFolderBold": true,
+  "renderFolderItalic": false,
+  "useBulletPoints": true,
+  "excludeFolders": [],
+  "recursionLimit": -1,
+  "headlineLimit": 6
+}

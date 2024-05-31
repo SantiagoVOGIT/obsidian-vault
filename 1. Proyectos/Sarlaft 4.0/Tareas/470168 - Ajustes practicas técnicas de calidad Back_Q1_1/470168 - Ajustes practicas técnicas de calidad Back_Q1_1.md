@@ -1,3 +1,7 @@
+---
+tags:
+  - proyectos
+---
 **Fecha de inicio:** #2024/02/23
 **Fecha limite:**
 **Tarea**:

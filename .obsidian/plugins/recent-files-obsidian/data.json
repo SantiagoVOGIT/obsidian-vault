@@ -1,76 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "1.7 Build Tools Java",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.7 Build Tools Java.md"
+      "basename": "Recursos - 470168",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md"
     },
     {
-      "basename": "1. Sistemas operativos",
-      "path": "2. Áreas/Programación/Sistemas operativos/1. Sistemas operativos.md"
+      "basename": "Recursos - 529303",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Recursos - 529303.md"
     },
     {
-      "basename": "5. Pruebas de rendimiento",
-      "path": "2. Áreas/Programación/Testing/5. Pruebas de rendimiento.md"
+      "basename": "529303  - Usabilidad catálogos v1",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md"
     },
     {
-      "basename": "4. Pruebas de integración",
-      "path": "2. Áreas/Programación/Testing/4. Pruebas de integración.md"
+      "basename": "Criterios - 529303",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Criterios - 529303.md"
     },
     {
-      "basename": "3. Pruebas funcionales",
-      "path": "2. Áreas/Programación/Testing/3. Pruebas funcionales.md"
+      "basename": "Notas - 529303",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Notas - 529303.md"
     },
     {
-      "basename": "2. Pruebas unitarias",
-      "path": "2. Áreas/Programación/Testing/2. Pruebas unitarias.md"
+      "basename": "Actividades - 529303",
+      "path": "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Actividades - 529303.md"
     },
     {
-      "basename": "1. Testing",
-      "path": "2. Áreas/Programación/Testing/1. Testing.md"
+      "basename": "5. JDK",
+      "path": "2. Áreas/Programación/Tecnologías/Java/5. JDK.md"
     },
     {
-      "basename": "8. Maquina virtual",
-      "path": "2. Áreas/Programación/Conceptos de programación/8. Maquina virtual.md"
+      "basename": "5.1 Javadoc",
+      "path": "2. Áreas/Programación/Tecnologías/Java/5.1 Javadoc.md"
     },
     {
-      "basename": "1. Programación",
-      "path": "2. Áreas/Programación/1. Programación.md"
+      "basename": "9. Dominio",
+      "path": "2. Áreas/Programación/Conceptos de programación/9. Dominio.md"
     },
     {
-      "basename": "1.6 Javadoc",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.6 Javadoc.md"
-    },
-    {
-      "basename": "1.5 Javac",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.5 Javac.md"
-    },
-    {
-      "basename": "1.4 JAR",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.4 JAR.md"
-    },
-    {
-      "basename": "1.3 JVM",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.3 JVM.md"
-    },
-    {
-      "basename": "1.1 JDK",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.1 JDK.md"
-    },
-    {
-      "basename": "1.2 JRE",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.2 JRE.md"
-    },
-    {
-      "basename": "1. Java",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1. Java.md"
-    },
-    {
-      "basename": "2.7.2 Compilado",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.2 Compilado.md"
-    },
-    {
-      "basename": "2.7 Conversión",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7 Conversión.md"
+      "basename": "10. Documentación",
+      "path": "2. Áreas/Programación/Conceptos de programación/10. Documentación.md"
     },
     {
       "basename": "2. Clasificación de los lenguajes",
@@ -81,124 +49,156 @@
       "path": "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md"
     },
     {
-      "basename": "4. Bug",
-      "path": "2. Áreas/Programación/Conceptos de programación/4. Bug.md"
+      "basename": "5.2 Javac",
+      "path": "2. Áreas/Programación/Tecnologías/Java/5.2 Javac.md"
     },
     {
-      "basename": "1. Backend",
-      "path": "2. Áreas/Programación/Backend/1. Backend.md"
+      "basename": "1. Programación orientada a objetos",
+      "path": "2. Áreas/Programación/Paradigmas/POO/1. Programación orientada a objetos.md"
     },
     {
-      "basename": "1. Arquitectura",
-      "path": "2. Áreas/Programación/Arquitectura/1. Arquitectura.md"
+      "basename": "1. Dev Ops",
+      "path": "2. Áreas/Programación/Dev Ops/1. Dev Ops.md"
     },
     {
-      "basename": "2.1 Sintaxis",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md"
+      "basename": "7.2 Datos no primitivos (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/7.2 Datos no primitivos (Java).md"
     },
     {
-      "basename": "2.7.3.1 Bytecode",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.3.1 Bytecode.md"
+      "basename": "1. Git",
+      "path": "2. Áreas/Programación/Tecnologías/Git/1. Git.md"
     },
     {
-      "basename": "5. Refactorización",
-      "path": "2. Áreas/Programación/Conceptos de programación/5. Refactorización.md"
+      "basename": "8. Condicionales",
+      "path": "2. Áreas/Programación/Tecnologías/Java/8. Condicionales.md"
     },
     {
-      "basename": "3. Código fuente",
-      "path": "2. Áreas/Programación/Conceptos de programación/3. Código fuente.md"
+      "basename": "7.1 Datos primitivos (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/7.1 Datos primitivos (Java).md"
     },
     {
-      "basename": "2.11 Seguridad inherente",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.11 Seguridad inherente.md"
+      "basename": "6.3 De comparación",
+      "path": "2. Áreas/Programación/Tecnologías/Java/6.3 De comparación.md"
     },
     {
-      "basename": "2.3 Tipado",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3 Tipado.md"
+      "basename": "6.4 Lógicos",
+      "path": "2. Áreas/Programación/Tecnologías/Java/6.4 Lógicos.md"
     },
     {
-      "basename": "2.2 Semántica",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.2 Semántica.md"
+      "basename": "6.5 Casteo",
+      "path": "2. Áreas/Programación/Tecnologías/Java/6.5 Casteo.md"
     },
     {
-      "basename": "1.7.1 Maven",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.7.1 Maven.md"
+      "basename": "6. Operadores",
+      "path": "2. Áreas/Programación/Tecnologías/Java/6. Operadores.md"
     },
     {
-      "basename": "1.8 Java SE",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.8 Java SE.md"
+      "basename": "6.1 Aritméticos",
+      "path": "2. Áreas/Programación/Tecnologías/Java/6.1 Aritméticos.md"
     },
     {
-      "basename": "1.9 Java EE",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.9 Java EE.md"
+      "basename": "10. Funciones (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/10. Funciones (Java).md"
     },
     {
-      "basename": "7. Framework",
-      "path": "2. Áreas/Programación/Conceptos de programación/7. Framework.md"
+      "basename": "9. Bucles (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/9. Bucles (Java).md"
     },
     {
-      "basename": "6. Biblioteca",
-      "path": "2. Áreas/Programación/Conceptos de programación/6. Biblioteca.md"
+      "basename": "7. Tipos de datos (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/7. Tipos de datos (Java).md"
     },
     {
-      "basename": "1.7.2 Gradle",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1.7.2 Gradle.md"
+      "basename": "6.2 De asignación",
+      "path": "2. Áreas/Programación/Tecnologías/Java/6.2 De asignación.md"
     },
     {
-      "basename": "8. Pensamiento computacional",
-      "path": "2. Áreas/Programación/Lógica de programación/8. Pensamiento computacional.md"
+      "basename": "5.5 JAR",
+      "path": "2. Áreas/Programación/Tecnologías/Java/5.5 JAR.md"
     },
     {
-      "basename": "2.10 Rendimiento",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.10 Rendimiento.md"
+      "basename": "5.4 JRE",
+      "path": "2. Áreas/Programación/Tecnologías/Java/5.4 JRE.md"
     },
     {
-      "basename": "2.9 Portabilidad",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.9 Portabilidad.md"
+      "basename": "5.3 JVM",
+      "path": "2. Áreas/Programación/Tecnologías/Java/5.3 JVM.md"
     },
     {
-      "basename": "2.8.2 Especifico (DSL)",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.8.2 Especifico (DSL).md"
+      "basename": "4.2 Gradle",
+      "path": "2. Áreas/Programación/Tecnologías/Java/4.2 Gradle.md"
     },
     {
-      "basename": "2.8.1 General (GPL)",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.8.1 General (GPL).md"
+      "basename": "4.1 Maven",
+      "path": "2. Áreas/Programación/Tecnologías/Java/4.1 Maven.md"
     },
     {
-      "basename": "2.8 Propósito",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.8 Propósito.md"
+      "basename": "4. Build Tools Java",
+      "path": "2. Áreas/Programación/Tecnologías/Java/4. Build Tools Java.md"
     },
     {
-      "basename": "2.7.1 Interpretado",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.1 Interpretado.md"
+      "basename": "2. Java SE",
+      "path": "2. Áreas/Programación/Tecnologías/Java/2. Java SE.md"
     },
     {
-      "basename": "2.6.3 Medio nivel",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.6.3 Medio nivel.md"
+      "basename": "1. Java",
+      "path": "2. Áreas/Programación/Tecnologías/Java/1. Java.md"
     },
     {
-      "basename": "2.4 Notaciones",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4 Notaciones.md"
+      "basename": "3. Java EE",
+      "path": "2. Áreas/Programación/Tecnologías/Java/3. Java EE.md"
     },
     {
-      "basename": "2.3.4 Tipado dinámico",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3.4 Tipado dinámico.md"
+      "basename": "8. Stash",
+      "path": "2. Áreas/Programación/Tecnologías/Git/8. Stash.md"
     },
     {
-      "basename": "2.3.3 Tipado estático",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3.3 Tipado estático.md"
+      "basename": "9. Reflog",
+      "path": "2. Áreas/Programación/Tecnologías/Git/9. Reflog.md"
     },
     {
-      "basename": "2.3.2 Tipado débil",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3.2 Tipado débil.md"
+      "basename": "1. JUnit",
+      "path": "2. Áreas/Programación/Tecnologías/Java/JUnit/1. JUnit.md"
     },
     {
-      "basename": "2.5 Tipo paradigma",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.5 Tipo paradigma.md"
+      "basename": "5. Push",
+      "path": "2. Áreas/Programación/Tecnologías/Git/5. Push.md"
     },
     {
-      "basename": "1. Multiparadigma",
-      "path": "2. Áreas/Programación/Paradigmas/Multiparadigma/1. Multiparadigma.md"
+      "basename": "6. Pull",
+      "path": "2. Áreas/Programación/Tecnologías/Git/6. Pull.md"
+    },
+    {
+      "basename": "7. Branch",
+      "path": "2. Áreas/Programación/Tecnologías/Git/7. Branch.md"
+    },
+    {
+      "basename": "10. Conventional Commits",
+      "path": "2. Áreas/Programación/Tecnologías/Git/10. Conventional Commits.md"
+    },
+    {
+      "basename": "4. Commit",
+      "path": "2. Áreas/Programación/Tecnologías/Git/4. Commit.md"
+    },
+    {
+      "basename": "3. Estados",
+      "path": "2. Áreas/Programación/Tecnologías/Git/3. Estados.md"
+    },
+    {
+      "basename": "2. Repositorio",
+      "path": "2. Áreas/Programación/Tecnologías/Git/2. Repositorio.md"
+    },
+    {
+      "basename": "3.4 Confirmado (Committed)",
+      "path": "2. Áreas/Programación/Tecnologías/Git/3.4 Confirmado (Committed).md"
+    },
+    {
+      "basename": "3.3 Preparado (Staged)",
+      "path": "2. Áreas/Programación/Tecnologías/Git/3.3 Preparado (Staged).md"
+    },
+    {
+      "basename": "3.2 Modificado (Modified)",
+      "path": "2. Áreas/Programación/Tecnologías/Git/3.2 Modificado (Modified).md"
     }
   ],
   "omittedPaths": [],

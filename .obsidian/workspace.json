@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c831a66a457316",
+        "id": "e8d2b9a468bbd52f",
         "type": "tabs",
         "children": [
           {
-            "id": "a09cd534d3a86ce6",
+            "id": "ac49138b71135d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Áreas/Programación/Tecnologías/Java/1.7 Build Tools Java.md",
+                "file": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Áreas/Programación/Tecnologías/Java/1.7 Build Tools Java.md",
+                "file": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Áreas/Programación/Tecnologías/Java/1.7 Build Tools Java.md",
+                "file": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Áreas/Programación/Tecnologías/Java/1.7 Build Tools Java.md"
+                "file": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md"
               }
             }
           },
@@ -171,47 +171,48 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a09cd534d3a86ce6",
+  "active": "ac49138b71135d33",
   "lastOpenFiles": [
-    "2. Áreas/Programación/Sistemas operativos/1. Sistemas operativos.md",
-    "2. Áreas/Programación/Testing/5. Pruebas de rendimiento.md",
-    "2. Áreas/Programación/Testing/4. Pruebas de integración.md",
-    "2. Áreas/Programación/Testing/3. Pruebas funcionales.md",
-    "2. Áreas/Programación/Testing/2. Pruebas unitarias.md",
-    "2. Áreas/Programación/Testing/1. Testing.md",
-    "2. Áreas/Programación/Conceptos de programación/8. Maquina virtual.md",
-    "2. Áreas/Programación/1. Programación.md",
-    "2. Áreas/Programación/Tecnologías/Java/1.7 Build Tools Java.md",
-    "2. Áreas/Programación/Tecnologías/Java/1.6 Javadoc.md",
-    "2. Áreas/Programación/Tecnologías/Java/1.5 Javac.md",
-    "2. Áreas/Programación/Tecnologías/Java/1.4 JAR.md",
-    "2. Áreas/Programación/Tecnologías/Java/1.3 JVM.md",
-    "2. Áreas/Programación/Tecnologías/Java/1.1 JDK.md",
-    "2. Áreas/Programación/Tecnologías/Java/1.2 JRE.md",
-    "2. Áreas/Programación/Tecnologías/Java/1. Java.md",
-    "2. Áreas/Programación/Conceptos de programación/2.7.2 Compilado.md",
-    "2. Áreas/Programación/Conceptos de programación/2.7 Conversión.md",
+    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Recursos - 529303.md",
+    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md",
+    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Criterios - 529303.md",
+    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Notas - 529303.md",
+    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Actividades - 529303.md",
+    "2. Áreas/Programación/Tecnologías/Java/5. JDK.md",
+    "2. Áreas/Programación/Tecnologías/Java/5.1 Javadoc.md",
+    "2. Áreas/Programación/Conceptos de programación/9. Dominio.md",
+    "2. Áreas/Programación/Conceptos de programación/10. Documentación.md",
     "2. Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md",
     "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
-    "2. Áreas/Programación/Conceptos de programación/4. Bug.md",
-    "2. Áreas/Programación/Backend/1. Backend.md",
-    "2. Áreas/Programación/Arquitectura/1. Arquitectura.md",
-    "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
-    "2. Áreas/Programación/Conceptos de programación/2.7.3.1 Bytecode.md",
-    "2. Áreas/Programación/Conceptos de programación/Sin título.md",
-    "2. Áreas/Programación/Lógica de programación",
+    "2. Áreas/Programación/Tecnologías/Java/5.2 Javac.md",
+    "2. Áreas/Programación/Paradigmas/POO/1. Programación orientada a objetos.md",
+    "2. Áreas/Programación/Dev Ops/1. Dev Ops.md",
+    "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
+    "2. Áreas/Programación/Tecnologías/Java/7.2 Datos no primitivos (Java).md",
+    "2. Áreas/Programación/Tecnologías/Git/1. Git.md",
+    "2. Áreas/Programación/Tecnologías/Java/8. Condicionales.md",
+    "2. Áreas/Programación/Tecnologías/Java/7.1 Datos primitivos (Java).md",
+    "2. Áreas/Programación/Tecnologías/Java/6.3 De comparación.md",
+    "2. Áreas/Programación/Tecnologías/Java/6.4 Lógicos.md",
+    "2. Áreas/Programación/Tecnologías/Java/6.5 Casteo.md",
+    "2. Áreas/Programación/Tecnologías/Java/6. Operadores.md",
+    "2. Áreas/Programación/Tecnologías/Java/6.1 Aritméticos.md",
+    "2. Áreas/Programación/Tecnologías/Java/10. Funciones (Java).md",
+    "2. Áreas/Programación/Tecnologías/Java/9. Bucles (Java).md",
+    "2. Áreas/Programación/Patrones de diseño",
     "Sin título.canvas",
-    "2. Áreas/Programación/Tecnologías/Angular",
-    "2. Áreas/Programación/Backend/APIs/Autenticación/Basic Auth",
-    "2. Áreas/Programación/Backend/APIs/Autenticación/JWT",
-    "2. Áreas/Programación/Backend/APIs/Autenticación",
-    "2. Áreas/Programación/Backend/APIs/REST",
+    "2. Áreas/Programación/Tecnologías/Java/Sin título.canvas",
     "2. Áreas/Programación/Sistemas operativos/Imagenes/Pasted image 20240325103818.png",
-    "2. Áreas/Programación/Sistemas operativos/Imagenes",
-    "2. Áreas/Programación/Sistemas operativos/Terminal",
-    "2. Áreas/Programación/Sistemas operativos",
-    "2. Áreas/Sin título",
     "2. Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
+    "2. Áreas/Programación/Tecnologías/Nginx",
+    "2. Áreas/Programación/Tecnologías/RabbitMQ",
+    "2. Áreas/Programación/Tecnologías/Redis",
+    "2. Áreas/Inglés",
+    "2. Áreas/Programación/Tecnologías/Go",
+    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1",
+    "2. Áreas/Programación/Tecnologías/Java/Sin título",
+    "2. Áreas/Programación/Lógica de programación",
+    "2. Áreas/Programación/Tecnologías/Angular",
     "Sin título 2.canvas",
     "Sin título 1.canvas",
     "Pasted image 20240229142852.png",

@@ -1,5 +1,6 @@
 ---
-aliases:
+aliases: 
+tags:
 ---
 **Concepto:**
 
@@ -7,4 +8,4 @@ aliases:
 
 ###### Recursos:
 
-- 
+- []()
