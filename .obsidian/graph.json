@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"2. Áreas/Programación\"  ",
+      "query": "path:\"Áreas/Programación\"  ",
       "color": {
         "a": 1,
         "rgb": 8901496
       }
     },
     {
-      "query": "path:\"1. Proyectos\"  ",
+      "query": "path:\"Proyectos\"  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:\"2. Áreas/Metodologías\"  ",
+      "query": "path:\"Áreas/Metodologías\"  ",
       "color": {
         "a": 1,
         "rgb": 6065110
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.40252079574088406,
+  "scale": 0.5643272716279498,
   "close": true
 }

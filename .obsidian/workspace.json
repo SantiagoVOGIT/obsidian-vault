@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d2b9a468bbd52f",
+        "id": "4453c6e979acd8d6",
         "type": "tabs",
         "children": [
           {
-            "id": "ac49138b71135d33",
+            "id": "b0ae05f74406ea26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
+                "file": "Áreas/Programación/Conceptos de programación/2.7.3.2 Módulo objeto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 325.5
   },
   "right": {
     "id": "61e791cac8cc3af0",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
+                "file": "Áreas/Programación/Conceptos de programación/2.7.3.2 Módulo objeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
+                "file": "Áreas/Programación/Conceptos de programación/2.7.3.2 Módulo objeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,19 +141,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md"
+                "file": "Áreas/Programación/Conceptos de programación/2.7.3.2 Módulo objeto.md"
               }
             }
           },
           {
-            "id": "0c106585ab294b66",
+            "id": "e0cbc278ade53f14",
             "type": "leaf",
             "state": {
-              "type": "git-history-view",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,51 +173,53 @@
       "daily-notes:Abrir la nota de hoy": true,
       "templates:Insertar plantilla": false,
       "zk-prefixer:Crear nueva nota única": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ac49138b71135d33",
+  "active": "b0ae05f74406ea26",
   "lastOpenFiles": [
-    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Recursos - 529303.md",
-    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md",
-    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Criterios - 529303.md",
-    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Notas - 529303.md",
-    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Actividades - 529303.md",
-    "2. Áreas/Programación/Tecnologías/Java/5. JDK.md",
-    "2. Áreas/Programación/Tecnologías/Java/5.1 Javadoc.md",
-    "2. Áreas/Programación/Conceptos de programación/9. Dominio.md",
-    "2. Áreas/Programación/Conceptos de programación/10. Documentación.md",
-    "2. Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md",
-    "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
-    "2. Áreas/Programación/Tecnologías/Java/5.2 Javac.md",
-    "2. Áreas/Programación/Paradigmas/POO/1. Programación orientada a objetos.md",
-    "2. Áreas/Programación/Dev Ops/1. Dev Ops.md",
-    "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
-    "2. Áreas/Programación/Tecnologías/Java/7.2 Datos no primitivos (Java).md",
-    "2. Áreas/Programación/Tecnologías/Git/1. Git.md",
-    "2. Áreas/Programación/Tecnologías/Java/8. Condicionales.md",
-    "2. Áreas/Programación/Tecnologías/Java/7.1 Datos primitivos (Java).md",
-    "2. Áreas/Programación/Tecnologías/Java/6.3 De comparación.md",
-    "2. Áreas/Programación/Tecnologías/Java/6.4 Lógicos.md",
-    "2. Áreas/Programación/Tecnologías/Java/6.5 Casteo.md",
-    "2. Áreas/Programación/Tecnologías/Java/6. Operadores.md",
-    "2. Áreas/Programación/Tecnologías/Java/6.1 Aritméticos.md",
-    "2. Áreas/Programación/Tecnologías/Java/10. Funciones (Java).md",
-    "2. Áreas/Programación/Tecnologías/Java/9. Bucles (Java).md",
-    "2. Áreas/Programación/Patrones de diseño",
+    "Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
+    "Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
+    "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Untitled Kanban.md",
+    "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Actividades - 470168.md",
+    "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios - 470168.md",
+    "Untitled Kanban.md",
+    "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md",
+    "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
+    "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md",
+    "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Notas - 529303.md",
+    "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Recursos - 529303.md",
+    "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Criterios - 529303.md",
+    "Áreas/Programación/Conceptos de programación/2.6.1 Bajo nivel.md",
+    "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Actividades - 529303.md",
+    "Proyectos/Sarlaft 4.0/1. Sarlaft 4.0.md",
+    "Proyectos/Sarlaft 4.0/Tablero - Sarlaft 4.0.md",
+    "Proyectos/Sarlaft 4.0/Tareas/Tareas - Sarlaft 4.0.md",
+    "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md",
+    "Proyectos/Tablero -  Proyectos.md",
+    "Áreas/Programación/Conceptos de programación/2.6.3 Medio nivel.md",
+    "Áreas/Programación/Conceptos de programación/2.6 Nivel de abstracción.md",
+    "Áreas/Programación/Conceptos de programación/2.6.2 Alto nivel.md",
+    "Áreas/Programación/Conceptos de programación/2.5 Tipo de paradigma.md",
+    "Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md",
+    "Áreas/Programación/Conceptos de programación/2.4.2 PascalCase.md",
+    "Áreas/Programación/Conceptos de programación/2.4 Notaciones.md",
+    "Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
+    "Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md~",
+    "Áreas/Programación/Patrones de diseño",
     "Sin título.canvas",
     "2. Áreas/Programación/Tecnologías/Java/Sin título.canvas",
-    "2. Áreas/Programación/Sistemas operativos/Imagenes/Pasted image 20240325103818.png",
-    "2. Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
-    "2. Áreas/Programación/Tecnologías/Nginx",
-    "2. Áreas/Programación/Tecnologías/RabbitMQ",
-    "2. Áreas/Programación/Tecnologías/Redis",
-    "2. Áreas/Inglés",
-    "2. Áreas/Programación/Tecnologías/Go",
-    "1. Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1",
+    "Áreas/Programación/Sistemas operativos/Imagenes/Pasted image 20240325103818.png",
+    "Áreas/Programación/Tecnologías/Nginx",
+    "Áreas/Programación/Tecnologías/RabbitMQ",
+    "Áreas/Programación/Tecnologías/Redis",
+    "Áreas/Inglés",
+    "Áreas/Programación/Tecnologías/Go",
+    "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1",
     "2. Áreas/Programación/Tecnologías/Java/Sin título",
-    "2. Áreas/Programación/Lógica de programación",
-    "2. Áreas/Programación/Tecnologías/Angular",
+    "Áreas/Programación/Lógica de programación",
     "Sin título 2.canvas",
     "Sin título 1.canvas",
     "Pasted image 20240229142852.png",

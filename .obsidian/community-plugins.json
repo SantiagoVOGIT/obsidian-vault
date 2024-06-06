@@ -1,5 +1,4 @@
 [
-  "editing-toolbar",
   "obsidian-emoji-toolbar",
   "obsidian-kanban",
   "recent-files-obsidian",
@@ -7,5 +6,6 @@
   "settings-search",
   "obsidian-tasks-plugin",
   "obsidian-timestamper",
-  "obsidian-git"
+  "obsidian-git",
+  "editing-toolbar"
 ]
