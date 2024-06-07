@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxTask",
       "BoBxMapAlt",
       "RiBearSmileLine",
       "RiServerLine",
-      "BoBxsHdd",
-      "RiBookMarkedLine"
+      "BoBxsHdd"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,15 +32,6 @@
     "debugMode": false,
     "iconInTitlePosition": "above"
   },
-  "Proyectos/Tablero -  Proyectos.md": "BoBxTable",
-  "Proyectos/Sarlaft 4.0/Tareas": "RiTaskLine",
-  "Proyectos/Sarlaft 4.0/Tablero - Sarlaft 4.0.md": "BoBxTable",
-  "Proyectos/Sarlaft 4.0/Tareas/Tareas - Sarlaft 4.0.md": "RiCheckboxLine",
-  "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md": "BoBxTask",
-  "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios - 470168.md": "RiListCheck3",
-  "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Actividades - 470168.md": "RiListOrdered",
-  "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md": "BoBxNote",
-  "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md": "RiLink",
   "Áreas/Inglés": "RiBookMarkedLine",
   "Áreas/Programación": "BoBxCodeBlock",
   "Áreas/Programación/Arquitectura": "RiBuilding3Line",
@@ -79,5 +70,7 @@
   "Áreas/Programación/Tecnologías/Java/JUnit": "BoBxTestTube",
   "Áreas/Programación/Tecnologías/Java/Spring": "BoBxlSpringBoot",
   "Áreas/Programación/Paradigmas/Declarativos": "RiArtboard2Line",
-  "Áreas/Programación/Paradigmas/Imperativos": "RiArrowDownDoubleLine"
+  "Áreas/Programación/Paradigmas/Imperativos": "RiArrowDownDoubleLine",
+  "Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1": "BoBxTask",
+  "Proyectos/Sura/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1": "BoBxTask"
 }

@@ -77,6 +77,11 @@
       ]
     },
     {
+      "id": "cMenuToolbar-Divider-Line",
+      "name": "HR",
+      "icon": "vertical-split"
+    },
+    {
       "id": "editing-toolbar:editor:toggle-bold",
       "name": "Toggle bold",
       "icon": "bold-glyph"
@@ -132,41 +137,9 @@
       "icon": "vertical-split"
     },
     {
-      "id": "SubmenuCommands-lucdf3en5",
-      "name": "submenu",
-      "icon": "edit",
-      "SubmenuCommands": [
-        {
-          "id": "editing-toolbar:editor-copy",
-          "name": " copy ",
-          "icon": "lucide-copy"
-        },
-        {
-          "id": "editing-toolbar:editor-cut",
-          "name": " cut ",
-          "icon": "lucide-scissors"
-        },
-        {
-          "id": "editing-toolbar:editor-paste",
-          "name": "paste ",
-          "icon": "lucide-clipboard-type"
-        },
-        {
-          "id": "editing-toolbar:editor:swap-line-down",
-          "name": "swap line down",
-          "icon": "lucide-corner-right-down"
-        },
-        {
-          "id": "editing-toolbar:editor:swap-line-up",
-          "name": "swap line up",
-          "icon": "lucide-corner-right-up"
-        }
-      ]
-    },
-    {
       "id": "SubmenuCommands-lx3d4kknn",
       "name": "submenu",
-      "icon": "link",
+      "icon": "link-2",
       "SubmenuCommands": [
         {
           "id": "editing-toolbar:editor:insert-wikilink",
@@ -216,6 +189,11 @@
           "icon": "lucide-sigma-square"
         }
       ]
+    },
+    {
+      "id": "cMenuToolbar-Divider-Line",
+      "name": "HR",
+      "icon": "vertical-split"
     },
     {
       "id": "SubmenuCommands-list",
@@ -272,6 +250,38 @@
       ]
     },
     {
+      "id": "SubmenuCommands-lucdf3en5",
+      "name": "submenu",
+      "icon": "edit",
+      "SubmenuCommands": [
+        {
+          "id": "editing-toolbar:editor-copy",
+          "name": " copy ",
+          "icon": "lucide-copy"
+        },
+        {
+          "id": "editing-toolbar:editor-cut",
+          "name": " cut ",
+          "icon": "lucide-scissors"
+        },
+        {
+          "id": "editing-toolbar:editor-paste",
+          "name": "paste ",
+          "icon": "lucide-clipboard-type"
+        },
+        {
+          "id": "editing-toolbar:editor:swap-line-down",
+          "name": "swap line down",
+          "icon": "lucide-corner-right-down"
+        },
+        {
+          "id": "editing-toolbar:editor:swap-line-up",
+          "name": "swap line up",
+          "icon": "lucide-corner-right-up"
+        }
+      ]
+    },
+    {
       "id": "editing-toolbar:fullscreen-focus",
       "name": "Fullscreen focus mode",
       "icon": "fullscreen"
@@ -287,7 +297,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 612,
+  "cMenuWidth": 664,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,

@@ -1,19 +1,24 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
+tags:
+  - proyectos
 
 ---
 
-## Por hacer
+###### Por hacer
+
+^c3a826
+
+- [ ] [[Portal de comisiones]]
 
 
+###### En progreso
 
-## En progreso
-
-- [ ] [[1. Sarlaft 4.0]]
+- [ ] [[Sarlaft 4.0]]
 
 
-## Terminada
+###### Terminada
 
 
 
@@ -21,6 +26,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","append-archive-date":true}
+{"kanban-plugin":"board","append-archive-date":true}
 ```
 %%

@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2.7.3.2 Módulo objeto",
-      "path": "Áreas/Programación/Conceptos de programación/2.7.3.2 Módulo objeto.md"
+      "basename": "Memoria",
+      "path": "Áreas/Programación/Sistemas operativos/Memoria.md"
+    },
+    {
+      "basename": "Concatenación",
+      "path": "Áreas/Programación/Conceptos de programación/Concatenación.md"
+    },
+    {
+      "basename": "5. Refactorización",
+      "path": "Áreas/Programación/Conceptos de programación/5. Refactorización.md"
+    },
+    {
+      "basename": "5. CLI",
+      "path": "Áreas/Programación/Conceptos de programación/5. CLI.md"
+    },
+    {
+      "basename": "4. Programa",
+      "path": "Áreas/Programación/Conceptos de programación/4. Programa.md"
+    },
+    {
+      "basename": "3. Código fuente",
+      "path": "Áreas/Programación/Conceptos de programación/3. Código fuente.md"
+    },
+    {
+      "basename": "6. Biblioteca",
+      "path": "Áreas/Programación/Conceptos de programación/6. Biblioteca.md"
+    },
+    {
+      "basename": "2.7.3.1 Bytecode",
+      "path": "Áreas/Programación/Sistemas operativos/2.7.3.1 Bytecode.md"
+    },
+    {
+      "basename": "2. Clasificación de los lenguajes",
+      "path": "Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md"
     },
     {
       "basename": "2.1 Sintaxis",
@@ -13,192 +45,160 @@
       "path": "Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md"
     },
     {
-      "basename": "Actividades - 470168",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Actividades - 470168.md"
+      "basename": "1. Imperativo",
+      "path": "Áreas/Programación/Paradigmas/Imperativos/1. Imperativo.md"
     },
     {
-      "basename": "Criterios - 470168",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios - 470168.md"
+      "basename": "2. Estructurado",
+      "path": "Áreas/Programación/Paradigmas/Imperativos/2. Estructurado.md"
     },
     {
-      "basename": "Untitled Kanban",
-      "path": "Untitled Kanban.md"
-    },
-    {
-      "basename": "Notas - 470168",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md"
-    },
-    {
-      "basename": "Recursos - 470168",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md"
-    },
-    {
-      "basename": "470168 - Ajustes practicas técnicas de calidad Back_Q1_1",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md"
-    },
-    {
-      "basename": "Notas - 529303",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Notas - 529303.md"
-    },
-    {
-      "basename": "Recursos - 529303",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Recursos - 529303.md"
-    },
-    {
-      "basename": "Criterios - 529303",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Criterios - 529303.md"
-    },
-    {
-      "basename": "2.6.1 Bajo nivel",
-      "path": "Áreas/Programación/Conceptos de programación/2.6.1 Bajo nivel.md"
-    },
-    {
-      "basename": "Actividades - 529303",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Actividades - 529303.md"
-    },
-    {
-      "basename": "1. Sarlaft 4.0",
-      "path": "Proyectos/Sarlaft 4.0/1. Sarlaft 4.0.md"
-    },
-    {
-      "basename": "Tablero - Sarlaft 4.0",
-      "path": "Proyectos/Sarlaft 4.0/Tablero - Sarlaft 4.0.md"
-    },
-    {
-      "basename": "Tareas - Sarlaft 4.0",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/Tareas - Sarlaft 4.0.md"
-    },
-    {
-      "basename": "529303  - Usabilidad catálogos v1",
-      "path": "Proyectos/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md"
-    },
-    {
-      "basename": "Tablero -  Proyectos",
-      "path": "Proyectos/Tablero -  Proyectos.md"
-    },
-    {
-      "basename": "2.6.3 Medio nivel",
-      "path": "Áreas/Programación/Conceptos de programación/2.6.3 Medio nivel.md"
-    },
-    {
-      "basename": "2.6 Nivel de abstracción",
-      "path": "Áreas/Programación/Conceptos de programación/2.6 Nivel de abstracción.md"
-    },
-    {
-      "basename": "2.6.2 Alto nivel",
-      "path": "Áreas/Programación/Conceptos de programación/2.6.2 Alto nivel.md"
-    },
-    {
-      "basename": "2.5 Tipo de paradigma",
-      "path": "Áreas/Programación/Conceptos de programación/2.5 Tipo de paradigma.md"
-    },
-    {
-      "basename": "2.4.3 snake_case",
-      "path": "Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md"
-    },
-    {
-      "basename": "2.4.2 PascalCase",
-      "path": "Áreas/Programación/Conceptos de programación/2.4.2 PascalCase.md"
-    },
-    {
-      "basename": "2.4 Notaciones",
-      "path": "Áreas/Programación/Conceptos de programación/2.4 Notaciones.md"
-    },
-    {
-      "basename": "2.3 Tipado",
-      "path": "Áreas/Programación/Conceptos de programación/2.3 Tipado.md"
-    },
-    {
-      "basename": "2. Clasificación de los lenguajes",
-      "path": "Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md"
-    },
-    {
-      "basename": "2.3.1 Tipado fuerte",
-      "path": "Áreas/Programación/Conceptos de programación/2.3.1 Tipado fuerte.md"
-    },
-    {
-      "basename": "2.2 Semántica",
-      "path": "Áreas/Programación/Conceptos de programación/2.2 Semántica.md"
-    },
-    {
-      "basename": "2.4.4 kebab-case",
-      "path": "Áreas/Programación/Conceptos de programación/2.4.4 kebab-case.md"
-    },
-    {
-      "basename": "2.4.5 SCREAMING_SNAKE_CASE",
-      "path": "Áreas/Programación/Conceptos de programación/2.4.5 SCREAMING_SNAKE_CASE.md"
-    },
-    {
-      "basename": "2.4.1 camelCase",
-      "path": "Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md"
-    },
-    {
-      "basename": "2.3.4 Tipado dinámico",
-      "path": "Áreas/Programación/Conceptos de programación/2.3.4 Tipado dinámico.md"
-    },
-    {
-      "basename": "2.3.3 Tipado estático",
-      "path": "Áreas/Programación/Conceptos de programación/2.3.3 Tipado estático.md"
-    },
-    {
-      "basename": "2.3.2 Tipado débil",
-      "path": "Áreas/Programación/Conceptos de programación/2.3.2 Tipado débil.md"
-    },
-    {
-      "basename": "1.",
-      "path": "Áreas/Programación/Lógica de programación/1..md"
-    },
-    {
-      "basename": "8. Pensamiento computacional",
-      "path": "Áreas/Programación/Lógica de programación/8. Pensamiento computacional.md"
-    },
-    {
-      "basename": "8.3.1 Representación de algoritmos",
-      "path": "Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas"
-    },
-    {
-      "basename": "5.2 Javac",
-      "path": "Áreas/Programación/Tecnologías/Java/5.2 Javac.md"
-    },
-    {
-      "basename": "2.7.2 Compilado",
-      "path": "Áreas/Programación/Conceptos de programación/2.7.2 Compilado.md"
-    },
-    {
-      "basename": "2.7.1 Interpretado",
-      "path": "Áreas/Programación/Conceptos de programación/2.7.1 Interpretado.md"
-    },
-    {
-      "basename": "2.7 Conversión",
-      "path": "Áreas/Programación/Conceptos de programación/2.7 Conversión.md"
-    },
-    {
-      "basename": "1. Java",
-      "path": "Áreas/Programación/Tecnologías/Java/1. Java.md"
-    },
-    {
-      "basename": "2.7.3.1 Bytecode",
-      "path": "Áreas/Programación/Conceptos de programación/2.7.3.1 Bytecode.md"
-    },
-    {
-      "basename": "2.8.1 General (GPL)",
-      "path": "Áreas/Programación/Conceptos de programación/2.8.1 General (GPL).md"
+      "basename": "1. Paradigma",
+      "path": "Áreas/Programación/Paradigmas/1. Paradigma.md"
     },
     {
       "basename": "2. Multiparadigma",
       "path": "Áreas/Programación/Paradigmas/2. Multiparadigma.md"
     },
     {
-      "basename": "1. Git",
-      "path": "Áreas/Programación/Tecnologías/Git/1. Git.md"
-    },
-    {
       "basename": "1.1 Tipos de paradigmas",
       "path": "Áreas/Programación/Paradigmas/1.1 Tipos de paradigmas.md"
     },
     {
-      "basename": "1. Imperativo",
-      "path": "Áreas/Programación/Paradigmas/Imperativos/1. Imperativo.md"
+      "basename": "1. Java",
+      "path": "Áreas/Programación/Tecnologías/Java/1. Java.md"
+    },
+    {
+      "basename": "1. Docker",
+      "path": "Áreas/Programación/Tecnologías/Docker/1. Docker.md"
+    },
+    {
+      "basename": "1. Git",
+      "path": "Áreas/Programación/Tecnologías/Git/1. Git.md"
+    },
+    {
+      "basename": "Heap",
+      "path": "Áreas/Programación/Lógica de programación/Heap.md"
+    },
+    {
+      "basename": "Índice",
+      "path": "Áreas/Programación/Lógica de programación/Índice.md"
+    },
+    {
+      "basename": "Grafos",
+      "path": "Áreas/Programación/Lógica de programación/Grafos.md"
+    },
+    {
+      "basename": "Colecciones",
+      "path": "Áreas/Programación/Lógica de programación/Colecciones.md"
+    },
+    {
+      "basename": "Colas (Queues)",
+      "path": "Áreas/Programación/Lógica de programación/Colas (Queues).md"
+    },
+    {
+      "basename": "Arrays",
+      "path": "Áreas/Programación/Lógica de programación/Arrays.md"
+    },
+    {
+      "basename": "Arboles",
+      "path": "Áreas/Programación/Lógica de programación/Arboles.md"
+    },
+    {
+      "basename": "Algoritmo",
+      "path": "Áreas/Programación/Lógica de programación/Algoritmo.md"
+    },
+    {
+      "basename": "1.11.3 Estructuras de datos no lineales",
+      "path": "Áreas/Programación/Lógica de programación/1.11.3 Estructuras de datos no lineales.md"
+    },
+    {
+      "basename": "1.11.2 Estructuras de datos lineales",
+      "path": "Áreas/Programación/Lógica de programación/1.11.2 Estructuras de datos lineales.md"
+    },
+    {
+      "basename": "1.11.1 Estructuras de datos primitivas",
+      "path": "Áreas/Programación/Lógica de programación/1.11.1 Estructuras de datos primitivas.md"
+    },
+    {
+      "basename": "1.11 Estructuras de datos",
+      "path": "Áreas/Programación/Lógica de programación/1.11 Estructuras de datos.md"
+    },
+    {
+      "basename": "1.10 Función",
+      "path": "Áreas/Programación/Lógica de programación/1.10 Función.md"
+    },
+    {
+      "basename": "8. Pensamiento computacional",
+      "path": "Áreas/Programación/Lógica de programación/8. Pensamiento computacional.md"
+    },
+    {
+      "basename": "Listas",
+      "path": "Áreas/Programación/Lógica de programación/Listas.md"
+    },
+    {
+      "basename": "1.2.2 Inicialización",
+      "path": "Áreas/Programación/Lógica de programación/1.2.2 Inicialización.md"
+    },
+    {
+      "basename": "Tabla Hash",
+      "path": "Áreas/Programación/Lógica de programación/Tabla Hash.md"
+    },
+    {
+      "basename": "Pilas (Stacks)",
+      "path": "Áreas/Programación/Lógica de programación/Pilas (Stacks).md"
+    },
+    {
+      "basename": "Listas enlazadas",
+      "path": "Áreas/Programación/Lógica de programación/Listas enlazadas.md"
+    },
+    {
+      "basename": "1.9.3 Estructuras de repetición",
+      "path": "Áreas/Programación/Lógica de programación/1.9.3 Estructuras de repetición.md"
+    },
+    {
+      "basename": "8. Maquina virtual",
+      "path": "Áreas/Programación/Sistemas operativos/8. Maquina virtual.md"
+    },
+    {
+      "basename": "Scope",
+      "path": "Áreas/Programación/Conceptos de programación/Scope.md"
+    },
+    {
+      "basename": "6. Error Handling",
+      "path": "Áreas/Programación/Conceptos de programación/6. Error Handling.md"
+    },
+    {
+      "basename": "File handling",
+      "path": "Áreas/Programación/Conceptos de programación/File handling.md"
+    },
+    {
+      "basename": "8.1 Análisis",
+      "path": "Áreas/Programación/Lógica de programación/8.1 Análisis.md"
+    },
+    {
+      "basename": "1.10.2 Recursividad",
+      "path": "Áreas/Programación/Lógica de programación/1.10.2 Recursividad.md"
+    },
+    {
+      "basename": "1.10.1 Void",
+      "path": "Áreas/Programación/Lógica de programación/1.10.1 Void.md"
+    },
+    {
+      "basename": "1.9.4.3 Return",
+      "path": "Áreas/Programación/Lógica de programación/1.9.4.3 Return.md"
+    },
+    {
+      "basename": "1.9.4.2 Continue",
+      "path": "Áreas/Programación/Lógica de programación/1.9.4.2 Continue.md"
+    },
+    {
+      "basename": "1.9.4.1 Break",
+      "path": "Áreas/Programación/Lógica de programación/1.9.4.1 Break.md"
+    },
+    {
+      "basename": "1.9.4 Estructuras de salto",
+      "path": "Áreas/Programación/Lógica de programación/1.9.4 Estructuras de salto.md"
     }
   ],
   "omittedPaths": [],
