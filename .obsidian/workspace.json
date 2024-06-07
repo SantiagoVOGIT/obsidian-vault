@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Áreas/Programación/Sistemas operativos/Memoria.md",
+                "file": "Áreas/Programación/Conceptos de programación/Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:programación",
+                "query": "tag:#0074BA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Áreas/Programación/Sistemas operativos/Memoria.md",
+                "file": "Áreas/Programación/Conceptos de programación/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Áreas/Programación/Sistemas operativos/Memoria.md",
+                "file": "Áreas/Programación/Conceptos de programación/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Áreas/Programación/Sistemas operativos/Memoria.md"
+                "file": "Áreas/Programación/Conceptos de programación/Roadmap.md"
               }
             }
           },
@@ -180,17 +180,28 @@
   },
   "active": "9c0dda3d34c9ce86",
   "lastOpenFiles": [
-    "Áreas/Programación/Conceptos de programación/Concatenación.md",
-    "Áreas/Programación/Sistemas operativos/Memoria.md",
+    "Áreas/Programación/Conceptos de programación/File handling.md",
+    "Áreas/Programación/Conceptos de programación/Roadmap.md",
+    "Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
+    "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-primavera.svg",
+    "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-java-coffee-cup 1.svg",
+    "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-java-coffee-cup.svg",
+    "Áreas/Programación/Conceptos de programación/Imagenes",
+    "Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
+    "Áreas/Programación/Conceptos de programación/Concurrencia.md",
+    "Áreas/Programación/Conceptos de programación/Mutabilidad.md",
+    "Áreas/Programación/Conceptos de programación/Inmutabilidad.md",
+    "Áreas/Programación/Conceptos de programación/2.2 Semántica.md",
+    "Áreas/Programación/Conceptos de programación/6. Biblioteca.md",
     "Áreas/Programación/Conceptos de programación/5. Refactorización.md",
     "Áreas/Programación/Conceptos de programación/5. CLI.md",
     "Áreas/Programación/Conceptos de programación/4. Programa.md",
     "Áreas/Programación/Conceptos de programación/3. Código fuente.md",
-    "Áreas/Programación/Conceptos de programación/6. Biblioteca.md",
+    "Áreas/Programación/Sistemas operativos/Memoria 1.md",
+    "Áreas/Programación/Sistemas operativos/Memoria.md",
+    "Áreas/Programación/Conceptos de programación/Concatenación.md",
     "Áreas/Programación/Sistemas operativos/2.7.3.1 Bytecode.md",
     "Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md",
-    "Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
-    "Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
     "Áreas/Programación/Paradigmas/Imperativos/1. Imperativo.md",
     "Áreas/Programación/Paradigmas/Imperativos/2. Estructurado.md",
     "Áreas/Programación/Paradigmas/1. Paradigma.md",
@@ -199,13 +210,6 @@
     "Áreas/Programación/Tecnologías/Java/1. Java.md",
     "Áreas/Programación/Tecnologías/Docker/1. Docker.md",
     "Áreas/Programación/Tecnologías/Git/1. Git.md",
-    "Áreas/Programación/Lógica de programación/Heap.md",
-    "Áreas/Programación/Lógica de programación/Índice.md",
-    "Áreas/Programación/Lógica de programación/Grafos.md",
-    "Áreas/Programación/Lógica de programación/Colecciones.md",
-    "Áreas/Programación/Lógica de programación/Colas (Queues).md",
-    "Áreas/Programación/Lógica de programación/Arrays.md",
-    "Áreas/Programación/Lógica de programación/Arboles.md",
     "Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
     "Proyectos/Sura/Portal de comisiones/Tareas",
     "Proyectos/Personales",
@@ -219,7 +223,6 @@
     "Áreas/Programación/Sistemas operativos/Imagenes/Pasted image 20240325103818.png",
     "Áreas/Programación/Tecnologías/Nginx",
     "Áreas/Programación/Tecnologías/RabbitMQ",
-    "Áreas/Programación/Tecnologías/Redis",
     "Sin título 2.canvas",
     "Sin título 1.canvas",
     "Pasted image 20240229142852.png",
