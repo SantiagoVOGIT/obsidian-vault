@@ -1,5 +1,0 @@
----
-###### Índice:
----
-```folder-index-content
-```

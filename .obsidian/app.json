@@ -9,7 +9,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "./Imagenes",
+  "attachmentFolderPath": "Assets",
   "showLineNumber": false,
   "showIndentGuide": true,
   "newFileLocation": "current",

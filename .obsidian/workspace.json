@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48b5122b838b61a4",
+        "id": "ae9a2adf8a3d8f54",
         "type": "tabs",
         "children": [
           {
-            "id": "9c0dda3d34c9ce86",
+            "id": "4b2af2fbafa36630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Áreas/Programación/Conceptos de programación/Roadmap.md",
+                "file": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#0074BA",
-                "matchingCase": false,
+                "query": "programa",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 309.5
   },
   "right": {
     "id": "61e791cac8cc3af0",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Áreas/Programación/Conceptos de programación/Roadmap.md",
+                "file": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Áreas/Programación/Conceptos de programación/Roadmap.md",
+                "file": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Áreas/Programación/Conceptos de programación/Roadmap.md"
+                "file": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md"
               }
             }
           },
@@ -157,8 +157,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,51 +177,51 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9c0dda3d34c9ce86",
+  "active": "4b2af2fbafa36630",
   "lastOpenFiles": [
-    "Áreas/Programación/Conceptos de programación/File handling.md",
-    "Áreas/Programación/Conceptos de programación/Roadmap.md",
-    "Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/1 - Estimaciones.md",
+    "2. Áreas/Programación/Conceptos de programación/2.3.2 Tipado débil.md",
+    "2. Áreas/Programación/Conceptos de programación/2.3.1 Tipado fuerte.md",
+    "2. Áreas/Programación/Conceptos de programación/2.3 Tipado.md",
+    "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
+    "2. Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md",
+    "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
+    "2. Áreas/Programación/Conceptos de programación/2.4.4 kebab-case.md",
+    "2. Áreas/Programación/Conceptos de programación/2.4.5 SCREAMING_SNAKE_CASE.md",
+    "2. Áreas/Programación/Conceptos de programación/2.6 Nivel de abstracción.md",
+    "2. Áreas/Programación/Conceptos de programación/2.5 Tipo de paradigma.md",
+    "2. Áreas/Programación/Conceptos de programación/2.6.1 Bajo nivel.md",
+    "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
+    "2. Áreas/Programación/Conceptos de programación/2.4 Notaciones.md",
+    "2. Áreas/Programación/Conceptos de programación/2.3.4 Tipado dinámico.md",
+    "2. Áreas/Programación/Conceptos de programación/2.3.3 Tipado estático.md",
+    "2. Áreas/Programación/Lógica de programación/1.6 Valores.md",
+    "2. Áreas/Programación/Lógica de programación/1.7 Tipos de datos.md",
+    "2. Áreas/Programación/Sistemas operativos/Memoria.md",
+    "2. Áreas/Programación/Sistemas operativos/1. Sistemas operativos.md",
+    "2. Áreas/Programación/Conceptos de programación/2.2 Semántica.md",
+    "2. Áreas/Programación/Conceptos de programación/4. Programa.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Recursos - 1.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Criterios - 1.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Actividades - 1.md",
+    "2. Áreas/Programación/Tecnologías/Java/Lombok",
+    "2. Áreas/Programación/Tecnologías/Java/🌶️ Lombok",
+    "2. Áreas/Programación/Sistemas operativos/Pasted image 20240325103818.png",
+    "2. Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
+    "Assets",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-primavera.svg",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-java-coffee-cup 1.svg",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-java-coffee-cup.svg",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones",
+    "Proyectos/Sura/Portal de comisiones/Tareas/1. Estimación",
     "Áreas/Programación/Conceptos de programación/Imagenes",
-    "Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
-    "Áreas/Programación/Conceptos de programación/Concurrencia.md",
-    "Áreas/Programación/Conceptos de programación/Mutabilidad.md",
-    "Áreas/Programación/Conceptos de programación/Inmutabilidad.md",
-    "Áreas/Programación/Conceptos de programación/2.2 Semántica.md",
-    "Áreas/Programación/Conceptos de programación/6. Biblioteca.md",
-    "Áreas/Programación/Conceptos de programación/5. Refactorización.md",
-    "Áreas/Programación/Conceptos de programación/5. CLI.md",
-    "Áreas/Programación/Conceptos de programación/4. Programa.md",
-    "Áreas/Programación/Conceptos de programación/3. Código fuente.md",
-    "Áreas/Programación/Sistemas operativos/Memoria 1.md",
-    "Áreas/Programación/Sistemas operativos/Memoria.md",
-    "Áreas/Programación/Conceptos de programación/Concatenación.md",
-    "Áreas/Programación/Sistemas operativos/2.7.3.1 Bytecode.md",
-    "Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md",
-    "Áreas/Programación/Paradigmas/Imperativos/1. Imperativo.md",
-    "Áreas/Programación/Paradigmas/Imperativos/2. Estructurado.md",
-    "Áreas/Programación/Paradigmas/1. Paradigma.md",
-    "Áreas/Programación/Paradigmas/2. Multiparadigma.md",
-    "Áreas/Programación/Paradigmas/1.1 Tipos de paradigmas.md",
-    "Áreas/Programación/Tecnologías/Java/1. Java.md",
-    "Áreas/Programación/Tecnologías/Docker/1. Docker.md",
-    "Áreas/Programación/Tecnologías/Git/1. Git.md",
-    "Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
-    "Proyectos/Sura/Portal de comisiones/Tareas",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas",
     "Proyectos/Personales",
-    "Proyectos/Sura",
-    "Proyectos/Sura/Portal de comisiones",
-    "Proyectos/Sura/Portal de comisiones",
-    "Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md~",
-    "Áreas/Programación/Patrones de diseño",
+    "1. Proyectos/Sura",
+    "1. Proyectos/Sura/Portal de comisiones",
     "Sin título.canvas",
     "2. Áreas/Programación/Tecnologías/Java/Sin título.canvas",
-    "Áreas/Programación/Sistemas operativos/Imagenes/Pasted image 20240325103818.png",
-    "Áreas/Programación/Tecnologías/Nginx",
-    "Áreas/Programación/Tecnologías/RabbitMQ",
     "Sin título 2.canvas",
     "Sin título 1.canvas",
     "Pasted image 20240229142852.png",
