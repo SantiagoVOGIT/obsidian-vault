@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md",
+                "file": "2. Áreas/Programación/Lógica de programación/1.11.1.4 Carácter.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md",
+                "file": "2. Áreas/Programación/Lógica de programación/1.11.1.4 Carácter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md",
+                "file": "2. Áreas/Programación/Lógica de programación/1.11.1.4 Carácter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md"
+                "file": "2. Áreas/Programación/Lógica de programación/1.11.1.4 Carácter.md"
               }
             }
           },
@@ -179,32 +179,32 @@
   },
   "active": "4b2af2fbafa36630",
   "lastOpenFiles": [
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/1 - Estimaciones.md",
-    "2. Áreas/Programación/Conceptos de programación/2.3.2 Tipado débil.md",
-    "2. Áreas/Programación/Conceptos de programación/2.3.1 Tipado fuerte.md",
-    "2. Áreas/Programación/Conceptos de programación/2.3 Tipado.md",
-    "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
-    "2. Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md",
-    "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
-    "2. Áreas/Programación/Conceptos de programación/2.4.4 kebab-case.md",
-    "2. Áreas/Programación/Conceptos de programación/2.4.5 SCREAMING_SNAKE_CASE.md",
-    "2. Áreas/Programación/Conceptos de programación/2.6 Nivel de abstracción.md",
-    "2. Áreas/Programación/Conceptos de programación/2.5 Tipo de paradigma.md",
-    "2. Áreas/Programación/Conceptos de programación/2.6.1 Bajo nivel.md",
-    "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
-    "2. Áreas/Programación/Conceptos de programación/2.4 Notaciones.md",
-    "2. Áreas/Programación/Conceptos de programación/2.3.4 Tipado dinámico.md",
-    "2. Áreas/Programación/Conceptos de programación/2.3.3 Tipado estático.md",
+    "2. Áreas/Programación/Lógica de programación/1.11.1.2 Números reales.md",
+    "2. Áreas/Programación/Lógica de programación/1.11.1.1 Números enteros.md",
+    "2. Áreas/Programación/Lógica de programación/1.11.1 Estructuras de datos primitivas.md",
+    "2. Áreas/Programación/Lógica de programación/1.11.1.4 Carácter.md",
+    "2. Áreas/Programación/Lógica de programación/1.11.1.5 Cadena de caracteres.md",
+    "2. Áreas/Programación/Lógica de programación/1.11.1.6 Booleano.md",
     "2. Áreas/Programación/Lógica de programación/1.6 Valores.md",
+    "2. Áreas/Programación/Lógica de programación/1.8.1 Operadores aritméticos.md",
+    "2. Áreas/Programación/Lógica de programación/1.8 Operadores.md",
+    "2. Áreas/Programación/Lógica de programación/1.7.2 Datos no literales.md",
+    "2. Áreas/Programación/Lógica de programación/1.7.1 Datos literales.md",
     "2. Áreas/Programación/Lógica de programación/1.7 Tipos de datos.md",
-    "2. Áreas/Programación/Sistemas operativos/Memoria.md",
-    "2. Áreas/Programación/Sistemas operativos/1. Sistemas operativos.md",
-    "2. Áreas/Programación/Conceptos de programación/2.2 Semántica.md",
-    "2. Áreas/Programación/Conceptos de programación/4. Programa.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Recursos - 1.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Criterios - 1.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Actividades - 1.md",
+    "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md",
+    "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md",
+    "2. Áreas/Programación/Lógica de programación/2. Algoritmo.md",
+    "2. Áreas/Programación/Lógica de programación/1.11.2 Estructuras de datos lineales.md",
+    "2. Áreas/Programación/Lógica de programación/1.11.3 Estructuras de datos no lineales.md",
+    "2. Áreas/Programación/Lógica de programación/1.8.4 Operadores lógicos.md",
+    "2. Áreas/Programación/Lógica de programación/1.11 Estructuras de datos.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tablero - Portal de comisiones.md",
+    "2. Áreas/Programación/Tecnologías/Java/6.1 Aritméticos.md",
+    "2. Áreas/Programación/Tecnologías/Java/6. Operadores.md",
+    "2. Áreas/Programación/Tecnologías/Java/JAR.md",
+    "2. Áreas/Programación/Tecnologías/Java/JRE.md",
+    "2. Áreas/Programación/Tecnologías/Java/JVM.md",
+    "2. Áreas/Programación/Tecnologías/Java/Javac.md",
     "2. Áreas/Programación/Tecnologías/Java/Lombok",
     "2. Áreas/Programación/Tecnologías/Java/🌶️ Lombok",
     "2. Áreas/Programación/Sistemas operativos/Pasted image 20240325103818.png",

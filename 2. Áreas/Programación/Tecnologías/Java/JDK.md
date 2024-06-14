@@ -5,15 +5,15 @@ aliases:
 tags:
   - Programación
 ---
-El [[5. JDK|JDK]] (Java Development Kit) es un conjunto de herramientas de desarrollo de software proporcionadas por Oracle para crear programas en el lenguaje de programación [[1. Java|Java]] de manera sencilla y concisa, el JDK incluye lo siguiente:
+El [[JDK|JDK]] (Java Development Kit) es un conjunto de herramientas de desarrollo de software proporcionadas por Oracle para crear programas en el lenguaje de programación [[1. Java|Java]] de manera sencilla y concisa, el JDK incluye lo siguiente:
 
 ###### índice 
 
-- [[5.1 Javadoc]]
-- [[5.2 Javac]]
-- [[5.3 JVM]]
-- [[5.4 JRE]]
-- [[5.5 JAR]]
+- [[Javadoc]]
+- [[Javac]]
+- [[JVM]]
+- [[JRE]]
+- [[JAR]]
 
 ###### Anotaciones:
 

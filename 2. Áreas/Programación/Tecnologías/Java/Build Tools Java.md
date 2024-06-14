@@ -7,8 +7,8 @@ tags:
 
 **Índice:**
 
-- [[4.1 Maven]]
-- [[4.2 Gradle]]
+- [[Maven]]
+- [[Gradle]]
 
 ###### Recursos:
 

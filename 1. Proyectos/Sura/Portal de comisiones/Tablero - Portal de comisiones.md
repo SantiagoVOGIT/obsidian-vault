@@ -8,13 +8,11 @@ tags:
 
 ## Por hacer
 
-^8f1e8b
-
-- [ ] [[1 - Estimaciones]]
 
 
 ## En progreso
 
+- [ ] [[1 - Estimaciones]]
 
 
 ## Terminada

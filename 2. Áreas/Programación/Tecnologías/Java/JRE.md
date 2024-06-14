@@ -7,11 +7,11 @@ tags:
 ---
 ###### Concepto:
 
-El [[5.4 JRE|JRE]] (Java Runtime Environment) es un conjunto de software que permite ejecutar programas [[1. Java|Java]] en un sistema operativo compatible. 
+El [[JRE|JRE]] (Java Runtime Environment) es un conjunto de software que permite ejecutar programas [[1. Java|Java]] en un sistema operativo compatible. 
 
 El JRE incluye:
 
-- **La [[Maquina virtual|maquina virtual]] de Java ([[5.3 JVM|JVM]]):** Es el componente clave que ejecuta el bytecode Java compilado.
+- **La [[Maquina virtual|maquina virtual]] de Java ([[JVM|JVM]]):** Es el componente clave que ejecuta el bytecode Java compilado.
 
 - **Bibliotecas de clases Java:** Son las [[6. Biblioteca|librerías]] base de Java que proporcionan funcionalidades comunes como manejo de entrada/salida, redes, interfaz gráfica, etc.
 

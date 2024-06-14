@@ -7,7 +7,7 @@ tags:
 ---
 ###### Concepto:
 
-El archivo [[5.5 JAR|JAR]] (Java Archive) en [[1. Java|Java]] es un formato de archivo que se utiliza para empaquetar y distribuir clases, recursos y metadatos relacionados en una sola unidad. 
+El archivo [[JAR|JAR]] (Java Archive) en [[1. Java|Java]] es un formato de archivo que se utiliza para empaquetar y distribuir clases, recursos y metadatos relacionados en una sola unidad. 
 
 ###### Características: 
 
