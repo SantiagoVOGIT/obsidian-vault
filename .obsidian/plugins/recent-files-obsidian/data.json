@@ -1,160 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "1.11.1.4 Carácter",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.4 Carácter.md"
+      "basename": "Backend",
+      "path": "1. Proyectos/FastApiProject/Backend.md"
     },
     {
-      "basename": "1.11.1.2 Números reales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.2 Números reales.md"
+      "basename": "Frontend",
+      "path": "1. Proyectos/FastApiProject/Frontend.md"
     },
     {
-      "basename": "1.11.1.1 Números enteros",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.1 Números enteros.md"
+      "basename": "General",
+      "path": "1. Proyectos/FastApiProject/General.md"
     },
     {
-      "basename": "1.11.1 Estructuras de datos primitivas",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1 Estructuras de datos primitivas.md"
+      "basename": "Notas - 1",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md"
     },
     {
-      "basename": "1.11.1.5 Cadena de caracteres",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.5 Cadena de caracteres.md"
+      "basename": "Recursos - 1",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Recursos - 1.md"
     },
     {
-      "basename": "1.11.1.6 Booleano",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.6 Booleano.md"
+      "basename": "10. Conventional Commits",
+      "path": "2. Áreas/Programación/Tecnologías/Git/10. Conventional Commits.md"
     },
     {
-      "basename": "1.6 Valores",
-      "path": "2. Áreas/Programación/Lógica de programación/1.6 Valores.md"
+      "basename": "Tablero -  Proyectos",
+      "path": "1. Proyectos/Tablero -  Proyectos.md"
     },
     {
-      "basename": "1.8.1 Operadores aritméticos",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8.1 Operadores aritméticos.md"
+      "basename": "2.8.2 Especifico (DSL)",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.8.2 Especifico (DSL).md"
     },
     {
-      "basename": "1.8 Operadores",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8 Operadores.md"
-    },
-    {
-      "basename": "1.7.2 Datos no literales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.7.2 Datos no literales.md"
-    },
-    {
-      "basename": "1.7.1 Datos literales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.7.1 Datos literales.md"
-    },
-    {
-      "basename": "1.7 Tipos de datos",
-      "path": "2. Áreas/Programación/Lógica de programación/1.7 Tipos de datos.md"
-    },
-    {
-      "basename": "1.1 Pensamiento computacional",
-      "path": "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md"
-    },
-    {
-      "basename": "1. Fundamentos de programación",
-      "path": "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md"
-    },
-    {
-      "basename": "2. Algoritmo",
-      "path": "2. Áreas/Programación/Lógica de programación/2. Algoritmo.md"
-    },
-    {
-      "basename": "1.11.2 Estructuras de datos lineales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.2 Estructuras de datos lineales.md"
-    },
-    {
-      "basename": "1.11.3 Estructuras de datos no lineales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.3 Estructuras de datos no lineales.md"
-    },
-    {
-      "basename": "1.8.4 Operadores lógicos",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8.4 Operadores lógicos.md"
-    },
-    {
-      "basename": "1.11 Estructuras de datos",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11 Estructuras de datos.md"
-    },
-    {
-      "basename": "Tablero - Portal de comisiones",
-      "path": "1. Proyectos/Sura/Portal de comisiones/Tablero - Portal de comisiones.md"
-    },
-    {
-      "basename": "6.1 Aritméticos",
-      "path": "2. Áreas/Programación/Tecnologías/Java/6.1 Aritméticos.md"
-    },
-    {
-      "basename": "6. Operadores",
-      "path": "2. Áreas/Programación/Tecnologías/Java/6. Operadores.md"
-    },
-    {
-      "basename": "JAR",
-      "path": "2. Áreas/Programación/Tecnologías/Java/JAR.md"
-    },
-    {
-      "basename": "JRE",
-      "path": "2. Áreas/Programación/Tecnologías/Java/JRE.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "2. Áreas/Programación/Tecnologías/Java/JVM.md"
-    },
-    {
-      "basename": "Javac",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Javac.md"
-    },
-    {
-      "basename": "Javadoc",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Javadoc.md"
-    },
-    {
-      "basename": "JDK",
-      "path": "2. Áreas/Programación/Tecnologías/Java/JDK.md"
-    },
-    {
-      "basename": "Gradle",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Gradle.md"
-    },
-    {
-      "basename": "Maven",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Maven.md"
-    },
-    {
-      "basename": "Build Tools Java",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Build Tools Java.md"
-    },
-    {
-      "basename": "Java EE",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Java EE.md"
-    },
-    {
-      "basename": "1. Java",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1. Java.md"
-    },
-    {
-      "basename": "9. Bucles (Java)",
-      "path": "2. Áreas/Programación/Tecnologías/Java/9. Bucles (Java).md"
-    },
-    {
-      "basename": "8. Condicionales",
-      "path": "2. Áreas/Programación/Tecnologías/Java/8. Condicionales.md"
-    },
-    {
-      "basename": "13.2.1 Public",
-      "path": "2. Áreas/Programación/Tecnologías/Java/13.2.1 Public.md"
-    },
-    {
-      "basename": "13.2.3 Protected",
-      "path": "2. Áreas/Programación/Tecnologías/Java/13.2.3 Protected.md"
-    },
-    {
-      "basename": "2.6.3 Alto nivel",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.6.3 Alto nivel.md"
-    },
-    {
-      "basename": "2.7 Conversión",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7 Conversión.md"
+      "basename": "2.8.1 General (GPL)",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.8.1 General (GPL).md"
     },
     {
       "basename": "2.7.3 Interpretado o compilado",
@@ -169,8 +49,44 @@
       "path": "2. Áreas/Programación/Conceptos de programación/2.7.1 Compilado.md"
     },
     {
-      "basename": "2.6.2 Medio nivel",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.6.2 Medio nivel.md"
+      "basename": "2.7 Conversión",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7 Conversión.md"
+    },
+    {
+      "basename": "2.6.3 Alto nivel",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.6.3 Alto nivel.md"
+    },
+    {
+      "basename": "2.1 Sintaxis",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md"
+    },
+    {
+      "basename": "2. Clasificación de los lenguajes",
+      "path": "2. Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md"
+    },
+    {
+      "basename": "1. Imperativo",
+      "path": "2. Áreas/Programación/Paradigmas/Imperativos/1. Imperativo.md"
+    },
+    {
+      "basename": "3. Reactivo",
+      "path": "2. Áreas/Programación/Paradigmas/Declarativos/3. Reactivo.md"
+    },
+    {
+      "basename": "2. Funcional",
+      "path": "2. Áreas/Programación/Paradigmas/Declarativos/2. Funcional.md"
+    },
+    {
+      "basename": "2. Multiparadigma",
+      "path": "2. Áreas/Programación/Paradigmas/2. Multiparadigma.md"
+    },
+    {
+      "basename": "1.1 Tipos de paradigmas",
+      "path": "2. Áreas/Programación/Paradigmas/1.1 Tipos de paradigmas.md"
+    },
+    {
+      "basename": "1. Paradigma",
+      "path": "2. Áreas/Programación/Paradigmas/1. Paradigma.md"
     },
     {
       "basename": "2.6.1 Bajo nivel",
@@ -181,24 +97,100 @@
       "path": "2. Áreas/Programación/Conceptos de programación/2.6 Nivel de abstracción.md"
     },
     {
-      "basename": "1. Declarativo",
-      "path": "2. Áreas/Programación/Paradigmas/Declarativos/1. Declarativo.md"
-    },
-    {
-      "basename": "9. Dominio",
-      "path": "2. Áreas/Programación/Conceptos de programación/9. Dominio.md"
-    },
-    {
       "basename": "2.5 Tipo de paradigma",
       "path": "2. Áreas/Programación/Conceptos de programación/2.5 Tipo de paradigma.md"
+    },
+    {
+      "basename": "2.4.5 SCREAMING_SNAKE_CASE",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4.5 SCREAMING_SNAKE_CASE.md"
     },
     {
       "basename": "2.4.4 kebab-case",
       "path": "2. Áreas/Programación/Conceptos de programación/2.4.4 kebab-case.md"
     },
     {
-      "basename": "2.4.5 SCREAMING_SNAKE_CASE",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4.5 SCREAMING_SNAKE_CASE.md"
+      "basename": "2.4.3 snake_case",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md"
+    },
+    {
+      "basename": "2.3.3 Tipado estático",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.3.3 Tipado estático.md"
+    },
+    {
+      "basename": "2.3.2 Tipado débil",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.3.2 Tipado débil.md"
+    },
+    {
+      "basename": "2.3.1 Tipado fuerte",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.3.1 Tipado fuerte.md"
+    },
+    {
+      "basename": "8. Error Handling",
+      "path": "2. Áreas/Programación/Conceptos de programación/8. Error Handling.md"
+    },
+    {
+      "basename": "10. Documentación",
+      "path": "2. Áreas/Programación/Conceptos de programación/10. Documentación.md"
+    },
+    {
+      "basename": "9. Dominio",
+      "path": "2. Áreas/Programación/Conceptos de programación/9. Dominio.md"
+    },
+    {
+      "basename": "7. Framework",
+      "path": "2. Áreas/Programación/Conceptos de programación/7. Framework.md"
+    },
+    {
+      "basename": "2.4 Notaciones",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4 Notaciones.md"
+    },
+    {
+      "basename": "2.3.4 Tipado dinámico",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.3.4 Tipado dinámico.md"
+    },
+    {
+      "basename": "2.7.4 Transpilación",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md"
+    },
+    {
+      "basename": "1. Lenguaje de programación",
+      "path": "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md"
+    },
+    {
+      "basename": "2.4.2 PascalCase",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4.2 PascalCase.md"
+    },
+    {
+      "basename": "Portal de comisiones",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Portal de comisiones.md"
+    },
+    {
+      "basename": "2.8 Propósito",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.8 Propósito.md"
+    },
+    {
+      "basename": "2.6.2 Medio nivel",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.6.2 Medio nivel.md"
+    },
+    {
+      "basename": "1.8.3 Operadores de comparación",
+      "path": "2. Áreas/Programación/Lógica de programación/1.8.3 Operadores de comparación.md"
+    },
+    {
+      "basename": "1.8.2 Operadores de asignación",
+      "path": "2. Áreas/Programación/Lógica de programación/1.8.2 Operadores de asignación.md"
+    },
+    {
+      "basename": "1.8.1 Operadores aritméticos",
+      "path": "2. Áreas/Programación/Lógica de programación/1.8.1 Operadores aritméticos.md"
+    },
+    {
+      "basename": "1.8 Operadores",
+      "path": "2. Áreas/Programación/Lógica de programación/1.8 Operadores.md"
+    },
+    {
+      "basename": "Concurrencia",
+      "path": "2. Áreas/Programación/Conceptos de programación/Concurrencia.md"
     }
   ],
   "omittedPaths": [],
