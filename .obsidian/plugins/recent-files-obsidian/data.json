@@ -13,6 +13,26 @@
       "path": "1. Proyectos/FastApiProject/General.md"
     },
     {
+      "basename": "1. Arquitectura hexagonal",
+      "path": "2. Áreas/Programación/Arquitectura/Micro/Arquitectura hexagonal/1. Arquitectura hexagonal.md"
+    },
+    {
+      "basename": "1. Vertical Slicing",
+      "path": "2. Áreas/Programación/Arquitectura/Micro/Vertical Slicing/1. Vertical Slicing.md"
+    },
+    {
+      "basename": "1. Lenguaje de programación",
+      "path": "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md"
+    },
+    {
+      "basename": "1. Screaming",
+      "path": "2. Áreas/Programación/Arquitectura/Micro/Screaming/1. Screaming.md"
+    },
+    {
+      "basename": "1. Arquitectura",
+      "path": "2. Áreas/Programación/Arquitectura/1. Arquitectura.md"
+    },
+    {
       "basename": "Notas - 1",
       "path": "1. Proyectos/Sura/Portal de comisiones/Tareas/1 - Estimaciones/Notas - 1.md"
     },
@@ -153,10 +173,6 @@
       "path": "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md"
     },
     {
-      "basename": "1. Lenguaje de programación",
-      "path": "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md"
-    },
-    {
       "basename": "2.4.2 PascalCase",
       "path": "2. Áreas/Programación/Conceptos de programación/2.4.2 PascalCase.md"
     },
@@ -183,14 +199,6 @@
     {
       "basename": "1.8.1 Operadores aritméticos",
       "path": "2. Áreas/Programación/Lógica de programación/1.8.1 Operadores aritméticos.md"
-    },
-    {
-      "basename": "1.8 Operadores",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8 Operadores.md"
-    },
-    {
-      "basename": "Concurrencia",
-      "path": "2. Áreas/Programación/Conceptos de programación/Concurrencia.md"
     }
   ],
   "omittedPaths": [],
