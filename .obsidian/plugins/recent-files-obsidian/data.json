@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "General",
+      "path": "1. Proyectos/FastApiProject/General.md"
+    },
+    {
       "basename": "Backend",
       "path": "1. Proyectos/FastApiProject/Backend.md"
     },
     {
       "basename": "Frontend",
       "path": "1. Proyectos/FastApiProject/Frontend.md"
-    },
-    {
-      "basename": "General",
-      "path": "1. Proyectos/FastApiProject/General.md"
     },
     {
       "basename": "1. Arquitectura hexagonal",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Proyectos/FastApiProject/Backend.md",
+                "file": "1. Proyectos/FastApiProject/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Proyectos/FastApiProject/Frontend.md",
+                "file": "1. Proyectos/FastApiProject/Backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Proyectos/FastApiProject/Backend.md",
+                "file": "1. Proyectos/FastApiProject/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Proyectos/FastApiProject/Backend.md",
+                "file": "1. Proyectos/FastApiProject/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Proyectos/FastApiProject/Backend.md"
+                "file": "1. Proyectos/FastApiProject/General.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "521fe63410eb19c8",
   "lastOpenFiles": [
-    "1. Proyectos/FastApiProject/Frontend.md",
     "1. Proyectos/FastApiProject/Backend.md",
+    "1. Proyectos/FastApiProject/Frontend.md",
     "1. Proyectos/FastApiProject/General.md",
     "2. Áreas/Programación/Arquitectura/Micro/Arquitectura hexagonal/1. Arquitectura hexagonal.md",
     "2. Áreas/Programación/Arquitectura/Micro/Vertical Slicing/1. Vertical Slicing.md",

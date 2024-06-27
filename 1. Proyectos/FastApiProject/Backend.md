@@ -12,14 +12,16 @@
 - Convención camelCase
 - 0 Código fuera del scope de la clase
 - Tipado fuerte para métodos, atributos, constantes y variables
-- Asignación de `__` para métodos que deben encapsularse de manera privada por su naturaleza. Ejemplo: `__hola`
+- Asignación de `__` para métodos y atributos que deben encapsularse de manera privada por su naturaleza. Ejemplo: `__hola`
 - Asignación de `@staticmethod` para métodos que deben ser estáticos por su naturaleza
-- Si es un método es estático se le asigna un `_` al final. Ejemplo: `hola_`
-- Siempre se declaran primero los atributos de clase en la parte superior con `__` similar a Java. Ejemplo: `__nombre: str`
+- Siempre se declaran primero los atributos de clase en la parte superior con `__` similar a Java. y se le asigna el tipo de dato Ejemplo: `__nombre: str`
 - Para usar algo de una clase en otra, únicamente se puede usar importando la clase directamente. Ejemplo: `from src.domain.model.Persona import Persona`. No se permite importar métodos o atributos directamente.
 - Para atributos  que por su naturaleza deban ser constantes se usa SCREAMING_SNAKE_CASE y estos atributos constantes no se ponen en ninguna parte del constructor
-- No está permitido asignar métodos como atributos en el constructor. Ejemplo: `self.__setupRoutes_()`. Solo se pueden poner métodos como el valor de un atributo. Ejemplo: `self.__id = self.__generateId()`. Aqui te dejo un ejemplo de una clase generica que aplica estos dogmas:
+- No está permitido asignar métodos como atributos en el constructor. Ejemplo: `self.__setupRoutes()`. Solo se pueden poner métodos como el valor de un atributo, más no un atributo en el constructor así porque si. Ejemplo: `self.__id = self.__generateId()`, esto es correcto, `self.metodo()` esto es incororecto. 
 - No deben haber if anidados, se usa guard clauses u otra estrategia que veas correcta. pero que no implique anidar if
+- No se permite usas @classmethod
+- Se tipa fuertemente con `typing`
+- Aqui te dejo un ejemplo de una clase generica que aplica estos dogmas:
 
 ```
 import random  
@@ -28,7 +30,7 @@ import random
 class Persona:  
     # Constant  
     __GREETING = "Hola cómo estas?!"  
-  
+  a
     # Class attributes  
     __id = int  
     __name: str  
@@ -78,7 +80,7 @@ class Persona:
   
     #static methods  
     @staticmethod  
-    def greet_() -> str:  
+    def greet() -> str:  
         return Persona.__GREETING
 ```
 
