@@ -2,7 +2,7 @@
 
 kanban-plugin: board
 tags:
-  - Proyectos
+  - proyectos
 
 ---
 
@@ -12,7 +12,7 @@ tags:
 
 ## En progreso
 
-- [ ] [[1 - Estimaciones]]
+- [ ] [[560655 - Estimación]]
 
 
 ## Terminada

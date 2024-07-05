@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - Proyectos
+  - proyectos
 ---
 - [x] **1. Creación de pipelines:** ✅ 2024-02-28
 

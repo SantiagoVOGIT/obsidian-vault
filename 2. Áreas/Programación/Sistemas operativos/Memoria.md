@@ -2,7 +2,7 @@
 aliases:
   - memoria
 tags:
-  - Programación
+  - programación
 ---
 ###### Concepto:
 

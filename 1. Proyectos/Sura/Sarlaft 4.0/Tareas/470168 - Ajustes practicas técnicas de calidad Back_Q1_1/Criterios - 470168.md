@@ -1,6 +1,6 @@
 ---
 tags:
-  - Proyectos
+  - proyectos
 ---
 - [x] Los microservicios de Sarlaftapi, SarlaftEngine deben tener su pipeline de despliegue con la ultima versión de la plantilla de despliegues Gerencia_Tecnologia/ti-templates_pipelines-conf (branch master) para los ambientes de desarrollo, laboratorio y producción. ✅ 2024-02-28
 

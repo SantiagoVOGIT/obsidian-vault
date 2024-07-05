@@ -1,6 +1,6 @@
 ---
 tags:
-  - Proyectos
+  - proyectos
 ---
 **Pipelines:**
 

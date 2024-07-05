@@ -3,7 +3,7 @@ aliases:
   - JAR
   - Java Archive
 tags:
-  - Programación
+  - programación
 ---
 ###### Concepto:
 

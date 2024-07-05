@@ -1,5 +1,5 @@
 ---
 tags:
-  - Proyectos
+  - proyectos
 ---
 ###### Repositorios:

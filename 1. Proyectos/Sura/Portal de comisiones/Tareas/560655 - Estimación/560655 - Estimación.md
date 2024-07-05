@@ -1,6 +1,6 @@
 ---
 tags:
-  - Proyectos
+  - proyectos
 ---
 ###### Fecha de inicio: #2024/06
 ###### Fecha de finalización: 
@@ -11,7 +11,7 @@ tags:
 
 ###### índice:
 
-- [[Actividades - 1]]
-- [[Criterios - 1]]
-- [[Notas - 1]]
-- [[Recursos - 1]]
+- [[Actividades - 560655]]
+- [[Criterios - 560655]]
+- [[Notas - 560655]]
+- [[Recursos - 560655]]

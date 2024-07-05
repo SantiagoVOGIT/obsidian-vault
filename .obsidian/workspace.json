@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9a2adf8a3d8f54",
+        "id": "f8bd4dbd625e3555",
         "type": "tabs",
         "children": [
           {
-            "id": "521fe63410eb19c8",
+            "id": "4e917de43b30aa67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Áreas/Programación/Tecnologías/Git/3.3 Preparado (Staged).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9af0a6e6ed78a8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Áreas/Programación/Conceptos de programación/Depuración.md",
+                "file": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "commits",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 374.5
   },
   "right": {
     "id": "61e791cac8cc3af0",
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Áreas/Programación/Tecnologías/Git/3.3 Preparado (Staged).md",
+                "file": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Áreas/Programación/Tecnologías/Git/3.3 Preparado (Staged).md",
+                "file": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Áreas/Programación/Tecnologías/Git/3.3 Preparado (Staged).md"
+                "file": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md"
               }
             }
           },
@@ -189,38 +177,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "521fe63410eb19c8",
+  "active": "4e917de43b30aa67",
   "lastOpenFiles": [
-    "README.md",
-    "2. Áreas/Programación/Tecnologías/Git/3.4 Confirmado (Committed).md",
-    "2. Áreas/Programación/Tecnologías/Git/4. Commit.md",
-    "2. Áreas/Programación/Tecnologías/Git/3.1 No modificado (Unmodified).md",
-    "2. Áreas/Programación/Tecnologías/Git/3.2 Modificado (Modified).md",
-    "2. Áreas/Programación/Tecnologías/Git/3.3 Preparado (Staged).md",
-    "2. Áreas/Programación/Tecnologías/Git/3. Estados.md",
-    "2. Áreas/Programación/Tecnologías/Git/2. Repositorio.md",
-    "2. Áreas/Programación/Tecnologías/Git/1. Git.md",
-    "2. Áreas/Programación/Cloud/1. Cloud.md",
-    "2. Áreas/Programación/Arquitectura/Macro/1. Macro.md",
-    "2. Áreas/Programación/Cloud",
-    "2. Áreas/Programación/Tecnologías/Sin nombre",
-    "1. Proyectos/FastApiProject/Frontend.md",
-    "2. Áreas/Programación/Arquitectura/Macro",
-    "1. Proyectos/FastApiProject/Backend.md",
-    "2. Áreas/Programación/Dev Ops/1. Dev Ops.md",
-    "2. Áreas/Programación/Arquitectura/1. Arquitectura.md",
-    "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md",
-    "assets",
     "2. Áreas/Programación/Conceptos de programación/2.7.3 Hibrido.md",
-    "2. Áreas/Programación/Conceptos de programación/2.6.3 Alto nivel.md",
-    "2. Áreas/Inglés/1. Inglés.md",
-    "3. Notas abstractas/Codely TV (contenido de valor).md",
-    "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
-    "2. Áreas/Programación/Conceptos de programación/2.7 Tipo de traducción.md",
+    "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md",
     "2. Áreas/Programación/Conceptos de programación/2.8 Propósito.md",
-    "2. Áreas/Programación/Lógica de programación/1.11.1.5 Cadena de caracteres.md",
+    "2. Áreas/Programación/Sistemas operativos/Lenguaje binario.md",
+    "Assets/Assets.md",
+    "2. Áreas/Programación/Cloud Computing/1. Cloud Computing.md",
+    "README.md",
+    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
+    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md",
+    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios - 470168.md",
+    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Actividades - 470168.md",
+    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md",
+    "1. Proyectos/Sura/Portal de comisiones/Portal de comisiones.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tablero - Portal de comisiones.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Criterios - 560655.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Notas - 560655.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Recursos - 560655.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Actividades - 560655.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/560655 - Estimación.md",
+    "3. Notas abstractas/Codely TV (contenido de valor).md",
+    "2. Áreas/Inglés/1. Inglés.md",
     "2. Áreas/Programación/Conceptos de programación/Depuración.md",
-    "2. Áreas/Programación/Conceptos de programación/2.7.2 Interpretado.md",
+    "1. Proyectos/Tablero -  Proyectos.md",
+    "2. Áreas/Programación/Dev Ops/1. Dev Ops.md",
+    "1. Proyectos/FastApiProject/Backend.md",
+    "2. Áreas/Programación/Bases de datos/1. Bases de datos.md",
+    "2. Áreas/Programación/Cloud Computing",
+    "2. Áreas/Programación/Tecnologías/Sin nombre",
+    "2. Áreas/Programación/Arquitectura/Macro",
+    "Assets",
     "3. Notas abstractas",
     "2. Áreas/Programación/Metodologías/DDD",
     "2. Áreas/Programación/Metodologías",

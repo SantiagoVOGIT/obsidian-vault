@@ -1,6 +1,6 @@
 ---
 tags:
-  - Proyectos
+  - proyectos
 ---
 ###### Fecha de inicio: #2024/02
 ###### Fecha de finalización:  #2024/05 

@@ -32,8 +32,6 @@
     "debugMode": false,
     "iconInTitlePosition": "above"
   },
-  "1. Proyectos/Sura/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1": "BoBxTask",
-  "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1": "BoBxTask",
   "2. Áreas/Inglés": "RiBookMarkedLine",
   "2. Áreas/Programación": "BoBxCodeBlock",
   "2. Áreas/Programación/Arquitectura": "RiBuilding3Line",
@@ -74,5 +72,5 @@
   "2. Áreas/Programación/Tecnologías/Java/JUnit": "BoBxTestTube",
   "2. Áreas/Programación/Tecnologías/SQL/PostgreSQL": "BoBxlPostgresql",
   "2. Áreas/Programación/Metodologías": "RiUserSettingsLine",
-  "2. Áreas/Programación/Cloud": "RiCloudLine"
+  "2. Áreas/Programación/Cloud Computing": "RiCloudLine"
 }

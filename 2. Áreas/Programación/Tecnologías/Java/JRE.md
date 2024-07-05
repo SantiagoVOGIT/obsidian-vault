@@ -3,7 +3,7 @@ aliases:
   - JRE
   - Java Runtime Environment
 tags:
-  - Programación
+  - programación
 ---
 ###### Concepto:
 

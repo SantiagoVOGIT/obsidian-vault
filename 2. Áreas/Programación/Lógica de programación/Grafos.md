@@ -2,7 +2,7 @@
 aliases:
   - grafo
 tags:
-  - Programación
+  - programación
 ---
 ###### Concepto:
 

@@ -2,7 +2,7 @@
 aliases:
   - Javac
 tags:
-  - Programación
+  - programación
 ---
 ###### Concepto:
 

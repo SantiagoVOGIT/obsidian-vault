@@ -2,7 +2,7 @@
 aliases:
   - Sarlaft 4.0
 tags:
-  - Proyectos
+  - proyectos
 ---
 ###### Fecha de inicio: #2024/02
 ###### Fecha de finalización:

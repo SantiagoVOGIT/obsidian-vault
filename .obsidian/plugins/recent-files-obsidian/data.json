@@ -1,6 +1,130 @@
 {
   "recentFiles": [
     {
+      "basename": "2.4.1 camelCase",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md"
+    },
+    {
+      "basename": "2.7.3 Hibrido",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7.3 Hibrido.md"
+    },
+    {
+      "basename": "2.7.4 Transpilación",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md"
+    },
+    {
+      "basename": "2.8 Propósito",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.8 Propósito.md"
+    },
+    {
+      "basename": "Lenguaje binario",
+      "path": "2. Áreas/Programación/Sistemas operativos/Lenguaje binario.md"
+    },
+    {
+      "basename": "Assets",
+      "path": "Assets/Assets.md"
+    },
+    {
+      "basename": "1. Cloud Computing",
+      "path": "2. Áreas/Programación/Cloud Computing/1. Cloud Computing.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Recursos - 470168",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md"
+    },
+    {
+      "basename": "Notas - 470168",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md"
+    },
+    {
+      "basename": "Criterios - 470168",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios - 470168.md"
+    },
+    {
+      "basename": "Actividades - 470168",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Actividades - 470168.md"
+    },
+    {
+      "basename": "470168 - Ajustes practicas técnicas de calidad Back_Q1_1",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md"
+    },
+    {
+      "basename": "Portal de comisiones",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Portal de comisiones.md"
+    },
+    {
+      "basename": "Tablero - Portal de comisiones",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Tablero - Portal de comisiones.md"
+    },
+    {
+      "basename": "Criterios - 560655",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Criterios - 560655.md"
+    },
+    {
+      "basename": "Notas - 560655",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Notas - 560655.md"
+    },
+    {
+      "basename": "Recursos - 560655",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Recursos - 560655.md"
+    },
+    {
+      "basename": "Actividades - 560655",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Actividades - 560655.md"
+    },
+    {
+      "basename": "560655 - Estimación",
+      "path": "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/560655 - Estimación.md"
+    },
+    {
+      "basename": "Codely TV (contenido de valor)",
+      "path": "3. Notas abstractas/Codely TV (contenido de valor).md"
+    },
+    {
+      "basename": "1. Inglés",
+      "path": "2. Áreas/Inglés/1. Inglés.md"
+    },
+    {
+      "basename": "Depuración",
+      "path": "2. Áreas/Programación/Conceptos de programación/Depuración.md"
+    },
+    {
+      "basename": "Tablero -  Proyectos",
+      "path": "1. Proyectos/Tablero -  Proyectos.md"
+    },
+    {
+      "basename": "1. Dev Ops",
+      "path": "2. Áreas/Programación/Dev Ops/1. Dev Ops.md"
+    },
+    {
+      "basename": "Backend",
+      "path": "1. Proyectos/FastApiProject/Backend.md"
+    },
+    {
+      "basename": "1. Bases de datos",
+      "path": "2. Áreas/Programación/Bases de datos/1. Bases de datos.md"
+    },
+    {
+      "basename": "1. No relacionales",
+      "path": "2. Áreas/Programación/Bases de datos/No relacionales/1. No relacionales.md"
+    },
+    {
+      "basename": "1. Macro",
+      "path": "2. Áreas/Programación/Arquitectura/Macro/1. Macro.md"
+    },
+    {
+      "basename": "2.7.2 Interpretado",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7.2 Interpretado.md"
+    },
+    {
+      "basename": "2.7.1 Compilado",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7.1 Compilado.md"
+    },
+    {
       "basename": "3.3 Preparado (Staged)",
       "path": "2. Áreas/Programación/Tecnologías/Git/3.3 Preparado (Staged).md"
     },
@@ -33,48 +157,16 @@
       "path": "2. Áreas/Programación/Tecnologías/Git/1. Git.md"
     },
     {
-      "basename": "1. Cloud",
-      "path": "2. Áreas/Programación/Cloud/1. Cloud.md"
-    },
-    {
-      "basename": "1. Macro",
-      "path": "2. Áreas/Programación/Arquitectura/Macro/1. Macro.md"
-    },
-    {
       "basename": "Frontend",
       "path": "1. Proyectos/FastApiProject/Frontend.md"
-    },
-    {
-      "basename": "Backend",
-      "path": "1. Proyectos/FastApiProject/Backend.md"
-    },
-    {
-      "basename": "1. Dev Ops",
-      "path": "2. Áreas/Programación/Dev Ops/1. Dev Ops.md"
     },
     {
       "basename": "1. Arquitectura",
       "path": "2. Áreas/Programación/Arquitectura/1. Arquitectura.md"
     },
     {
-      "basename": "2.7.4 Transpilación",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md"
-    },
-    {
-      "basename": "2.7.3 Hibrido",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.3 Hibrido.md"
-    },
-    {
       "basename": "2.6.3 Alto nivel",
       "path": "2. Áreas/Programación/Conceptos de programación/2.6.3 Alto nivel.md"
-    },
-    {
-      "basename": "1. Inglés",
-      "path": "2. Áreas/Inglés/1. Inglés.md"
-    },
-    {
-      "basename": "Codely TV (contenido de valor)",
-      "path": "3. Notas abstractas/Codely TV (contenido de valor).md"
     },
     {
       "basename": "2.1 Sintaxis",
@@ -85,24 +177,8 @@
       "path": "2. Áreas/Programación/Conceptos de programación/2.7 Tipo de traducción.md"
     },
     {
-      "basename": "2.8 Propósito",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.8 Propósito.md"
-    },
-    {
       "basename": "1.11.1.5 Cadena de caracteres",
       "path": "2. Áreas/Programación/Lógica de programación/1.11.1.5 Cadena de caracteres.md"
-    },
-    {
-      "basename": "Depuración",
-      "path": "2. Áreas/Programación/Conceptos de programación/Depuración.md"
-    },
-    {
-      "basename": "2.7.2 Interpretado",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.2 Interpretado.md"
-    },
-    {
-      "basename": "2.7.1 Compilado",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.1 Compilado.md"
     },
     {
       "basename": "2.6 Nivel de abstracción",
@@ -123,82 +199,6 @@
     {
       "basename": "2.4 Notaciones",
       "path": "2. Áreas/Programación/Conceptos de programación/2.4 Notaciones.md"
-    },
-    {
-      "basename": "2.3 Tipado",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3 Tipado.md"
-    },
-    {
-      "basename": "2.3.1 Tipado fuerte",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3.1 Tipado fuerte.md"
-    },
-    {
-      "basename": "2.4.1 camelCase",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md"
-    },
-    {
-      "basename": "2.4.2 PascalCase",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4.2 PascalCase.md"
-    },
-    {
-      "basename": "General",
-      "path": "1. Proyectos/FastApiProject/General.md"
-    },
-    {
-      "basename": "2.3.4 Tipado dinámico",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3.4 Tipado dinámico.md"
-    },
-    {
-      "basename": "2.3.3 Tipado estático",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3.3 Tipado estático.md"
-    },
-    {
-      "basename": "2.3.2 Tipado débil",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3.2 Tipado débil.md"
-    },
-    {
-      "basename": "2.2 Semántica",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.2 Semántica.md"
-    },
-    {
-      "basename": "2. Clasificación de los lenguajes",
-      "path": "2. Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md"
-    },
-    {
-      "basename": "1. Lenguaje de programación",
-      "path": "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md"
-    },
-    {
-      "basename": "2.4.5 SCREAMING_SNAKE_CASE",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4.5 SCREAMING_SNAKE_CASE.md"
-    },
-    {
-      "basename": "2.4.4 kebab-case",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4.4 kebab-case.md"
-    },
-    {
-      "basename": "2.4.3 snake_case",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md"
-    },
-    {
-      "basename": "Lenguaje binario",
-      "path": "2. Áreas/Programación/Sistemas operativos/Lenguaje binario.md"
-    },
-    {
-      "basename": "1. Sistemas operativos",
-      "path": "2. Áreas/Programación/Sistemas operativos/1. Sistemas operativos.md"
-    },
-    {
-      "basename": "Bytecode",
-      "path": "2. Áreas/Programación/Sistemas operativos/Bytecode.md"
-    },
-    {
-      "basename": "Lenguaje máquina",
-      "path": "2. Áreas/Programación/Sistemas operativos/Lenguaje máquina.md"
-    },
-    {
-      "basename": "1.7 Tipos de datos",
-      "path": "2. Áreas/Programación/Lógica de programación/1.7 Tipos de datos.md"
     }
   ],
   "omittedPaths": [],

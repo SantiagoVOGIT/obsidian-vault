@@ -2,23 +2,22 @@
 
 kanban-plugin: board
 tags:
-  - Proyectos
+  - proyectos
 
 ---
 
-###### Por hacer
+## Por hacer
 
-^c3a826
+- [ ] 
+
+
+## En progreso
 
 - [ ] [[Portal de comisiones]]
-
-
-###### En progreso
-
 - [ ] [[Sarlaft 4.0]]
 
 
-###### Terminada
+## Terminada
 
 
 

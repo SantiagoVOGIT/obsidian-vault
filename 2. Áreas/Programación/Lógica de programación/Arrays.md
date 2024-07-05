@@ -3,7 +3,7 @@ aliases:
   - arrays
   - array
 tags:
-  - Programación
+  - programación
 ---
 ###### Concepto:
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - Proyectos
+  - proyectos
 ---
 ###### Fecha de inicio: #2024/06 
 ###### Fecha de finalización:

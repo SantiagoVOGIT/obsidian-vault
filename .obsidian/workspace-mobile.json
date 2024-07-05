@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Áreas/Programación/Cloud/1. Cloud.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Áreas/Programación/Cloud/1. Cloud.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Áreas/Programación/Cloud/1. Cloud.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Áreas/Programación/Cloud/1. Cloud.md"
+            "file": "README.md"
           }
         }
       }
@@ -154,5 +154,21 @@
     }
   },
   "active": "c365fbead049e097",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "3. Notas abstractas/Codely TV (contenido de valor).md",
+    "assets/Assets.md",
+    "2. Áreas/Programación/Bases de datos/Relacionales/1. Relacionales.md",
+    "2. Áreas/Programación/Bases de datos/1. Bases de datos.md",
+    "1. Proyectos/Tablero -  Proyectos.md",
+    "2. Áreas/Programación/Cloud/1. Cloud.md",
+    "2. Áreas/Programación/Cloud Computing/1. Cloud.md",
+    "2. Áreas/Programación/Cloud Computing",
+    "README.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Recursos - 560655.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/560655 - Estimación.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Criterios - 560655.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Actividades - 560655.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Notas - 560655.md",
+    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación"
+  ]
 }

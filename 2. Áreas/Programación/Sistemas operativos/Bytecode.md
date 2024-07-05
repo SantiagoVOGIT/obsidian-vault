@@ -2,7 +2,7 @@
 aliases:
   - bytecode
 tags:
-  - Programación
+  - programación
 ---
 ###### Concepto:
 

@@ -1,7 +1,7 @@
 ---
 kanban-plugin: board
 tags:
-  - Proyectos
+  - proyectos
 ---
 
 ###### Por hacer

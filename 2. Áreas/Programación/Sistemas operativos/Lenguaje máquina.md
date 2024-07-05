@@ -2,7 +2,7 @@
 aliases:
   - lenguaje máquina
 tags:
-  - Programación
+  - programación
 ---
 ###### Concepto:
 

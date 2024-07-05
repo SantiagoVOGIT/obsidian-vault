@@ -3,7 +3,7 @@ aliases:
   - VM
   - maquina virtual
 tags:
-  - Programación
+  - programación
 ---
 ###### Concepto:
 
