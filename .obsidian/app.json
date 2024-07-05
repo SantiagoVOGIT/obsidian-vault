@@ -1,0 +1,17 @@
+{
+  "livePreview": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "Assets",
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
+}

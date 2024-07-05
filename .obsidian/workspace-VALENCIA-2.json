@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "58b0e59d943e550f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7c831a66a457316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d961a451eb0363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas rapídas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f18d495e6a2843c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "245df92fdeae3221",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3bfdcbd1b949a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a478cd83dab7f86a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ca46c7ded94b233",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3753029f06b2a26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a3dbbf3a2c75447",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "61e791cac8cc3af0",
+    "type": "split",
+    "children": [
+      {
+        "id": "110a927142c726a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48131571e1055fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas rapídas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c5c264794aad3be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas rapídas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f00227870869ac6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d40cd86efa3f8e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas rapídas.md"
+              }
+            }
+          },
+          {
+            "id": "f56d4083dfb2bd67",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "17d961a451eb0363",
+  "lastOpenFiles": [
+    "2. Áreas/Programación/Tecnologías/SQL/1. SQL.md",
+    "2. Áreas/Programación/Tecnologías/1. Tecnologías.md",
+    "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos.md",
+    "Guía metodología PARA.md",
+    "Notas rapídas.md",
+    "Tablero de tareas.md",
+    "2. Áreas/Programación/Lenguajes/2.9.1 General (GPL).md",
+    "2. Áreas/Programación/Lenguajes/2.9.2 Especifico (DSL).md",
+    "2. Áreas/Programación/Programación.md",
+    "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md",
+    "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas.md",
+    "1. Proyectos/Sarlaft 4.0/1. Sarlaft 4.0.md",
+    "Sin título.canvas",
+    "2. Áreas/Programación/Tecnologías/Java/1. Java.md",
+    "Pasted image 20240229142852.png",
+    "Sin título 1.canvas",
+    "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios.md",
+    "Pasted image 20240229142905.png",
+    "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Actividades.md",
+    "2. Áreas/Programación/Lenguajes/2.1 Sintaxis.md",
+    "2. Áreas/Programación/Lenguajes/2. Clasificación de los lenguajes.md",
+    "2. Áreas/Programación/Lenguajes/1. Lenguaje de programación.md",
+    "2. Áreas/Programación/Lenguajes/2.3 Tipo paradigma.md",
+    "2. Áreas/Programación/Lenguajes/2.4 Nivel de abstracción.md",
+    "2. Áreas/Programación/Paradigmas/1. Paradigmas.md",
+    "2. Áreas/Programación/Lenguajes/2.2 Semántica.md",
+    "2. Áreas/Programación/Lenguajes/2.4.2 Alto nivel.md",
+    "2. Áreas/Programación/Lenguajes/2.5 Portabilidad.md",
+    "2. Áreas/Programación/Lenguajes/2.4.3 Medio nivel.md",
+    "2. Áreas/Programación/Lenguajes/2.6 Rendimiento.md",
+    "Sin título 2.canvas",
+    "1. Proyectos/Sarlaft 4.0/Task/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Sin título",
+    "1. Proyectos/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1",
+    "1. Proyectos/Sarlaft 4.0/Tareas",
+    "2. Áreas/Programación/Paradigmas/Multiparadigma",
+    "2. Áreas/Programación/Paradigmas/Declarativo",
+    "2. Áreas/Programación/Paradigmas/Imperativo",
+    "2. Áreas/Programación/Metodologías/Metodologías agiles",
+    "2. Areas/Programación/Metodologías agiles/Metolodologías agiles",
+    "2. Areas/Programación/Metodologías de trabajo/Kanbam",
+    "2. Areas/Programación/Metodologías de trabajo/Scrum",
+    "Programación/Sin título.canvas"
+  ]
+}
