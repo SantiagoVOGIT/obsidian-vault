@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Assets",
+      "path": "Assets/Assets.md"
+    },
+    {
+      "basename": "Memoria",
+      "path": "2. Áreas/Programación/Sistemas operativos/Memoria.md"
+    },
+    {
+      "basename": "Pasted image 20240325103818",
+      "path": "2. Áreas/Programación/Sistemas operativos/Pasted image 20240325103818.png"
+    },
+    {
       "basename": "2.4.1 camelCase",
       "path": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md"
     },
@@ -21,16 +37,8 @@
       "path": "2. Áreas/Programación/Sistemas operativos/Lenguaje binario.md"
     },
     {
-      "basename": "Assets",
-      "path": "Assets/Assets.md"
-    },
-    {
       "basename": "1. Cloud Computing",
       "path": "2. Áreas/Programación/Cloud Computing/1. Cloud Computing.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Recursos - 470168",
@@ -191,14 +199,6 @@
     {
       "basename": "2.6.1 Bajo nivel",
       "path": "2. Áreas/Programación/Conceptos de programación/2.6.1 Bajo nivel.md"
-    },
-    {
-      "basename": "2.5 Tipo de paradigma",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.5 Tipo de paradigma.md"
-    },
-    {
-      "basename": "2.4 Notaciones",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4 Notaciones.md"
     }
   ],
   "omittedPaths": [],

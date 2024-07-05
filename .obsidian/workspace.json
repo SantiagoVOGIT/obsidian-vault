@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,13 +179,16 @@
   },
   "active": "4e917de43b30aa67",
   "lastOpenFiles": [
+    "Assets/Assets.md",
+    "2. Áreas/Programación/Sistemas operativos/Memoria.md",
+    "2. Áreas/Programación/Sistemas operativos/Pasted image 20240325103818.png",
+    "README.md",
+    "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
     "2. Áreas/Programación/Conceptos de programación/2.7.3 Hibrido.md",
     "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md",
     "2. Áreas/Programación/Conceptos de programación/2.8 Propósito.md",
     "2. Áreas/Programación/Sistemas operativos/Lenguaje binario.md",
-    "Assets/Assets.md",
     "2. Áreas/Programación/Cloud Computing/1. Cloud Computing.md",
-    "README.md",
     "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
     "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md",
     "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios - 470168.md",
@@ -203,8 +206,6 @@
     "2. Áreas/Programación/Conceptos de programación/Depuración.md",
     "1. Proyectos/Tablero -  Proyectos.md",
     "2. Áreas/Programación/Dev Ops/1. Dev Ops.md",
-    "1. Proyectos/FastApiProject/Backend.md",
-    "2. Áreas/Programación/Bases de datos/1. Bases de datos.md",
     "2. Áreas/Programación/Cloud Computing",
     "2. Áreas/Programación/Tecnologías/Sin nombre",
     "2. Áreas/Programación/Arquitectura/Macro",
@@ -215,7 +216,6 @@
     "2. Áreas/Programación/Arquitectura/Micro/Arquitectura hexagonal/Puertos",
     "2. Áreas/Programación/Arquitectura/Micro/Vertical Slicing",
     "2. Áreas/Programación/Arquitectura/Micro/Sin nombre",
-    "2. Áreas/Programación/Sistemas operativos/Pasted image 20240325103818.png",
     "2. Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-primavera.svg",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-java-coffee-cup 1.svg",
