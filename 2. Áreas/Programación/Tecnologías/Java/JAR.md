@@ -15,7 +15,7 @@ El archivo [[JAR|JAR]] (Java Archive) en [[1. Java|Java]] es un formato de archi
 
 - **Distribución:** facilitan la distribución de aplicaciones y bibliotecas Java. En lugar de manejar muchos archivos individuales, se puede distribuir un solo archivo JAR.
 
-- **[[6. Biblioteca|Bibliotecas]]:**  se utilizan para crear y distribuir bibliotecas Java. Estas bibliotecas pueden ser utilizadas por otras aplicaciones Java al incluir el JAR en su classpath.
+- **[[8. Biblioteca|Bibliotecas]]:**  se utilizan para crear y distribuir bibliotecas Java. Estas bibliotecas pueden ser utilizadas por otras aplicaciones Java al incluir el JAR en su classpath.
 
 - **Compresión:**** están comprimidos utilizando el formato ZIP, lo que reduce el tamaño total del archivo y facilita su transferencia a través de la red.
 

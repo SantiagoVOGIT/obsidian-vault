@@ -1,34 +1,12 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Áreas/Programación\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 8901496
-      }
-    },
-    {
-      "query": "path:\"Proyectos\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"Áreas/Metodologías\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6065110
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -39,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.20478723902600557,
+  "scale": 0.14606971265545005,
   "close": true
 }

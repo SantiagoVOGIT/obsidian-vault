@@ -13,7 +13,7 @@ El JRE incluye:
 
 - **La [[Maquina virtual|maquina virtual]] de Java ([[JVM|JVM]]):** Es el componente clave que ejecuta el bytecode Java compilado.
 
-- **Bibliotecas de clases Java:** Son las [[6. Biblioteca|librerías]] base de Java que proporcionan funcionalidades comunes como manejo de entrada/salida, redes, interfaz gráfica, etc.
+- **Bibliotecas de clases Java:** Son las [[8. Biblioteca|librerías]] base de Java que proporcionan funcionalidades comunes como manejo de entrada/salida, redes, interfaz gráfica, etc.
 
 - **Otros componentes:** Como fuentes, archivos de configuración y herramientas adicionales necesarias para ejecutar aplicaciones Java.
 

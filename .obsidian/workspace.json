@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8bd4dbd625e3555",
+        "id": "2477218fd730ed3b",
         "type": "tabs",
         "children": [
           {
-            "id": "4e917de43b30aa67",
+            "id": "ce4719e554c86822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 321.5
   },
   "right": {
     "id": "61e791cac8cc3af0",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md"
               }
             }
           },
@@ -157,11 +157,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 332.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,35 +178,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4e917de43b30aa67",
+  "active": "ce4719e554c86822",
   "lastOpenFiles": [
-    "Assets/Assets.md",
-    "2. Áreas/Programación/Sistemas operativos/Memoria.md",
+    "2. Áreas/Programación/Lógica de programación/1.2 Variable.md",
+    "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md",
+    "2. Áreas/Programación/Bases de datos/No relacionales/1. No relacionales.md",
+    "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
+    "2. Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md",
+    "2. Áreas/Programación/Conceptos de programación/2.3 Tipado.md",
+    "2. Áreas/Programación/Conceptos de programación/2.2 Semántica.md",
+    "2. Áreas/Programación/Conceptos de programación/2.4.4 kebab-case.md",
+    "2. Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md",
+    "Templates/tpl.tema+anotaciones.md",
+    "Templates/tpl.subtema+anotaciones.md",
+    "Templates/tpl.tema.md",
+    "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
+    "2. Áreas/Programación/Lógica de programación/1.2.2 Inicialización.md",
+    "2. Áreas/Programación/Paradigmas/1.1 Tipos de paradigmas.md",
+    "2. Áreas/Programación/Paradigmas/Imperativos/1. Imperativo.md",
+    "2. Áreas/Programación/Conceptos de programación/2.6.1 Bajo nivel.md",
+    "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
+    "2. Áreas/Programación/Conceptos de programación/3. Código fuente.md",
+    "2. Áreas/Programación/Tecnologías/Git/2. Repositorio.md",
+    "2. Áreas/Programación/Conceptos de programación/4. Programa.md",
+    "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md",
+    "2. Áreas/Programación/Conceptos de programación/4.1 Concatenación.md",
+    "2. Áreas/Programación/Conceptos de programación/2.7 Tipo de traducción.md",
+    "2. Áreas/Programación/Backend/Caching/1. Caching.md",
+    "2. Áreas/Programación/Backend/APIs/1. APIs.md",
+    "2. Áreas/Programación/Tecnologías/Java/Hibernate",
+    "2. Áreas/Programación/Arquitectura/Macro/Microservicios",
     "2. Áreas/Programación/Sistemas operativos/Pasted image 20240325103818.png",
-    "README.md",
-    "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md",
-    "2. Áreas/Programación/Conceptos de programación/2.7.3 Hibrido.md",
-    "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md",
-    "2. Áreas/Programación/Conceptos de programación/2.8 Propósito.md",
-    "2. Áreas/Programación/Sistemas operativos/Lenguaje binario.md",
-    "2. Áreas/Programación/Cloud Computing/1. Cloud Computing.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Criterios - 470168.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Actividades - 470168.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md",
-    "1. Proyectos/Sura/Portal de comisiones/Portal de comisiones.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tablero - Portal de comisiones.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Criterios - 560655.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Notas - 560655.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Recursos - 560655.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/Actividades - 560655.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tareas/560655 - Estimación/560655 - Estimación.md",
-    "3. Notas abstractas/Codely TV (contenido de valor).md",
-    "2. Áreas/Inglés/1. Inglés.md",
-    "2. Áreas/Programación/Conceptos de programación/Depuración.md",
-    "1. Proyectos/Tablero -  Proyectos.md",
-    "2. Áreas/Programación/Dev Ops/1. Dev Ops.md",
     "2. Áreas/Programación/Cloud Computing",
     "2. Áreas/Programación/Tecnologías/Sin nombre",
     "2. Áreas/Programación/Arquitectura/Macro",
@@ -214,8 +217,6 @@
     "2. Áreas/Programación/Metodologías/DDD",
     "2. Áreas/Programación/Metodologías",
     "2. Áreas/Programación/Arquitectura/Micro/Arquitectura hexagonal/Puertos",
-    "2. Áreas/Programación/Arquitectura/Micro/Vertical Slicing",
-    "2. Áreas/Programación/Arquitectura/Micro/Sin nombre",
     "2. Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-primavera.svg",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-java-coffee-cup 1.svg",
