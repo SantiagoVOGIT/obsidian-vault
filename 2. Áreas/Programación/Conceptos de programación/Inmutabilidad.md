@@ -1,6 +1,7 @@
 ---
 aliases:
   - inmutabilidad
+  - inmutable
 tags:
 ---
 ###### Concepto:

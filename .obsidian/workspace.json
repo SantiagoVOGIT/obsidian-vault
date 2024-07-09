@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2477218fd730ed3b",
+        "id": "79d8a27adcaab79e",
         "type": "tabs",
         "children": [
           {
-            "id": "ce4719e554c86822",
+            "id": "b198230905cb5f23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
+                "file": "2. Áreas/Programación/Testing/7. Pruebas de estrés.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
+                "file": "2. Áreas/Programación/Testing/7. Pruebas de estrés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
+                "file": "2. Áreas/Programación/Testing/7. Pruebas de estrés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md"
+                "file": "2. Áreas/Programación/Testing/7. Pruebas de estrés.md"
               }
             }
           },
@@ -157,8 +157,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,45 +177,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ce4719e554c86822",
+  "active": "b198230905cb5f23",
   "lastOpenFiles": [
-    "2. Áreas/Programación/Lógica de programación/1.2 Variable.md",
-    "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md",
-    "2. Áreas/Programación/Bases de datos/No relacionales/1. No relacionales.md",
-    "2. Áreas/Programación/Conceptos de programación/1. Lenguaje de programación.md",
-    "2. Áreas/Programación/Conceptos de programación/2. Clasificación de los lenguajes.md",
-    "2. Áreas/Programación/Conceptos de programación/2.3 Tipado.md",
-    "2. Áreas/Programación/Conceptos de programación/2.2 Semántica.md",
-    "2. Áreas/Programación/Conceptos de programación/2.4.4 kebab-case.md",
-    "2. Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md",
-    "Templates/tpl.tema+anotaciones.md",
+    "2. Áreas/Programación/Testing/8. Pruebas de aceptación.md",
+    "2. Áreas/Programación/Princripios de diseño/DDD/1. DDD (Domain-Driven Desing).md",
+    "2. Áreas/Programación/Princripios de diseño/SOLID/1. SOLID.md",
+    "2. Áreas/Programación/Princripios de diseño/SOLID",
+    "3. Notas abstractas/Sin título.md",
+    "2. Áreas/Programación/Princripios de diseño",
+    "2. Áreas/Programación/Lógica de programación/1.6 Valor.md",
+    "2. Áreas/Programación/Lógica de programación/1.5 Expresión.md",
+    "2. Áreas/Programación/Lógica de programación/1.7 Tipos de datos.md",
+    "2. Áreas/Programación/Lógica de programación/1.7.2 Datos no literales.md",
+    "2. Áreas/Programación/Lógica de programación/1.7.1 Datos literales.md",
+    "2. Áreas/Programación/Lógica de programación/1.4 Instrucción.md",
+    "2. Áreas/Programación/Internet/APIs/SOAP/API SOAT.md",
+    "2. Áreas/Programación/Internet/APIs/REST/API REST.md",
+    "2. Áreas/Programación/Internet/Autenticación/JWT/1. JWT.md",
+    "2. Áreas/Programación/Internet/APIs/SOAP",
+    "2. Áreas/Programación/Internet/Autenticación/JWT",
+    "2. Áreas/Programación/Internet/APIs/1. APIs.md",
+    "2. Áreas/Programación/Internet/1. Internet.md",
+    "2. Áreas/Programación/Tecnologías/JSON/JSON.md",
+    "2. Áreas/Programación/Internet/Autenticación",
+    "README.md",
+    "2. Áreas/Programación/Tecnologías/JSON",
     "Templates/tpl.subtema+anotaciones.md",
-    "Templates/tpl.tema.md",
-    "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
-    "2. Áreas/Programación/Lógica de programación/1.2.2 Inicialización.md",
+    "2. Áreas/Programación/Tecnologías/SQL/1. SQL.md",
+    "2. Áreas/Programación/Internet/APIs/RPC",
+    "2. Áreas/Programación/Internet/APIs/SOAP",
+    "2. Áreas/Programación/Internet/APIs/REST",
+    "2. Áreas/Programación/Tecnologías/Postman/1. Postman.md",
+    "2. Áreas/Programación/Tecnologías/SQL/MySQL",
+    "2. Áreas/Programación/Testing/1. Testing.md",
+    "2. Áreas/Programación/Arquitectura/Macro/Serverless Computing/1. Serverless Computing.md",
+    "2. Áreas/Programación/Paradigmas/1. Paradigma.md",
     "2. Áreas/Programación/Paradigmas/1.1 Tipos de paradigmas.md",
-    "2. Áreas/Programación/Paradigmas/Imperativos/1. Imperativo.md",
-    "2. Áreas/Programación/Conceptos de programación/2.6.1 Bajo nivel.md",
-    "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
-    "2. Áreas/Programación/Conceptos de programación/3. Código fuente.md",
-    "2. Áreas/Programación/Tecnologías/Git/2. Repositorio.md",
-    "2. Áreas/Programación/Conceptos de programación/4. Programa.md",
-    "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md",
-    "2. Áreas/Programación/Conceptos de programación/4.1 Concatenación.md",
-    "2. Áreas/Programación/Conceptos de programación/2.7 Tipo de traducción.md",
-    "2. Áreas/Programación/Backend/Caching/1. Caching.md",
-    "2. Áreas/Programación/Backend/APIs/1. APIs.md",
-    "2. Áreas/Programación/Tecnologías/Java/Hibernate",
-    "2. Áreas/Programación/Arquitectura/Macro/Microservicios",
+    "2. Áreas/Programación/Patrones de diseño/1. Patrones de diseño.md",
+    "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
     "2. Áreas/Programación/Sistemas operativos/Pasted image 20240325103818.png",
-    "2. Áreas/Programación/Cloud Computing",
-    "2. Áreas/Programación/Tecnologías/Sin nombre",
-    "2. Áreas/Programación/Arquitectura/Macro",
-    "Assets",
-    "3. Notas abstractas",
-    "2. Áreas/Programación/Metodologías/DDD",
-    "2. Áreas/Programación/Metodologías",
-    "2. Áreas/Programación/Arquitectura/Micro/Arquitectura hexagonal/Puertos",
     "2. Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-primavera.svg",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-java-coffee-cup 1.svg",
