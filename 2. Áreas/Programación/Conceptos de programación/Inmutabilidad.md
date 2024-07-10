@@ -3,6 +3,7 @@ aliases:
   - inmutabilidad
   - inmutable
 tags:
+  - programación
 ---
 ###### Concepto:
 
