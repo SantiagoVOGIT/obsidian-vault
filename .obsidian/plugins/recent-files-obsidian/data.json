@@ -1,12 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "Sin título",
-      "path": "3. Notas abstractas/Sin título.md"
+      "basename": "Notas - 574028",
+      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md"
+    },
+    {
+      "basename": "Notas - 529303",
+      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Notas - 529303.md"
+    },
+    {
+      "basename": "529303  - Usabilidad catálogos v1",
+      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md"
+    },
+    {
+      "basename": "Recursos - 529303",
+      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md"
+    },
+    {
+      "basename": "Notas - 470168",
+      "path": "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md"
+    },
+    {
+      "basename": "574028 - Carácter especial primer nombre",
+      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/574028 - Carácter especial primer nombre.md"
+    },
+    {
+      "basename": "Recursos - 574028",
+      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Recursos - 574028.md"
+    },
+    {
+      "basename": "tpl.tarea-notas",
+      "path": "Templates/tpl.tarea-notas.md"
+    },
+    {
+      "basename": "tpl.tema+anotaciones",
+      "path": "Templates/tpl.tema+anotaciones.md"
     },
     {
       "basename": "Tablero -  Proyectos",
       "path": "1. Proyectos/Tablero -  Proyectos.md"
+    },
+    {
+      "basename": "470168 - Ajustes practicas técnicas de calidad Back_Q1_1",
+      "path": "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md"
+    },
+    {
+      "basename": "Recursos - 470168",
+      "path": "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md"
+    },
+    {
+      "basename": "Recursos - 560655",
+      "path": "1. Proyectos/Sura/560655 - Estimación/Recursos - 560655.md"
+    },
+    {
+      "basename": "Notas - 560655",
+      "path": "1. Proyectos/Sura/560655 - Estimación/Notas - 560655.md"
+    },
+    {
+      "basename": "560655 - Estimación",
+      "path": "1. Proyectos/Sura/560655 - Estimación/560655 - Estimación.md"
+    },
+    {
+      "basename": "Codely TV (contenido de valor)",
+      "path": "3. Notas abstractas/Codely TV (contenido de valor).md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "3. Notas abstractas/Sin título.md"
+    },
+    {
+      "basename": "Backend",
+      "path": "1. Proyectos/FastApiProject/Backend.md"
+    },
+    {
+      "basename": "tpl.subtema+anotaciones",
+      "path": "Templates/tpl.subtema+anotaciones.md"
+    },
+    {
+      "basename": "tpl.tableroKanban",
+      "path": "Templates/tpl.tableroKanban.md"
+    },
+    {
+      "basename": "tpl.tema",
+      "path": "Templates/tpl.tema.md"
+    },
+    {
+      "basename": "tpl.tarea-recursos",
+      "path": "Templates/tpl.tarea-recursos.md"
+    },
+    {
+      "basename": "tpl.tarea",
+      "path": "Templates/tpl.tarea.md"
     },
     {
       "basename": "1. Fundamentos de programación",
@@ -115,90 +199,6 @@
     {
       "basename": "1.11.1.2 Números reales",
       "path": "2. Áreas/Programación/Lógica de programación/1.11.1.2 Números reales.md"
-    },
-    {
-      "basename": "5. CLI",
-      "path": "2. Áreas/Programación/Conceptos de programación/5. CLI.md"
-    },
-    {
-      "basename": "4. Refactorización",
-      "path": "2. Áreas/Programación/Conceptos de programación/4. Refactorización.md"
-    },
-    {
-      "basename": "4. Programa",
-      "path": "2. Áreas/Programación/Conceptos de programación/4. Programa.md"
-    },
-    {
-      "basename": "3. Código fuente",
-      "path": "2. Áreas/Programación/Conceptos de programación/3. Código fuente.md"
-    },
-    {
-      "basename": "2.11 Seguridad intrínseca",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.11 Seguridad intrínseca.md"
-    },
-    {
-      "basename": "2.10 Rendimiento intrínseco",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.10 Rendimiento intrínseco.md"
-    },
-    {
-      "basename": "2.9 Portabilidad",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.9 Portabilidad.md"
-    },
-    {
-      "basename": "5. Error Handling",
-      "path": "2. Áreas/Programación/Conceptos de programación/5. Error Handling.md"
-    },
-    {
-      "basename": "5.1 Tipos de errores",
-      "path": "2. Áreas/Programación/Conceptos de programación/5.1 Tipos de errores.md"
-    },
-    {
-      "basename": "6. File Handling",
-      "path": "2. Áreas/Programación/Conceptos de programación/6. File Handling.md"
-    },
-    {
-      "basename": "7. Concurrencia",
-      "path": "2. Áreas/Programación/Conceptos de programación/7. Concurrencia.md"
-    },
-    {
-      "basename": "7.1 Sincronía",
-      "path": "2. Áreas/Programación/Conceptos de programación/7.1 Sincronía.md"
-    },
-    {
-      "basename": "7.2 Asincronía",
-      "path": "2. Áreas/Programación/Conceptos de programación/7.2 Asincronía.md"
-    },
-    {
-      "basename": "8. Biblioteca",
-      "path": "2. Áreas/Programación/Conceptos de programación/8. Biblioteca.md"
-    },
-    {
-      "basename": "8. Framework",
-      "path": "2. Áreas/Programación/Conceptos de programación/8. Framework.md"
-    },
-    {
-      "basename": "9. Dominio",
-      "path": "2. Áreas/Programación/Conceptos de programación/9. Dominio.md"
-    },
-    {
-      "basename": "10. Documentación",
-      "path": "2. Áreas/Programación/Conceptos de programación/10. Documentación.md"
-    },
-    {
-      "basename": "Acoplamiento",
-      "path": "2. Áreas/Programación/Conceptos de programación/Acoplamiento.md"
-    },
-    {
-      "basename": "Desacoplamiento",
-      "path": "2. Áreas/Programación/Conceptos de programación/Desacoplamiento.md"
-    },
-    {
-      "basename": "Embebeber",
-      "path": "2. Áreas/Programación/Conceptos de programación/Embebeber.md"
-    },
-    {
-      "basename": "Hashing",
-      "path": "2. Áreas/Programación/Conceptos de programación/Hashing.md"
     }
   ],
   "omittedPaths": [],

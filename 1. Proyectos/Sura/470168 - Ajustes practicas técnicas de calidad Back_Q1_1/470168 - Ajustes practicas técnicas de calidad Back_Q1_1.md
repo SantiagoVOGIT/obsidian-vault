@@ -11,7 +11,5 @@ tags:
 
 ###### índice:
 
-- [[Actividades - 470168]]
-- [[Criterios - 470168]]
 - [[Notas - 470168]]
 - [[Recursos - 470168]]
