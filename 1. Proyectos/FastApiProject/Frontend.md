@@ -15,7 +15,7 @@
 - Convención camelCase
 - 0 Código fuera del scope de la clase
 - Tipado fuerte para métodos, atributos, constantes y variables
-- En el constructor no deben haber construcciones internas de funciones. se limita a llamarlas. Por ejemplo. this.metodoInterno(); eso es erroneo, .el constructor solo debe de tener atributos y debe verse así. Ejemplo: this.atributo = metodo() (en dado caso que se necesite una función como el valor de un atributo del constructor)
+- En el constructor no deben haber construcciones internas de funciones. se limita a llamarlas. Por ejemplo. this.metodoInterno(); eso es erroneo, .el constructor solo debe de tener atributos y debe verse así. Ejemplo: this.atributo = metodo() (en dado caso que se necesite una función como el valor de un atributo del constructor, ojo únicamente si es necesario, de lo contrario no lo hagas)
 - Asignación de `private`, `protected` o `public` para métodos y atributos que por su naturaleza deben encapsularse o no encapsularse
 - Asignación de `static` para métodos u atributos que deben ser estáticos por su naturaleza y su contexto
 - Siempre se declaran primero los atributos de clase en la parte superior asignándosele únicamente su tipo de dato y su modificador de acceso, similar a java
@@ -111,3 +111,5 @@ reply in spanish
 
 frotend-hexagonal-skeleton
 Skeleton for a Frontend Application in React and TypeScript with Hexagonal Architecture
+
+Te pongo en contexto, necesito realizar un hotfix, resulta que hay un usuario el cual le esta arrojando un error en su proceso de sarlaft, esto debido a que en su DNI aparece registrado con un caracter peculiar en su primer nombre "DAN-EL", nuestro objetivo es permitir que la aplicación permita registrar a un usuario con un gion en culaquier parte de su primer nombre, pueden ser estas variantes, en cualquier parte adentro del nombre, ejemplo: "DAN-EL", y afuera del nombre por ejemplo "DANIEL-" únicamente un solo guion se debe de permitir y con esas caracteristicas, el mensaje que recibe el usuario es que contiene este ENUM "INVALID_FORMAT_FOR_NAMES",  este mensaje es lanzado como una excepción en dos clases, por mi investigación propia averigue que el error viene de una expresion regular en la clase StringUtils que no permite usar este caracter, dicha expresion esta en esta constante "ALPHABETHICAL_MAYUS_POINT_PATTERN" , soluciona este error de la manera adecuada y pasame los test correspondientes para validar que el cambio haya funcionado

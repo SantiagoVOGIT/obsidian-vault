@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e8eccfe1d0b898d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,18 +190,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a9d928d27ae2f758",
+  "active": "2e8eccfe1d0b898d",
   "lastOpenFiles": [
-    "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Notas - 529303.md",
-    "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md",
-    "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md",
-    "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md",
+    "Assets/Pasted image 20240715110543.png",
     "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md",
+    "Assets/Pasted image 20240715104820.png",
     "1. Proyectos/Sura/574028 - Carácter especial primer nombre/574028 - Carácter especial primer nombre.md",
     "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Recursos - 574028.md",
+    "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md",
+    "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Notas - 529303.md",
+    "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md",
+    "1. Proyectos/FastApiProject/Backend.md",
+    "1. Proyectos/FastApiProject/Frontend.md",
+    "1. Proyectos/FastApiProject/General.md",
+    "Assets/Pasted image 20240715104829.png",
+    "Assets/Pasted image 20240715110707.png",
+    "Assets/Pasted image 20240715111234.png",
+    "Assets/Pasted image 20240715111535.png",
+    "2. Áreas/Programación/Tecnologías/Git/11. Trunk-Based Development.md",
+    "2. Áreas/Programación/Tecnologías/Git/10. Conventional Commits.md",
+    "1. Proyectos/Tablero -  Proyectos.md",
+    "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md",
     "Templates/tpl.tarea-notas.md",
     "Templates/tpl.tema+anotaciones.md",
-    "1. Proyectos/Tablero -  Proyectos.md",
     "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md",
     "Actividades - 470168.md",
     "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
@@ -201,12 +225,6 @@
     "1. Proyectos/Sura/574028 - Carácter especial primer nombre",
     "1. Proyectos/Sura/Sin nombre",
     "1. Proyectos/Sura/Sarlaft 4.0/Sarlaft 4.0.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tablero - Sarlaft 4.0.md",
-    "1. Proyectos/Sura/Portal de comisiones/Portal de comisiones.md",
-    "1. Proyectos/Sura/Portal de comisiones/Tablero - Portal de comisiones.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Actividades - 529303.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Actividades - 470168.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tareas/529303 - Usabilidad catálogos v1/Criterios - 529303.md",
     "1. Proyectos/Carwashmetro",
     "2. Áreas/Programación/Metodologías de desarrollo",
     "2. Áreas/Programación/Patrones de diseño/Creacionales",
@@ -224,8 +242,6 @@
     "2. Áreas/Programación/Tecnologías/Java/Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas",
-    "Pasted image 20240229142852.png",
-    "Pasted image 20240229142905.png",
     "Programación/Sin título.canvas"
   ]
 }

@@ -5,22 +5,6 @@
       "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md"
     },
     {
-      "basename": "Notas - 529303",
-      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Notas - 529303.md"
-    },
-    {
-      "basename": "529303  - Usabilidad catálogos v1",
-      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md"
-    },
-    {
-      "basename": "Recursos - 529303",
-      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md"
-    },
-    {
-      "basename": "Notas - 470168",
-      "path": "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md"
-    },
-    {
       "basename": "574028 - Carácter especial primer nombre",
       "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/574028 - Carácter especial primer nombre.md"
     },
@@ -29,16 +13,52 @@
       "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Recursos - 574028.md"
     },
     {
+      "basename": "529303  - Usabilidad catálogos v1",
+      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md"
+    },
+    {
+      "basename": "Notas - 529303",
+      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Notas - 529303.md"
+    },
+    {
+      "basename": "Recursos - 529303",
+      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md"
+    },
+    {
+      "basename": "Backend",
+      "path": "1. Proyectos/FastApiProject/Backend.md"
+    },
+    {
+      "basename": "Frontend",
+      "path": "1. Proyectos/FastApiProject/Frontend.md"
+    },
+    {
+      "basename": "General",
+      "path": "1. Proyectos/FastApiProject/General.md"
+    },
+    {
+      "basename": "11. Trunk-Based Development",
+      "path": "2. Áreas/Programación/Tecnologías/Git/11. Trunk-Based Development.md"
+    },
+    {
+      "basename": "10. Conventional Commits",
+      "path": "2. Áreas/Programación/Tecnologías/Git/10. Conventional Commits.md"
+    },
+    {
+      "basename": "Tablero -  Proyectos",
+      "path": "1. Proyectos/Tablero -  Proyectos.md"
+    },
+    {
+      "basename": "Notas - 470168",
+      "path": "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md"
+    },
+    {
       "basename": "tpl.tarea-notas",
       "path": "Templates/tpl.tarea-notas.md"
     },
     {
       "basename": "tpl.tema+anotaciones",
       "path": "Templates/tpl.tema+anotaciones.md"
-    },
-    {
-      "basename": "Tablero -  Proyectos",
-      "path": "1. Proyectos/Tablero -  Proyectos.md"
     },
     {
       "basename": "470168 - Ajustes practicas técnicas de calidad Back_Q1_1",
@@ -67,10 +87,6 @@
     {
       "basename": "Sin título",
       "path": "3. Notas abstractas/Sin título.md"
-    },
-    {
-      "basename": "Backend",
-      "path": "1. Proyectos/FastApiProject/Backend.md"
     },
     {
       "basename": "tpl.subtema+anotaciones",
@@ -159,46 +175,6 @@
     {
       "basename": "1.1 Pensamiento computacional",
       "path": "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md"
-    },
-    {
-      "basename": "1.2.3 Asignación",
-      "path": "2. Áreas/Programación/Lógica de programación/1.2.3 Asignación.md"
-    },
-    {
-      "basename": "1.8 Operadores",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8 Operadores.md"
-    },
-    {
-      "basename": "1.7.2 Datos no literales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.7.2 Datos no literales.md"
-    },
-    {
-      "basename": "1.7.1 Datos literales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.7.1 Datos literales.md"
-    },
-    {
-      "basename": "1.11.2 Estructuras de datos lineales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.2 Estructuras de datos lineales.md"
-    },
-    {
-      "basename": "1.11.1.6 Booleano",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.6 Booleano.md"
-    },
-    {
-      "basename": "1.11.1.5 Cadena de caracteres",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.5 Cadena de caracteres.md"
-    },
-    {
-      "basename": "1.11.1.1 Números enteros",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.1 Números enteros.md"
-    },
-    {
-      "basename": "1.11.3 Estructuras de datos no lineales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.3 Estructuras de datos no lineales.md"
-    },
-    {
-      "basename": "1.11.1.2 Números reales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.2 Números reales.md"
     }
   ],
   "omittedPaths": [],
