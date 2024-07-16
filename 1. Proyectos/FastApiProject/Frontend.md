@@ -11,7 +11,7 @@
 
 ###### Dogmas base estrictos a seguir: 
 - El domain solo se puede conocer así mismo, application puede conocerse así mismo y conocer a domain. e infraestructura puede conocerce a sí mismo, a domain y application. Osea, en domain no deben haber imports ni de infra ni de application, en aplication solo deben ir imports de domain, e infraestructura puede tener import de todo
-- POO similar a la de java
+- principios y sintaxis de POO estrictamente igual a la de java, o lo más similar posible.
 - Convención camelCase
 - 0 Código fuera del scope de la clase
 - Tipado fuerte para métodos, atributos, constantes y variables

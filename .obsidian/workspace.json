@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md",
+                "file": "1. Proyectos/Proyecto segundo momento/1. Dominio.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md",
+                "file": "1. Proyectos/Proyecto segundo momento/1. Dominio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md",
+                "file": "1. Proyectos/Proyecto segundo momento/1. Dominio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md"
+                "file": "1. Proyectos/Proyecto segundo momento/1. Dominio.md"
               }
             }
           },
@@ -192,17 +192,29 @@
   },
   "active": "2e8eccfe1d0b898d",
   "lastOpenFiles": [
-    "Assets/Pasted image 20240715110543.png",
+    "1. Proyectos/FastApiProject/Backend.md",
+    "1. Proyectos/Proyecto segundo momento/1. Dominio.md",
+    "1. Proyectos/FastApiProject/General.md",
+    "1. Proyectos/FastApiProject/Frontend.md",
+    "1. Proyectos/Sin nombre/Proyecto momento 2",
+    "1. Proyectos/Proyecto segundo momento",
+    "2. Áreas/Programación/Lógica de programación/1.3 Constante.md",
+    "2. Áreas/Programación/Lógica de programación/1.2.3 Asignación.md",
+    "2. Áreas/Programación/Lógica de programación/1.2.2 Inicialización.md",
+    "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md",
+    "2. Áreas/Programación/Lógica de programación/1.2 Variable.md",
+    "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md",
+    "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md",
     "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md",
+    "1. Proyectos/Sura/560655 - Estimación/Notas - 560655.md",
+    "1. Proyectos/Sura/560655 - Estimación/560655 - Estimación.md",
+    "Assets/Pasted image 20240715110543.png",
     "Assets/Pasted image 20240715104820.png",
     "1. Proyectos/Sura/574028 - Carácter especial primer nombre/574028 - Carácter especial primer nombre.md",
     "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Recursos - 574028.md",
     "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md",
     "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Notas - 529303.md",
     "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md",
-    "1. Proyectos/FastApiProject/Backend.md",
-    "1. Proyectos/FastApiProject/Frontend.md",
-    "1. Proyectos/FastApiProject/General.md",
     "Assets/Pasted image 20240715104829.png",
     "Assets/Pasted image 20240715110707.png",
     "Assets/Pasted image 20240715111234.png",
@@ -214,25 +226,14 @@
     "Templates/tpl.tarea-notas.md",
     "Templates/tpl.tema+anotaciones.md",
     "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md",
-    "Actividades - 470168.md",
-    "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md",
-    "1. Proyectos/Sura/560655 - Estimación/Recursos - 560655.md",
-    "1. Proyectos/Sura/560655 - Estimación/Notas - 560655.md",
-    "1. Proyectos/Sura/560655 - Estimación/560655 - Estimación.md",
-    "3. Notas abstractas/Codely TV (contenido de valor).md",
-    "1. Proyectos/Sura/560655 - Estimación/Actividades - 560655.md",
-    "3. Notas abstractas/Sin título.md",
     "1. Proyectos/Sura/574028 - Carácter especial primer nombre",
     "1. Proyectos/Sura/Sin nombre",
-    "1. Proyectos/Sura/Sarlaft 4.0/Sarlaft 4.0.md",
     "1. Proyectos/Carwashmetro",
     "2. Áreas/Programación/Metodologías de desarrollo",
     "2. Áreas/Programación/Patrones de diseño/Creacionales",
     "2. Áreas/Programación/Princripios de diseño/SOLID",
     "2. Áreas/Programación/Princripios de diseño",
     "2. Áreas/Programación/Internet/APIs/SOAP",
-    "2. Áreas/Programación/Internet/Autenticación/JWT",
-    "2. Áreas/Programación/Internet/Autenticación",
     "2. Áreas/Programación/Sistemas operativos/Pasted image 20240325103818.png",
     "2. Áreas/Programación/Lógica de programación/8.3.1 Representación de algoritmos.canvas",
     "Áreas/Programación/Conceptos de programación/Imagenes/icons8-logotipo-de-primavera.svg",

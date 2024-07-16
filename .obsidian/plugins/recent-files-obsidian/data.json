@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Dominio",
+      "path": "1. Proyectos/Proyecto segundo momento/1. Dominio.md"
+    },
+    {
+      "basename": "Backend",
+      "path": "1. Proyectos/FastApiProject/Backend.md"
+    },
+    {
+      "basename": "General",
+      "path": "1. Proyectos/FastApiProject/General.md"
+    },
+    {
+      "basename": "Frontend",
+      "path": "1. Proyectos/FastApiProject/Frontend.md"
+    },
+    {
+      "basename": "1.3 Constante",
+      "path": "2. Áreas/Programación/Lógica de programación/1.3 Constante.md"
+    },
+    {
+      "basename": "1.2.3 Asignación",
+      "path": "2. Áreas/Programación/Lógica de programación/1.2.3 Asignación.md"
+    },
+    {
+      "basename": "1.2.2 Inicialización",
+      "path": "2. Áreas/Programación/Lógica de programación/1.2.2 Inicialización.md"
+    },
+    {
+      "basename": "1.2.1 Declaración",
+      "path": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md"
+    },
+    {
+      "basename": "1.2 Variable",
+      "path": "2. Áreas/Programación/Lógica de programación/1.2 Variable.md"
+    },
+    {
+      "basename": "1.1 Pensamiento computacional",
+      "path": "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md"
+    },
+    {
+      "basename": "1. Fundamentos de programación",
+      "path": "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md"
+    },
+    {
       "basename": "Notas - 574028",
       "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md"
+    },
+    {
+      "basename": "Notas - 560655",
+      "path": "1. Proyectos/Sura/560655 - Estimación/Notas - 560655.md"
+    },
+    {
+      "basename": "560655 - Estimación",
+      "path": "1. Proyectos/Sura/560655 - Estimación/560655 - Estimación.md"
     },
     {
       "basename": "574028 - Carácter especial primer nombre",
@@ -23,18 +75,6 @@
     {
       "basename": "Recursos - 529303",
       "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md"
-    },
-    {
-      "basename": "Backend",
-      "path": "1. Proyectos/FastApiProject/Backend.md"
-    },
-    {
-      "basename": "Frontend",
-      "path": "1. Proyectos/FastApiProject/Frontend.md"
-    },
-    {
-      "basename": "General",
-      "path": "1. Proyectos/FastApiProject/General.md"
     },
     {
       "basename": "11. Trunk-Based Development",
@@ -73,14 +113,6 @@
       "path": "1. Proyectos/Sura/560655 - Estimación/Recursos - 560655.md"
     },
     {
-      "basename": "Notas - 560655",
-      "path": "1. Proyectos/Sura/560655 - Estimación/Notas - 560655.md"
-    },
-    {
-      "basename": "560655 - Estimación",
-      "path": "1. Proyectos/Sura/560655 - Estimación/560655 - Estimación.md"
-    },
-    {
       "basename": "Codely TV (contenido de valor)",
       "path": "3. Notas abstractas/Codely TV (contenido de valor).md"
     },
@@ -109,24 +141,12 @@
       "path": "Templates/tpl.tarea.md"
     },
     {
-      "basename": "1. Fundamentos de programación",
-      "path": "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md"
-    },
-    {
       "basename": "1.8.2 Operadores de asignación",
       "path": "2. Áreas/Programación/Lógica de programación/1.8.2 Operadores de asignación.md"
     },
     {
       "basename": "1.8.1 Operadores aritméticos",
       "path": "2. Áreas/Programación/Lógica de programación/1.8.1 Operadores aritméticos.md"
-    },
-    {
-      "basename": "1.2.1 Declaración",
-      "path": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md"
-    },
-    {
-      "basename": "1.2 Variable",
-      "path": "2. Áreas/Programación/Lógica de programación/1.2 Variable.md"
     },
     {
       "basename": "1.11.1.4 Carácter",
@@ -163,18 +183,6 @@
     {
       "basename": "1.4 Instrucción",
       "path": "2. Áreas/Programación/Lógica de programación/1.4 Instrucción.md"
-    },
-    {
-      "basename": "1.3 Constante",
-      "path": "2. Áreas/Programación/Lógica de programación/1.3 Constante.md"
-    },
-    {
-      "basename": "1.2.2 Inicialización",
-      "path": "2. Áreas/Programación/Lógica de programación/1.2.2 Inicialización.md"
-    },
-    {
-      "basename": "1.1 Pensamiento computacional",
-      "path": "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md"
     }
   ],
   "omittedPaths": [],
