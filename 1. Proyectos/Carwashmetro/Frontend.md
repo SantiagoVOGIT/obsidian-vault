@@ -10,11 +10,10 @@
 - Bootstrap: v5.3.
 
 ###### Dogmas base estrictos a seguir: 
-- El domain solo se puede conocer así mismo, application puede conocerse así mismo y conocer a domain. e infraestructura puede conocerce a sí mismo, a domain y application. Osea, en domain no deben haber imports ni de infra ni de application, en aplication solo deben ir imports de domain, e infraestructura puede tener import de todo
 - principios y sintaxis de POO estrictamente igual a la de java, o lo más similar posible.
 - Convención camelCase
 - 0 Código fuera del scope de la clase
-- Tipado fuerte para métodos, atributos, constantes y variables
+- Tipado fuerte para métodos, atributos, constantes y variables, ósea tipado fuerte para todo
 - En el constructor no deben haber construcciones internas de funciones. se limita a llamarlas. Por ejemplo. this.metodoInterno(); eso es erroneo, .el constructor solo debe de tener atributos y debe verse así. Ejemplo: this.atributo = metodo() (en dado caso que se necesite una función como el valor de un atributo del constructor, ojo únicamente si es necesario, de lo contrario no lo hagas)
 - Asignación de `private`, `protected` o `public` para métodos y atributos que por su naturaleza deben encapsularse o no encapsularse
 - Asignación de `static` para métodos u atributos que deben ser estáticos por su naturaleza y su contexto
@@ -102,14 +101,26 @@ reply in spanish
 - Vite >= 5.3.1  
 - Editor de código (Visual Studio Code o WebStorm)  
   
-### Despliegue local  
+### c
   
 - Una vez clonado el proyecto ábrelo en tu editor de código
 - Ejecuta el comando `npm install` en tu terminal  
 - Una vez instaladas las dependencias ejecuta el comando `npm run dev`  para desplegar el proyecto de manera local
 - El proyecto debe de haberse desplegado en el siguiente puerto `http://localhost:5173/`
 
-frotend-hexagonal-skeleton
-Skeleton for a Frontend Application in React and TypeScript with Hexagonal Architecture
 
-Te pongo en contexto, necesito realizar un hotfix, resulta que hay un usuario el cual le esta arrojando un error en su proceso de sarlaft, esto debido a que en su DNI aparece registrado con un caracter peculiar en su primer nombre "DAN-EL", nuestro objetivo es permitir que la aplicación permita registrar a un usuario con un gion en culaquier parte de su primer nombre, pueden ser estas variantes, en cualquier parte adentro del nombre, ejemplo: "DAN-EL", y afuera del nombre por ejemplo "DANIEL-" únicamente un solo guion se debe de permitir y con esas caracteristicas, el mensaje que recibe el usuario es que contiene este ENUM "INVALID_FORMAT_FOR_NAMES",  este mensaje es lanzado como una excepción en dos clases, por mi investigación propia averigue que el error viene de una expresion regular en la clase StringUtils que no permite usar este caracter, dicha expresion esta en esta constante "ALPHABETHICAL_MAYUS_POINT_PATTERN" , soluciona este error de la manera adecuada y pasame los test correspondientes para validar que el cambio haya funcionado
+alinea a buenas practicas de DDD y arquitectura hexagonal y codigo escalable, mantenible y testeable en general
+
+local deployment
+Project Setup  
+To set up the project environment using only the terminal, follow these steps:    
+Clone the repository:    
+git clone https://github.com/SantiagoVOGIT/carwashmetro.git  
+cd carwashmetro  
+Create and activate a virtual environment:    
+python -m venv venv  
+source venv/bin/activate  # On Windows use: venv\Scripts\activate  
+Install dependencies:    
+pip install -r requirements.txt  
+Set environment variables (if necessary):    
+export DATABASE_URL=postgresql://user:password@localhost/dbname  # Example for a PostgreSQL database

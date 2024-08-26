@@ -1,24 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "Recursos - Operaciones",
+      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Recursos - Operaciones.md"
+    },
+    {
+      "basename": "Notas - Operaciones",
+      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Notas - Operaciones.md"
+    },
+    {
+      "basename": "Tareas - Operaciones",
+      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Tareas - Operaciones.md"
+    },
+    {
+      "basename": "10. Conventional Commits",
+      "path": "2. Áreas/Programación/Tecnologías/Git/10. Conventional Commits.md"
+    },
+    {
+      "basename": "11. Trunk-Based Development",
+      "path": "2. Áreas/Programación/Tecnologías/Git/11. Trunk-Based Development.md"
+    },
+    {
+      "basename": "PC Gamer",
+      "path": "3. Notas abstractas/PC Gamer.md"
+    },
+    {
       "basename": "Backend",
-      "path": "1. Proyectos/FastApiProject/Backend.md"
+      "path": "1. Proyectos/Carwashmetro/Backend.md"
     },
     {
       "basename": "Frontend",
-      "path": "1. Proyectos/FastApiProject/Frontend.md"
+      "path": "1. Proyectos/Carwashmetro/Frontend.md"
     },
     {
-      "basename": "1. Dominio",
-      "path": "1. Proyectos/Proyecto segundo momento/1. Dominio.md"
+      "basename": "1. Dev Tools",
+      "path": "2. Áreas/Programación/Tecnologías/Dev tools/1. Dev Tools.md"
     },
     {
-      "basename": "General",
-      "path": "1. Proyectos/FastApiProject/General.md"
+      "basename": "1. Docker",
+      "path": "2. Áreas/Programación/Tecnologías/Docker/1. Docker.md"
+    },
+    {
+      "basename": "Tablero -  Proyectos",
+      "path": "1. Proyectos/Tablero -  Proyectos.md"
+    },
+    {
+      "basename": "2.3.3 Tipado estático",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.3.3 Tipado estático.md"
+    },
+    {
+      "basename": "2.4.2 PascalCase",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4.2 PascalCase.md"
+    },
+    {
+      "basename": "2.4.1 camelCase",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md"
+    },
+    {
+      "basename": "2.4.3 snake_case",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md"
+    },
+    {
+      "basename": "Notas - 529303",
+      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Notas - 529303.md"
+    },
+    {
+      "basename": "Recursos - 529303",
+      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md"
+    },
+    {
+      "basename": "529303  - Usabilidad catálogos v1",
+      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md"
     },
     {
       "basename": "Notas - 574028",
       "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md"
+    },
+    {
+      "basename": "Recursos - 574028",
+      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Recursos - 574028.md"
+    },
+    {
+      "basename": "Paradigmas JavaScript",
+      "path": "1. Proyectos/Carwashmetro/Paradigmas JavaScript.md"
+    },
+    {
+      "basename": "574028 - Carácter especial primer nombre",
+      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/574028 - Carácter especial primer nombre.md"
+    },
+    {
+      "basename": "2.2 Semántica",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.2 Semántica.md"
+    },
+    {
+      "basename": "1.9.4 Estructuras de salto",
+      "path": "2. Áreas/Programación/Lógica de programación/1.9.4 Estructuras de salto.md"
+    },
+    {
+      "basename": "1.9.3 Estructuras de repetición",
+      "path": "2. Áreas/Programación/Lógica de programación/1.9.3 Estructuras de repetición.md"
+    },
+    {
+      "basename": "1.9.2 Estructuras condicionales",
+      "path": "2. Áreas/Programación/Lógica de programación/1.9.2 Estructuras condicionales.md"
+    },
+    {
+      "basename": "1.9.1 Estructuras secuenciales",
+      "path": "2. Áreas/Programación/Lógica de programación/1.9.1 Estructuras secuenciales.md"
+    },
+    {
+      "basename": "1. Fundamentos de programación",
+      "path": "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md"
     },
     {
       "basename": "1.3 Constante",
@@ -45,48 +137,12 @@
       "path": "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md"
     },
     {
-      "basename": "1. Fundamentos de programación",
-      "path": "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md"
-    },
-    {
       "basename": "Notas - 560655",
       "path": "1. Proyectos/Sura/560655 - Estimación/Notas - 560655.md"
     },
     {
       "basename": "560655 - Estimación",
       "path": "1. Proyectos/Sura/560655 - Estimación/560655 - Estimación.md"
-    },
-    {
-      "basename": "574028 - Carácter especial primer nombre",
-      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/574028 - Carácter especial primer nombre.md"
-    },
-    {
-      "basename": "Recursos - 574028",
-      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Recursos - 574028.md"
-    },
-    {
-      "basename": "529303  - Usabilidad catálogos v1",
-      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md"
-    },
-    {
-      "basename": "Notas - 529303",
-      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Notas - 529303.md"
-    },
-    {
-      "basename": "Recursos - 529303",
-      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md"
-    },
-    {
-      "basename": "11. Trunk-Based Development",
-      "path": "2. Áreas/Programación/Tecnologías/Git/11. Trunk-Based Development.md"
-    },
-    {
-      "basename": "10. Conventional Commits",
-      "path": "2. Áreas/Programación/Tecnologías/Git/10. Conventional Commits.md"
-    },
-    {
-      "basename": "Tablero -  Proyectos",
-      "path": "1. Proyectos/Tablero -  Proyectos.md"
     },
     {
       "basename": "Notas - 470168",
@@ -111,14 +167,6 @@
     {
       "basename": "Recursos - 560655",
       "path": "1. Proyectos/Sura/560655 - Estimación/Recursos - 560655.md"
-    },
-    {
-      "basename": "Codely TV (contenido de valor)",
-      "path": "3. Notas abstractas/Codely TV (contenido de valor).md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "3. Notas abstractas/Sin título.md"
     },
     {
       "basename": "tpl.subtema+anotaciones",
@@ -151,38 +199,6 @@
     {
       "basename": "1.11.1.4 Carácter",
       "path": "2. Áreas/Programación/Lógica de programación/1.11.1.4 Carácter.md"
-    },
-    {
-      "basename": "1.6 Valor",
-      "path": "2. Áreas/Programación/Lógica de programación/1.6 Valor.md"
-    },
-    {
-      "basename": "1.5 Expresión",
-      "path": "2. Áreas/Programación/Lógica de programación/1.5 Expresión.md"
-    },
-    {
-      "basename": "1.7 Tipos de datos",
-      "path": "2. Áreas/Programación/Lógica de programación/1.7 Tipos de datos.md"
-    },
-    {
-      "basename": "6.2 De asignación",
-      "path": "2. Áreas/Programación/Tecnologías/Java/6.2 De asignación.md"
-    },
-    {
-      "basename": "6. Operadores",
-      "path": "2. Áreas/Programación/Tecnologías/Java/6. Operadores.md"
-    },
-    {
-      "basename": "6.1 Aritméticos",
-      "path": "2. Áreas/Programación/Tecnologías/Java/6.1 Aritméticos.md"
-    },
-    {
-      "basename": "1.8.3 Operadores de comparación",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8.3 Operadores de comparación.md"
-    },
-    {
-      "basename": "1.4 Instrucción",
-      "path": "2. Áreas/Programación/Lógica de programación/1.4 Instrucción.md"
     }
   ],
   "omittedPaths": [],
