@@ -1,13 +1,3 @@
-###### Repositorio de frontend: 
-
-###### Tecnologías:
-
-- Typescript: ^5.2.2
-- React: ^18.3.1
-	- "axios": "^1.6.0",
-	- "react-router-dom": "^6.2.1"
-- Vite ^5.3.1
-- Bootstrap: v5.3.
 
 ###### Dogmas base estrictos a seguir: 
 - principios y sintaxis de POO estrictamente igual a la de java, o lo más similar posible.

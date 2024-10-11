@@ -13,112 +13,120 @@
       "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Tareas - Operaciones.md"
     },
     {
-      "basename": "10. Conventional Commits",
-      "path": "2. Áreas/Programación/Tecnologías/Git/10. Conventional Commits.md"
+      "basename": "Prompt Utils",
+      "path": "3. Notas abstractas/Prompt Utils.md"
     },
     {
-      "basename": "11. Trunk-Based Development",
-      "path": "2. Áreas/Programación/Tecnologías/Git/11. Trunk-Based Development.md"
+      "basename": "ddd + HEXAGONAL",
+      "path": "3. Notas abstractas/ddd + HEXAGONAL.md"
     },
     {
-      "basename": "PC Gamer",
-      "path": "3. Notas abstractas/PC Gamer.md"
+      "basename": "3.1 Tipos de datos primitivos (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/3.1 Tipos de datos primitivos (Java).md"
     },
     {
-      "basename": "Backend",
-      "path": "1. Proyectos/Carwashmetro/Backend.md"
+      "basename": "Contraseña de aplicación",
+      "path": "3. Notas abstractas/Contraseña de aplicación.md"
     },
     {
-      "basename": "Frontend",
-      "path": "1. Proyectos/Carwashmetro/Frontend.md"
+      "basename": "3. Sintaxis (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/3. Sintaxis (Java).md"
     },
     {
-      "basename": "1. Dev Tools",
-      "path": "2. Áreas/Programación/Tecnologías/Dev tools/1. Dev Tools.md"
+      "basename": "2 Infraestructura (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/2 Infraestructura (Java).md"
     },
     {
-      "basename": "1. Docker",
-      "path": "2. Áreas/Programación/Tecnologías/Docker/1. Docker.md"
+      "basename": "1. Java",
+      "path": "2. Áreas/Programación/Tecnologías/Java/1. Java.md"
     },
     {
-      "basename": "Tablero -  Proyectos",
-      "path": "1. Proyectos/Tablero -  Proyectos.md"
+      "basename": "2.1 JRE",
+      "path": "2. Áreas/Programación/Tecnologías/Java/2.1 JRE.md"
     },
     {
-      "basename": "2.3.3 Tipado estático",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3.3 Tipado estático.md"
+      "basename": "JVM",
+      "path": "2. Áreas/Programación/Tecnologías/Java/JVM.md"
     },
     {
-      "basename": "2.4.2 PascalCase",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4.2 PascalCase.md"
+      "basename": "Build Tools Java",
+      "path": "2. Áreas/Programación/Tecnologías/Java/Build Tools Java.md"
     },
     {
-      "basename": "2.4.1 camelCase",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4.1 camelCase.md"
+      "basename": "2.2.1 Javac",
+      "path": "2. Áreas/Programación/Tecnologías/Java/2.2.1 Javac.md"
     },
     {
-      "basename": "2.4.3 snake_case",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.4.3 snake_case.md"
+      "basename": "2.2 JDK",
+      "path": "2. Áreas/Programación/Tecnologías/Java/2.2 JDK.md"
     },
     {
-      "basename": "Notas - 529303",
-      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Notas - 529303.md"
+      "basename": "1.8.4 Operadores lógicos",
+      "path": "2. Áreas/Programación/Lógica de programación/1.8.4 Operadores lógicos.md"
     },
     {
-      "basename": "Recursos - 529303",
-      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/Recursos - 529303.md"
+      "basename": "1.8.3 Operadores de comparación",
+      "path": "2. Áreas/Programación/Lógica de programación/1.8.3 Operadores de comparación.md"
     },
     {
-      "basename": "529303  - Usabilidad catálogos v1",
-      "path": "1. Proyectos/Sura/529303 - Usabilidad catálogos v1/529303  - Usabilidad catálogos v1.md"
+      "basename": "1.8.2 Operadores de asignación",
+      "path": "2. Áreas/Programación/Lógica de programación/1.8.2 Operadores de asignación.md"
     },
     {
-      "basename": "Notas - 574028",
-      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md"
+      "basename": "JetBrains Tools",
+      "path": "3. Notas abstractas/JetBrains Tools.md"
     },
     {
-      "basename": "Recursos - 574028",
-      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Recursos - 574028.md"
+      "basename": "Tipos de datos",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Tipos de datos.md"
     },
     {
-      "basename": "Paradigmas JavaScript",
-      "path": "1. Proyectos/Carwashmetro/Paradigmas JavaScript.md"
+      "basename": "Proceso general",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Proceso general.md"
     },
     {
-      "basename": "574028 - Carácter especial primer nombre",
-      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/574028 - Carácter especial primer nombre.md"
+      "basename": "8. Biblioteca",
+      "path": "2. Áreas/Programación/Conceptos de programación/8. Biblioteca.md"
     },
     {
-      "basename": "2.2 Semántica",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.2 Semántica.md"
+      "basename": "8. Framework",
+      "path": "2. Áreas/Programación/Conceptos de programación/8. Framework.md"
     },
     {
-      "basename": "1.9.4 Estructuras de salto",
-      "path": "2. Áreas/Programación/Lógica de programación/1.9.4 Estructuras de salto.md"
+      "basename": "Sarlaft 4.0 - Documentación de Apoyo Técnico",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Sarlaft 4.0 - Documentación de Apoyo Técnico.md"
     },
     {
-      "basename": "1.9.3 Estructuras de repetición",
-      "path": "2. Áreas/Programación/Lógica de programación/1.9.3 Estructuras de repetición.md"
+      "basename": "1. Sarlaft 4.0",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/1. Sarlaft 4.0.md"
     },
     {
-      "basename": "1.9.2 Estructuras condicionales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.9.2 Estructuras condicionales.md"
+      "basename": "Maven",
+      "path": "2. Áreas/Programación/Tecnologías/Java/Maven.md"
     },
     {
-      "basename": "1.9.1 Estructuras secuenciales",
-      "path": "2. Áreas/Programación/Lógica de programación/1.9.1 Estructuras secuenciales.md"
+      "basename": "JRE",
+      "path": "2. Áreas/Programación/Tecnologías/Java/JRE.md"
     },
     {
-      "basename": "1. Fundamentos de programación",
-      "path": "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md"
+      "basename": "Javadoc",
+      "path": "2. Áreas/Programación/Tecnologías/Java/Javadoc.md"
     },
     {
-      "basename": "1.3 Constante",
-      "path": "2. Áreas/Programación/Lógica de programación/1.3 Constante.md"
+      "basename": "Java EE",
+      "path": "2. Áreas/Programación/Tecnologías/Java/Java EE.md"
     },
     {
-      "basename": "1.2.3 Asignación",
-      "path": "2. Áreas/Programación/Lógica de programación/1.2.3 Asignación.md"
+      "basename": "Gradle",
+      "path": "2. Áreas/Programación/Tecnologías/Java/Gradle.md"
+    },
+    {
+      "basename": "3. POO",
+      "path": "2. Áreas/Programación/Paradigmas/Imperativos/3. POO.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "2. Áreas/Programación/Tecnologías/Java/Spring/Sin título.md"
     },
     {
       "basename": "1.2.2 Inicialización",
@@ -137,68 +145,32 @@
       "path": "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md"
     },
     {
-      "basename": "Notas - 560655",
-      "path": "1. Proyectos/Sura/560655 - Estimación/Notas - 560655.md"
+      "basename": "1. Fundamentos de programación",
+      "path": "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md"
     },
     {
-      "basename": "560655 - Estimación",
-      "path": "1. Proyectos/Sura/560655 - Estimación/560655 - Estimación.md"
+      "basename": "Sin título",
+      "path": "2. Áreas/Desarrollo personal/Sin título.md"
     },
     {
-      "basename": "Notas - 470168",
-      "path": "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Notas - 470168.md"
+      "basename": "2.1 Sintaxis",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md"
     },
     {
-      "basename": "tpl.tarea-notas",
-      "path": "Templates/tpl.tarea-notas.md"
+      "basename": "Frontend",
+      "path": "1. Proyectos/Carwashmetro/Frontend.md"
     },
     {
-      "basename": "tpl.tema+anotaciones",
-      "path": "Templates/tpl.tema+anotaciones.md"
+      "basename": "Backend",
+      "path": "1. Proyectos/Carwashmetro/Backend.md"
     },
     {
-      "basename": "470168 - Ajustes practicas técnicas de calidad Back_Q1_1",
-      "path": "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/470168 - Ajustes practicas técnicas de calidad Back_Q1_1.md"
+      "basename": "Notas - 574028",
+      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md"
     },
     {
-      "basename": "Recursos - 470168",
-      "path": "1. Proyectos/Sura/470168 - Ajustes practicas técnicas de calidad Back_Q1_1/Recursos - 470168.md"
-    },
-    {
-      "basename": "Recursos - 560655",
-      "path": "1. Proyectos/Sura/560655 - Estimación/Recursos - 560655.md"
-    },
-    {
-      "basename": "tpl.subtema+anotaciones",
-      "path": "Templates/tpl.subtema+anotaciones.md"
-    },
-    {
-      "basename": "tpl.tableroKanban",
-      "path": "Templates/tpl.tableroKanban.md"
-    },
-    {
-      "basename": "tpl.tema",
-      "path": "Templates/tpl.tema.md"
-    },
-    {
-      "basename": "tpl.tarea-recursos",
-      "path": "Templates/tpl.tarea-recursos.md"
-    },
-    {
-      "basename": "tpl.tarea",
-      "path": "Templates/tpl.tarea.md"
-    },
-    {
-      "basename": "1.8.2 Operadores de asignación",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8.2 Operadores de asignación.md"
-    },
-    {
-      "basename": "1.8.1 Operadores aritméticos",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8.1 Operadores aritméticos.md"
-    },
-    {
-      "basename": "1.11.1.4 Carácter",
-      "path": "2. Áreas/Programación/Lógica de programación/1.11.1.4 Carácter.md"
+      "basename": "1.2.3 Asignación",
+      "path": "2. Áreas/Programación/Lógica de programación/1.2.3 Asignación.md"
     }
   ],
   "omittedPaths": [],
