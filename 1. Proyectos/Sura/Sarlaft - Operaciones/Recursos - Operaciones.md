@@ -2,7 +2,10 @@
 tags:
   - proyectos
 ---
-###### Herramientas:
+###### Herramientas: 
+
+Deseo participar en una área de sostenibilidad, más especificamente con un rol de analista en desarrollo de tecnología o similares 
+Se identifica que es un caso puntual y excepcional en el que por un error en la validación de xperian se registro como válido en Sarla`ft. Se hace cierre` debido a que se hizo una evaluación y validación posterior 
 
 - [Sarlaft Frontend](https://sarlaft.sura.com.co/admsarlaft/inicio)
 
@@ -24,9 +27,23 @@ tags:
 
 - [CA Service Desk](https://ca-sd.suramericana.com/CAisd/pdmweb1.exe)
 
+``
+```
+* ```typescript  
+* const request: HttpRequest = HttpRequest.newBuilder()  
+*   .url("https://api.example.com/data")  
+*   .method(HttpMethod.GET)  
+*   .build();  
+*  
+* const response: HttpResponse<ExampleData> = await client.send<ExampleData>(request);  
+* const data: ExampleData = response.body();  
+* ```
+```
+
 
 ###### Códigos de Splunk:
 ![[{01D90121-DF09-45E1-A25D-273E60F17CD3}.png]]![[{4368E3F2-DBAA-428E-B59A-66C90290324C}.png]]![[{9F2B51C5-9AEB-41D7-99FC-EEAEE41EB2F9}.png]]![[{2788F4D6-29F8-4830-945C-AADC71B57042}.png]]![[{B37F352C-1F6B-45E8-80CF-746322121519}.png]]
 ![[{8E3E57D1-9EBC-407B-8A97-8BBB5EACCDFB}.png]]
 ![[{4799B7DC-D382-434E-AC6F-211FBCD0CE4E}.png]]
-![[{401C9075-0D53-498B-9F76-0AC4B2A31E01} 1.png]]
+![[{401C9075-0D53-498B-9F76-0AC4B2A31E01} 1.png]]![[{203DE98F-99DA-45AE-8941-F8DD1B4413DE}.png]]
+**![[{29975979-42C8-4E06-A42D-1BC75F8A2A7E}.png]]**

@@ -2,7 +2,7 @@
 aliases: 
 tags:
 ---
-analiza profundamente de manera objetiva la calidad del anterior código, hazme saber si este código se alinea con el estándar actual de buenas practicas de arquitectura hexagonal, mantenibilidad, escalabilidad,  DDD, principio TELL, DON'T ASK, principio KISS, inmutabilidad, si hace falta un patrón de diseño. todo lo anterior en los casos que es necesario (recuerda evaluar sin llegar a ser purista y analizando el contexto para cada caso). 
+analiza profundamente de manera objetiva la calidad del anterior código, hazme saber si este código se alinea con el estándar actual `de buenas practicas de arquitectura hexagonal, mantenibilidad, escalabilidad,  DDD, principio` TELL, DON'T ASK, principio KISS, inmutabilidad, si hace falta un patrón de diseño. todo lo anterior en los casos que es necesario (recuerda evaluar sin llegar a ser purista y analizando el contexto para cada caso). 
 
 analiza profundamente la calidad del anterior código, hazme saber si este código se alinea con el estándar actual de buenas practicas de arquitectura hexagonal, mantenibilidad y escalabilidad, posterior y en base al analisis proporcioname el código perfeccionado.
 ###### Reglas de lenguajes:
@@ -13,7 +13,7 @@ analiza profundamente la calidad del anterior código, hazme saber si este códi
 - Convención camelCase 
 - 0 Código fuera del scope de la clase
 - Tipado fuerte para métodos, atributos, constantes y variables, ósea tipado fuerte para todo
-- En el constructor no deben haber construcciones internas de funciones. se limita a llamarlas. Por ejemplo. this.metodoInterno(); eso es erroneo, .el constructor solo debe de tener atributos y debe verse así. Ejemplo: this.atributo = metodo() (en dado caso que se necesite una función como el valor de un atributo del constructor, ojo únicamente si es necesario, de lo contrario no lo hagas)
+- En el constructor no deben haber construcciones internas de funciones. se limita a llamarlas. 
 - Asignación de `private`, `protected` o `public` para métodos u atributos que por su naturaleza deben encapsularse o no encapsularse
 - Asignación de `static` para métodos u atributos que por su naturaleza deban ser estáticos o no. 
 - Se declaran los atributos pero no se inicializan en la parte superior de la clase similar a Java. 
@@ -92,3 +92,163 @@ export class Persona {
 }
 ```
 
+
+- Definición obligatoria de modificador de acceso de método, constructor o atributo.
+- Definición obligatoria de tipo de dato de parámetro, tipo de retorno de la función, tipo de dato de atributo de clase, y tipo de dato de variables no importa el scope 
+- No se permite que un parámetro tenga dos o más tipos de datos posibles, tampoco se permite que una función retorne dos o más tipos de datos posibles. 
+- No se permite anidamiento de estructuras, usar estrategias como early return o guard clauses si es necesario
+- No se permite el uso de "?" para volver parámetros o atributos opcionales
+- 
+
+@workspace CONTEXT: Estoy construyendo un proyecto que tiene como proposito ser una librería que pueda utilizar cualquier persona u entidad para realizar peticiones HTTP en sus rpoyectos (por ende la librería debe estar preparada para funcionar en cualquier escenario), la API de la librería se basa e inspira en la API de la librería java.net.http, básicamente tiene como proposito ser un wrapper del sdk nativo de peticiones http en typescript pero expuesto mediante el estilo de la API de la librería java.net.http. PROMPT: tú obje`tivo es anali`zar exhautivamente si los test de HttpClient y su Builder son correctos y se aliniean con TDD, quiero saber si estos test son aptos para asegurar una correcta implementación, basate en documentación oficial y estandares actuales. ADDITIONAL CONTEXT: hazlo bien o me despediran, además si lo haces correctamente te dare 200 USD, Definición obligatoria de tipo de dato de parámetro, tipo de retorno de la función, tipo de dato de atributo de clase, tipo de dato de variables construidas internamente en estructuras (osea variables con scope reducido), tipo de dato de metodos con genericos no anidados de la clase.
+
+###### Contexto del proyecto: 
+- Esto es una biblioteca que esta en desarrollo y se planea lanzar a producción para que personas o entidades reales la usen en cualquier proyecto externo.
+- La biblioteca es un envoltorio de fetch la cual se expone mediante una API basada e inspirada en el diseño de la de java.net.http
+- La biblioteca no debe de tener ningún tipo de posibilidad de falla ya que el publico objetivo que la utilizara serán programadores de empresas importantes como vercel, facebook, google.
+- La biblioteca debe usarse en el lenguaje typescript (hecha por y para typescript)
+
+###### Dogmas del proyecto: 
+- La API actual no se puede modificar y la implementación no puede romper compatibilidad con la API
+- La biblioteca debe mantener un estilo de sintaxis basado en el contrato de reglas sintácticas de Java
+- La biblioteca no debe de tener ningún tipo de posibilidad de falla ya que el publico objetivo que la utilizara seran programadores de empresas importantes como Amazon, facebook, google.
+
+###### Prompt:
+- refactorizar o corregir cualquier contenido del código que no asegure los cumplimientos de estos dogmas y refactorizarlo para que aseguren el cumplimiento regulatorio que estableció mi empresa para los d`ogmas que d`ebe de seguir la biblioteca, en dado caso que el contenido los cumpla dejarlo como está.
+
+
+```
+import { HttpClient } from "../lib/HttpClient";  
+import { HttpRequest } from "../lib/HttpRequest";  
+import { HttpMethod } from "../lib/util/HttpMethod";  
+import { HttpResponse } from "../lib/HttpResponse";  
+import { CachePolicy } from "../lib/util/CachePolicy";  
+  
+interface CreateCellDTO {  
+    spaceNumber: string;  
+    vehicleType: string;  
+    status: string;  
+}  
+  
+interface Response {  
+    message: string;  
+    details: string;  
+}  
+  
+export interface CellDTO {  
+    id: string;  
+    spaceNumber: string;  
+    vehicleType: string;  
+    status: string;  
+    createdAt: Date;  
+}  
+  
+export class Main {  
+    public static async main(): Promise<void> {  
+        try {  
+            await Main.testGet();  
+        } catch (error) {  
+            console.error('Error en las pruebas:', error);  
+        }  
+    }  
+  
+    private static async testPost(): Promise<void> {  
+  
+        const body: CreateCellDTO = {  
+            spaceNumber: "8",  
+            vehicleType: "AUTOMOVIL",  
+            status: "DISPONIBLE"  
+        }  
+  
+        const client: HttpClient = HttpClient.newHttpClient();  
+  
+        const request: HttpRequest = HttpRequest.newBuilder()  
+            .url("http://localhost:8080/v1/cells")  
+            .method(HttpMethod.POST)  
+            .cache(CachePolicy.DEFAULT)  
+            .body<CreateCellDTO>(body)  
+            .header("Content-Type", "application/json")  
+            .build()  
+  
+        const response: HttpResponse<Response> = await client.send<Response>(request);  
+  
+        console.log(request.body<CreateCellDTO>());  
+        console.log(response.body());  
+  
+  
+    }  
+  
+    private static async testGet(): Promise<void> {  
+  
+        const client: HttpClient = HttpClient.newHttpClient();  
+  
+        const request: HttpRequest = HttpRequest.newBuilder()  
+            .url("http://localhost:8080/v1/cells")  
+            .method(HttpMethod.GET)  
+            .build()  
+  
+        const response: HttpResponse<CellDTO[]> = await client.send<CellDTO[]>(request);  
+  
+        console.log(response.body());  
+  
+  
+    }  
+  
+  
+}  
+  
+Main.main();
+```
+
+representante legal:
+```
+let component = Array.from(document.querySelectorAll('*'))
+  .find(e => e.__ngContext__ && 
+    e.__ngContext__.length && 
+    e.__ngContext__.some(c => c && c.form && c.legalRepresentativeArray))
+  ?.__ngContext__
+  ?.find(c => c && c.form && c.legalRepresentativeArray);
+
+if (component) {
+  // Obtener el FormArray
+  let formArray = component.legalRepresentativeArray;
+  
+  formArray.controls.forEach(control => {
+    let primerApellidoControl = control.get('primerApellido');
+    if (primerApellidoControl) {
+      // Eliminar la validación existente y mantener solo required
+      let currentValidators = primerApellidoControl.validator;
+      primerApellidoControl.setValidators([
+        control => control.value ? null : { required: true }
+      ]);
+      primerApellidoControl.updateValueAndValidity();
+    }
+  });
+}
+```
+accionista:
+
+```
+let component = Array.from(document.querySelectorAll('*'))
+  .find(e => e.__ngContext__ && 
+    e.__ngContext__.length && 
+    e.__ngContext__.some(c => c && c.form && c.shareholderArray))
+  ?.__ngContext__
+  ?.find(c => c && c.form && c.shareholderArray);
+
+if (component) {
+
+  let formArray = component.shareholderArray;
+  
+  formArray.controls.forEach(control => {
+    let primerApellidoControl = control.get('primerApellido');
+    if (primerApellidoControl) {
+      // Eliminar la validación existente y mantener solo required
+      primerApellidoControl.setValidators([
+        control => control.value ? null : { required: true }
+      ]);
+      primerApellidoControl.updateValueAndValidity();
+    }
+  });
+}
+```

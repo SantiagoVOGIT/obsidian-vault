@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6975c2e0cda607b2",
+        "id": "135de1627b710002",
         "type": "tabs",
         "children": [
           {
-            "id": "42de1071a31572a4",
+            "id": "40e90904a2f038e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Proyectos/Sura/Sarlaft - Operaciones/Notas - Operaciones.md",
+                "file": "2. Áreas/Programación/Conceptos de programación/2.3.1 Tipado fuerte.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9f6c1b3dede14f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Proyectos/Sura/Sarlaft - Operaciones/Recursos - Operaciones.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.3.1 Tipado fuerte"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -67,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -75,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           },
           {
@@ -83,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -91,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           }
         ]
@@ -122,7 +121,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Recursos - Operaciones"
             }
           },
           {
@@ -134,7 +135,9 @@
                 "file": "1. Proyectos/Sura/Sarlaft - Operaciones/Recursos - Operaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Recursos - Operaciones"
             }
           },
           {
@@ -145,7 +148,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -154,8 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Proyectos/Sura/Sarlaft - Operaciones/Recursos - Operaciones.md"
-              }
+                "file": "2. Áreas/Programación/Conceptos de programación/2.3.1 Tipado fuerte.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 2.3.1 Tipado fuerte"
             }
           },
           {
@@ -167,11 +174,13 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,45 +199,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9f6c1b3dede14f99",
+  "active": "40e90904a2f038e4",
   "lastOpenFiles": [
-    "1. Proyectos/Sura/Sarlaft - Operaciones/Notas - Operaciones.md",
+    "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md",
+    "1. Proyectos/Sura/Sarlaft - Operaciones/notas.md",
+    "1. Proyectos/Carwashmetro/Frontend.md",
+    "2. Áreas/Programación/Conceptos de programación/2.3 Tipado.md",
+    "2. Áreas/Programación/Tecnologías/Java/2 Infraestructura (Java).md",
+    "3. Notas abstractas/Sin título.md",
     "1. Proyectos/Sura/Sarlaft - Operaciones/Recursos - Operaciones.md",
+    "3. Notas abstractas/Moto.md",
+    "1. Proyectos/Sura/Sarlaft - Operaciones/Notas - Operaciones.md",
     "1. Proyectos/Sura/Sarlaft - Operaciones/Tareas - Operaciones.md",
     "3. Notas abstractas/Prompt Utils.md",
+    "1. Proyectos/Carwashmetro/Backend.md",
+    "Assets/{B4EE05FA-E0F8-4D20-9EF4-29708D25FB6B}.png",
+    "Assets/{B11BA439-E9B5-4BBE-B3D1-BA7E301FBA32}.png",
     "3. Notas abstractas/ddd + HEXAGONAL.md",
-    "2. Áreas/Programación/Tecnologías/Java/3.1 Tipos de datos primitivos (Java).md",
     "3. Notas abstractas/Contraseña de aplicación.md",
-    "2. Áreas/Programación/Tecnologías/Java/3. Sintaxis (Java).md",
-    "2. Áreas/Programación/Tecnologías/Java/2 Infraestructura (Java).md",
-    "2. Áreas/Programación/Tecnologías/Java/1. Java.md",
-    "2. Áreas/Programación/Tecnologías/Java/2.1 JRE.md",
-    "2. Áreas/Programación/Tecnologías/Java/JVM.md",
-    "2. Áreas/Programación/Tecnologías/Java/Build Tools Java.md",
-    "2. Áreas/Programación/Tecnologías/Java/2.2.1 Javac.md",
-    "2. Áreas/Programación/Tecnologías/Java/6. Operadores.md",
-    "2. Áreas/Programación/Tecnologías/Java/2.2 JDK.md",
-    "2. Áreas/Programación/Tecnologías/Java/6.3 De comparación.md",
-    "2. Áreas/Programación/Lógica de programación/1.8.4 Operadores lógicos.md",
-    "2. Áreas/Programación/Lógica de programación/1.8.3 Operadores de comparación.md",
-    "2. Áreas/Programación/Lógica de programación/1.8.2 Operadores de asignación.md",
+    "2. Áreas/Programación/Lógica de programación/1.9 Estructuras de control.md",
     "3. Notas abstractas/JetBrains Tools.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Tipos de datos.md",
+    "2. Áreas/Desarrollo personal/Sin título.md",
+    "Assets/{29975979-42C8-4E06-A42D-1BC75F8A2A7E}.png",
+    "Assets/{203DE98F-99DA-45AE-8941-F8DD1B4413DE}.png",
     "1. Proyectos/Sura/Sarlaft 4.0/Proceso general.md",
-    "2. Áreas/Programación/Conceptos de programación/8. Biblioteca.md",
-    "2. Áreas/Programación/Conceptos de programación/8. Framework.md",
-    "1. Proyectos/Sura/Sarlaft 4.0/Sarlaft 4.0 - Documentación de Apoyo Técnico.md",
+    "2. Áreas/Programación/Tecnologías/Java/3. Sintaxis (Java).md",
+    "2. Áreas/Programación/Tecnologías/Java/2.2.1 Javac.md",
+    "2. Áreas/Programación/Tecnologías/Java/1. Java.md",
+    "2. Áreas/Programación/Patrones de diseño/1. Patrones de diseño.md",
+    "2. Áreas/Programación/Conceptos de programación/2.7.3 Hibrido.md",
+    "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md",
+    "2. Áreas/Programación/Conceptos de programación/2.7.2 Interpretado.md",
+    "2. Áreas/Programación/Conceptos de programación/2.7.1 Compilado.md",
     "Assets/{401C9075-0D53-498B-9F76-0AC4B2A31E01} 1.png",
     "Assets/{401C9075-0D53-498B-9F76-0AC4B2A31E01}.png",
     "Assets/{4799B7DC-D382-434E-AC6F-211FBCD0CE4E}.png",
     "Assets/{8E3E57D1-9EBC-407B-8A97-8BBB5EACCDFB}.png",
     "Assets/{B37F352C-1F6B-45E8-80CF-746322121519}.png",
     "Assets/{2788F4D6-29F8-4830-945C-AADC71B57042}.png",
-    "Assets/{9F2B51C5-9AEB-41D7-99FC-EEAEE41EB2F9}.png",
-    "Assets/{4368E3F2-DBAA-428E-B59A-66C90290324C}.png",
-    "Assets/{01D90121-DF09-45E1-A25D-273E60F17CD3}.png",
     "2. Áreas/Desarrollo personal",
-    "Assets/Pasted image 20240730085003.png",
     "1. Proyectos/Sura/Sarlaft 4.0",
     "1. Proyectos/Sura/604331 - Onboarding Sarlaft",
     "2. Áreas/Programación/Tecnologías/Dev tools",

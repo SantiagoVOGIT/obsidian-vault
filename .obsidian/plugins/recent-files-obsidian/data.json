@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Recursos - Operaciones",
-      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Recursos - Operaciones.md"
+      "basename": "2.3.1 Tipado fuerte",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.3.1 Tipado fuerte.md"
+    },
+    {
+      "basename": "2.1 Sintaxis",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md"
+    },
+    {
+      "basename": "notas",
+      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/notas.md"
     },
     {
       "basename": "Notas - Operaciones",
       "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Notas - Operaciones.md"
+    },
+    {
+      "basename": "Frontend",
+      "path": "1. Proyectos/Carwashmetro/Frontend.md"
+    },
+    {
+      "basename": "2.3 Tipado",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.3 Tipado.md"
+    },
+    {
+      "basename": "2 Infraestructura (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/2 Infraestructura (Java).md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "3. Notas abstractas/Sin título.md"
+    },
+    {
+      "basename": "Recursos - Operaciones",
+      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Recursos - Operaciones.md"
+    },
+    {
+      "basename": "Moto",
+      "path": "3. Notas abstractas/Moto.md"
     },
     {
       "basename": "Tareas - Operaciones",
@@ -17,28 +49,100 @@
       "path": "3. Notas abstractas/Prompt Utils.md"
     },
     {
-      "basename": "ddd + HEXAGONAL",
-      "path": "3. Notas abstractas/ddd + HEXAGONAL.md"
+      "basename": "Backend",
+      "path": "1. Proyectos/Carwashmetro/Backend.md"
     },
     {
-      "basename": "3.1 Tipos de datos primitivos (Java)",
-      "path": "2. Áreas/Programación/Tecnologías/Java/3.1 Tipos de datos primitivos (Java).md"
+      "basename": "ddd + HEXAGONAL",
+      "path": "3. Notas abstractas/ddd + HEXAGONAL.md"
     },
     {
       "basename": "Contraseña de aplicación",
       "path": "3. Notas abstractas/Contraseña de aplicación.md"
     },
     {
+      "basename": "1.9 Estructuras de control",
+      "path": "2. Áreas/Programación/Lógica de programación/1.9 Estructuras de control.md"
+    },
+    {
+      "basename": "JetBrains Tools",
+      "path": "3. Notas abstractas/JetBrains Tools.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "2. Áreas/Desarrollo personal/Sin título.md"
+    },
+    {
+      "basename": "Sarlaft 4.0 - Documentación de Apoyo Técnico",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Sarlaft 4.0 - Documentación de Apoyo Técnico.md"
+    },
+    {
+      "basename": "Proceso general",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/Proceso general.md"
+    },
+    {
       "basename": "3. Sintaxis (Java)",
       "path": "2. Áreas/Programación/Tecnologías/Java/3. Sintaxis (Java).md"
     },
     {
-      "basename": "2 Infraestructura (Java)",
-      "path": "2. Áreas/Programación/Tecnologías/Java/2 Infraestructura (Java).md"
+      "basename": "2.2.1 Javac",
+      "path": "2. Áreas/Programación/Tecnologías/Java/2.2.1 Javac.md"
     },
     {
       "basename": "1. Java",
       "path": "2. Áreas/Programación/Tecnologías/Java/1. Java.md"
+    },
+    {
+      "basename": "1. Patrones de diseño",
+      "path": "2. Áreas/Programación/Patrones de diseño/1. Patrones de diseño.md"
+    },
+    {
+      "basename": "2.7.3 Hibrido",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7.3 Hibrido.md"
+    },
+    {
+      "basename": "2.7.4 Transpilación",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md"
+    },
+    {
+      "basename": "2.7.2 Interpretado",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7.2 Interpretado.md"
+    },
+    {
+      "basename": "2.7.1 Compilado",
+      "path": "2. Áreas/Programación/Conceptos de programación/2.7.1 Compilado.md"
+    },
+    {
+      "basename": "Notas - 604331",
+      "path": "1. Proyectos/Sura/604331 - Onboarding Sarlaft/Notas - 604331.md"
+    },
+    {
+      "basename": "604331 - Onboarding Sarlaft",
+      "path": "1. Proyectos/Sura/604331 - Onboarding Sarlaft/604331 - Onboarding Sarlaft.md"
+    },
+    {
+      "basename": "560655 - Estimación",
+      "path": "1. Proyectos/Sura/560655 - Estimación/560655 - Estimación.md"
+    },
+    {
+      "basename": "Notas - 560655",
+      "path": "1. Proyectos/Sura/560655 - Estimación/Notas - 560655.md"
+    },
+    {
+      "basename": "Recursos - 560655",
+      "path": "1. Proyectos/Sura/560655 - Estimación/Recursos - 560655.md"
+    },
+    {
+      "basename": "1. Sarlaft 4.0",
+      "path": "1. Proyectos/Sura/Sarlaft 4.0/1. Sarlaft 4.0.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "3.1 Tipos de datos primitivos (Java)",
+      "path": "2. Áreas/Programación/Tecnologías/Java/3.1 Tipos de datos primitivos (Java).md"
     },
     {
       "basename": "2.1 JRE",
@@ -51,10 +155,6 @@
     {
       "basename": "Build Tools Java",
       "path": "2. Áreas/Programación/Tecnologías/Java/Build Tools Java.md"
-    },
-    {
-      "basename": "2.2.1 Javac",
-      "path": "2. Áreas/Programación/Tecnologías/Java/2.2.1 Javac.md"
     },
     {
       "basename": "2.2 JDK",
@@ -73,16 +173,8 @@
       "path": "2. Áreas/Programación/Lógica de programación/1.8.2 Operadores de asignación.md"
     },
     {
-      "basename": "JetBrains Tools",
-      "path": "3. Notas abstractas/JetBrains Tools.md"
-    },
-    {
       "basename": "Tipos de datos",
       "path": "1. Proyectos/Sura/Sarlaft 4.0/Tipos de datos.md"
-    },
-    {
-      "basename": "Proceso general",
-      "path": "1. Proyectos/Sura/Sarlaft 4.0/Proceso general.md"
     },
     {
       "basename": "8. Biblioteca",
@@ -91,14 +183,6 @@
     {
       "basename": "8. Framework",
       "path": "2. Áreas/Programación/Conceptos de programación/8. Framework.md"
-    },
-    {
-      "basename": "Sarlaft 4.0 - Documentación de Apoyo Técnico",
-      "path": "1. Proyectos/Sura/Sarlaft 4.0/Sarlaft 4.0 - Documentación de Apoyo Técnico.md"
-    },
-    {
-      "basename": "1. Sarlaft 4.0",
-      "path": "1. Proyectos/Sura/Sarlaft 4.0/1. Sarlaft 4.0.md"
     },
     {
       "basename": "Maven",
@@ -115,62 +199,6 @@
     {
       "basename": "Java EE",
       "path": "2. Áreas/Programación/Tecnologías/Java/Java EE.md"
-    },
-    {
-      "basename": "Gradle",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Gradle.md"
-    },
-    {
-      "basename": "3. POO",
-      "path": "2. Áreas/Programación/Paradigmas/Imperativos/3. POO.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Spring/Sin título.md"
-    },
-    {
-      "basename": "1.2.2 Inicialización",
-      "path": "2. Áreas/Programación/Lógica de programación/1.2.2 Inicialización.md"
-    },
-    {
-      "basename": "1.2.1 Declaración",
-      "path": "2. Áreas/Programación/Lógica de programación/1.2.1 Declaración.md"
-    },
-    {
-      "basename": "1.2 Variable",
-      "path": "2. Áreas/Programación/Lógica de programación/1.2 Variable.md"
-    },
-    {
-      "basename": "1.1 Pensamiento computacional",
-      "path": "2. Áreas/Programación/Lógica de programación/1.1 Pensamiento computacional.md"
-    },
-    {
-      "basename": "1. Fundamentos de programación",
-      "path": "2. Áreas/Programación/Lógica de programación/1. Fundamentos de programación.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "2. Áreas/Desarrollo personal/Sin título.md"
-    },
-    {
-      "basename": "2.1 Sintaxis",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md"
-    },
-    {
-      "basename": "Frontend",
-      "path": "1. Proyectos/Carwashmetro/Frontend.md"
-    },
-    {
-      "basename": "Backend",
-      "path": "1. Proyectos/Carwashmetro/Backend.md"
-    },
-    {
-      "basename": "Notas - 574028",
-      "path": "1. Proyectos/Sura/574028 - Carácter especial primer nombre/Notas - 574028.md"
-    },
-    {
-      "basename": "1.2.3 Asignación",
-      "path": "2. Áreas/Programación/Lógica de programación/1.2.3 Asignación.md"
     }
   ],
   "omittedPaths": [],
