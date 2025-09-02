@@ -13,5 +13,7 @@
   "showLineNumber": false,
   "showIndentGuide": true,
   "newFileLocation": "current",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": false,
+  "readableLineLength": true
 }

@@ -1,0 +1,3 @@
+Una computadora es una máquina electrónica programable que procesa datos mediante la ejecución de instrucciones (programas), capaz de recibir información de entrada, almacenarla, manipularla según algoritmos predefinidos y producir resultados de salida.
+
+Está compuesta fundamentalmente por unidades de entrada, procesamiento (CPU), memoria, almacenamiento y salida, que trabajan coordinadamente bajo el control de software para realizar cálculos, operaciones lógicas y tareas de procesamiento de información de forma automática y a alta velocidad.

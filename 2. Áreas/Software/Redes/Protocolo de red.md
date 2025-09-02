@@ -1,0 +1,1 @@
+reglas y estándares para la comunicación en una red

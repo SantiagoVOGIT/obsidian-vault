@@ -1,0 +1,1 @@
+Antes de que la CPU haga la operación matematica para determinar el valor de la variable declarada se le asigna previamente una dirección de memoria que puede tener un es

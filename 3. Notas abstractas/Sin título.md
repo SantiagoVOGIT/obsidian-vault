@@ -1,8 +1,0 @@
-
-- El error afecto a menos de una docena de usuarios en un periodo de no menos de 15 días
-- No se han vuelto a reportar errores relacionados desde el 18 de diciembre de 2024
-- Se analizó la evaluación afecta con ID "d28bbbe7-ddaf-42cf-af80-7eb0f419dec3" y se comparo con un caso común y corriente con ID de evaluación "028623e3-d5f6-4645-a044-3e96fbd4b303"
-- No hubieron errores relacionados registrados en Splunk dentro de Sarlaft durante el proceso de EXPERIAN: [Search | Splunk 9.2.1]()
-- No hubieron errores relacionados registrados en Splunk dentro de los servicios de EXPERIAN durante la validación:  [Search | Splunk 9.2.1](https://holmes.suramericana.com.co/en-GB/app/access_control/search?q=search%20index%3D%22idx_identityvalidator_err%22&display.page.search.mode=verbose&dispatch.sample_ratio=1&earliest=1734449640&latest=1734449743.172&sid=1735232892.48339)
-- No hubieron registros de Splunk relacionados con la notificación del resultado de la validación de EXPERIAN: [Search | Splunk 9.2.1](https://sherlock.suramericana.com.co/en-GB/app/SARLAFT4/search?q=search%20index%3D%22idx_sarlaft4_*%22%20message%3D%22*16631381*%22&display.page.search.mode=verbose&dispatch.sample_ratio=1&earliest=1734411600&latest=1734584400&sid=1735238394.528679)
-- Los registros de Splunk dentro de los servicios de EXPERIAN se compararon con un proceso de validación que si fue exitoso sin novedades y los registros se ven similares, sin diferencias significativas, caso que se uso para comparar: [Search | Splunk 9.2.1](https://sherlock.suramericana.com.co/en-GB/app/SARLAFT4/search?q=search%20index%3D%22idx_identityvalidator_aud%22%20message%3D%22*94152667*%22&display.page.search.mode=verbose&dispatch.sample_ratio=1&earliest=1734411600&latest=1734584400&sid=1735238684.528698)

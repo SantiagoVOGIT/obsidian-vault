@@ -1,0 +1,20 @@
+
+- Qué es el Frontend y el Backend 
+- Para qué sirve JavaScript
+- Qué es una base de datos relacional
+	- Qué es una tabla
+	- Qué es una columna
+	- Qué es una llave primaria y una llave foranea
+	- Qué es un ID
+- Qué es un framework
+- Qué es Java
+	- Por qué Spring boot es un framework de Java y para qué sirve
+- Cuál es la diferencia entre JavaScript y Java 
+- Qué es una API
+	- Qué es una solicitud HTTP
+	- Qué es un endpoint
+	- Cuales y que son los métodos HTTP
+	- Qué es un archivo JSON
+	- Qué es una API REST
+- Para qué sirve el método Fetch de JavaScript
+- Por qué angular es un framework de JavaScript y para qué sirve

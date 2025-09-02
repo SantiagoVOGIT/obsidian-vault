@@ -1,76 +1,152 @@
 {
   "recentFiles": [
     {
-      "basename": "2.3.1 Tipado fuerte",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3.1 Tipado fuerte.md"
+      "basename": "Programas - aplicaciones",
+      "path": "3. Otros/Programas - aplicaciones.md"
     },
     {
-      "basename": "2.1 Sintaxis",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.1 Sintaxis.md"
+      "basename": "Java temario",
+      "path": "3. Otros/Java temario.md"
     },
     {
-      "basename": "notas",
-      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/notas.md"
+      "basename": "IaaS",
+      "path": "2. Áreas/Software/Conceptos de programación/IaaS.md"
     },
     {
-      "basename": "Notas - Operaciones",
-      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Notas - Operaciones.md"
+      "basename": "PaaS",
+      "path": "2. Áreas/Software/Conceptos de programación/PaaS.md"
     },
     {
-      "basename": "Frontend",
-      "path": "1. Proyectos/Carwashmetro/Frontend.md"
+      "basename": "SaaS",
+      "path": "2. Áreas/Software/Conceptos de programación/SaaS.md"
     },
     {
-      "basename": "2.3 Tipado",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.3 Tipado.md"
+      "basename": "ORM",
+      "path": "2. Áreas/Software/Conceptos de programación/ORM.md"
     },
     {
-      "basename": "2 Infraestructura (Java)",
-      "path": "2. Áreas/Programación/Tecnologías/Java/2 Infraestructura (Java).md"
+      "basename": "Computadora",
+      "path": "2. Áreas/Software/Conceptos de programación/Computadora.md"
     },
     {
-      "basename": "Sin título",
-      "path": "3. Notas abstractas/Sin título.md"
+      "basename": "Servidor",
+      "path": "2. Áreas/Software/Redes/Servidor.md"
     },
     {
-      "basename": "Recursos - Operaciones",
-      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Recursos - Operaciones.md"
+      "basename": "VPN",
+      "path": "2. Áreas/Software/Redes/VPN.md"
     },
     {
-      "basename": "Moto",
-      "path": "3. Notas abstractas/Moto.md"
+      "basename": "WAN",
+      "path": "2. Áreas/Software/Redes/WAN.md"
     },
     {
-      "basename": "Tareas - Operaciones",
-      "path": "1. Proyectos/Sura/Sarlaft - Operaciones/Tareas - Operaciones.md"
+      "basename": "Matemáticas",
+      "path": "2. Áreas/Matemáticas.md"
+    },
+    {
+      "basename": "Modelo OSI",
+      "path": "2. Áreas/Software/Redes/Modelo OSI.md"
+    },
+    {
+      "basename": "WS",
+      "path": "2. Áreas/Software/Redes/WS.md"
     },
     {
       "basename": "Prompt Utils",
-      "path": "3. Notas abstractas/Prompt Utils.md"
+      "path": "3. Otros/Prompt Utils.md"
     },
     {
-      "basename": "Backend",
-      "path": "1. Proyectos/Carwashmetro/Backend.md"
+      "basename": "IPv4",
+      "path": "2. Áreas/Software/Redes/IPv4.md"
     },
     {
-      "basename": "ddd + HEXAGONAL",
-      "path": "3. Notas abstractas/ddd + HEXAGONAL.md"
+      "basename": "IPv6",
+      "path": "2. Áreas/Software/Redes/IPv6.md"
     },
     {
-      "basename": "Contraseña de aplicación",
-      "path": "3. Notas abstractas/Contraseña de aplicación.md"
+      "basename": "Unicast",
+      "path": "2. Áreas/Software/Redes/Unicast.md"
     },
     {
-      "basename": "1.9 Estructuras de control",
-      "path": "2. Áreas/Programación/Lógica de programación/1.9 Estructuras de control.md"
+      "basename": "Capa de Internet (2)",
+      "path": "2. Áreas/Software/Redes/Capa de Internet (2).md"
     },
     {
-      "basename": "JetBrains Tools",
-      "path": "3. Notas abstractas/JetBrains Tools.md"
+      "basename": "DNS",
+      "path": "2. Áreas/Software/Redes/DNS.md"
     },
     {
-      "basename": "Sin título",
-      "path": "2. Áreas/Desarrollo personal/Sin título.md"
+      "basename": "TCP",
+      "path": "2. Áreas/Software/Redes/TCP.md"
+    },
+    {
+      "basename": "1. Sin título",
+      "path": "2. Áreas/Software/Redes/1. Sin título.md"
+    },
+    {
+      "basename": "Broadcast",
+      "path": "2. Áreas/Software/Redes/Broadcast.md"
+    },
+    {
+      "basename": "Multicast",
+      "path": "2. Áreas/Software/Redes/Multicast.md"
+    },
+    {
+      "basename": "Mascaras de red-subred",
+      "path": "2. Áreas/Software/Redes/Mascaras de red-subred.md"
+    },
+    {
+      "basename": "Plataformas y sitios",
+      "path": "2. Áreas/Ibero/Plataformas y sitios.md"
+    },
+    {
+      "basename": "CIDR",
+      "path": "2. Áreas/Software/Redes/CIDR.md"
+    },
+    {
+      "basename": "host",
+      "path": "2. Áreas/Software/Redes/host.md"
+    },
+    {
+      "basename": "CDN",
+      "path": "2. Áreas/Software/Redes/CDN.md"
+    },
+    {
+      "basename": "Capa de Interfaz de Red (1)",
+      "path": "2. Áreas/Software/Redes/Capa de Interfaz de Red (1).md"
+    },
+    {
+      "basename": "Capa de Aplicación (4)",
+      "path": "2. Áreas/Software/Redes/Capa de Aplicación (4).md"
+    },
+    {
+      "basename": "Platzi restantes",
+      "path": "3. Otros/Platzi restantes.md"
+    },
+    {
+      "basename": "PowerToys Atajos",
+      "path": "3. Otros/PowerToys Atajos.md"
+    },
+    {
+      "basename": "PDU",
+      "path": "2. Áreas/Software/Redes/PDU.md"
+    },
+    {
+      "basename": "Capa de Transporte (3)",
+      "path": "2. Áreas/Software/Redes/Capa de Transporte (3).md"
+    },
+    {
+      "basename": "Cliente",
+      "path": "2. Áreas/Software/Redes/Cliente.md"
+    },
+    {
+      "basename": "Cliente-servidor",
+      "path": "2. Áreas/Software/Redes/Cliente-servidor.md"
+    },
+    {
+      "basename": "Inglés",
+      "path": "2. Áreas/Ibero/Inglés/Inglés.md"
     },
     {
       "basename": "Sarlaft 4.0 - Documentación de Apoyo Técnico",
@@ -81,127 +157,54 @@
       "path": "1. Proyectos/Sura/Sarlaft 4.0/Proceso general.md"
     },
     {
-      "basename": "3. Sintaxis (Java)",
-      "path": "2. Áreas/Programación/Tecnologías/Java/3. Sintaxis (Java).md"
-    },
-    {
-      "basename": "2.2.1 Javac",
-      "path": "2. Áreas/Programación/Tecnologías/Java/2.2.1 Javac.md"
-    },
-    {
-      "basename": "1. Java",
-      "path": "2. Áreas/Programación/Tecnologías/Java/1. Java.md"
-    },
-    {
-      "basename": "1. Patrones de diseño",
-      "path": "2. Áreas/Programación/Patrones de diseño/1. Patrones de diseño.md"
-    },
-    {
-      "basename": "2.7.3 Hibrido",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.3 Hibrido.md"
-    },
-    {
-      "basename": "2.7.4 Transpilación",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.4 Transpilación.md"
-    },
-    {
-      "basename": "2.7.2 Interpretado",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.2 Interpretado.md"
-    },
-    {
-      "basename": "2.7.1 Compilado",
-      "path": "2. Áreas/Programación/Conceptos de programación/2.7.1 Compilado.md"
-    },
-    {
-      "basename": "Notas - 604331",
-      "path": "1. Proyectos/Sura/604331 - Onboarding Sarlaft/Notas - 604331.md"
-    },
-    {
-      "basename": "604331 - Onboarding Sarlaft",
-      "path": "1. Proyectos/Sura/604331 - Onboarding Sarlaft/604331 - Onboarding Sarlaft.md"
-    },
-    {
-      "basename": "560655 - Estimación",
-      "path": "1. Proyectos/Sura/560655 - Estimación/560655 - Estimación.md"
-    },
-    {
-      "basename": "Notas - 560655",
-      "path": "1. Proyectos/Sura/560655 - Estimación/Notas - 560655.md"
-    },
-    {
-      "basename": "Recursos - 560655",
-      "path": "1. Proyectos/Sura/560655 - Estimación/Recursos - 560655.md"
-    },
-    {
       "basename": "1. Sarlaft 4.0",
       "path": "1. Proyectos/Sura/Sarlaft 4.0/1. Sarlaft 4.0.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Frontend",
+      "path": "1. Proyectos/Carwashmetro/Frontend.md"
     },
     {
-      "basename": "3.1 Tipos de datos primitivos (Java)",
-      "path": "2. Áreas/Programación/Tecnologías/Java/3.1 Tipos de datos primitivos (Java).md"
+      "basename": "Paradigmas JavaScript",
+      "path": "1. Proyectos/Carwashmetro/Paradigmas JavaScript.md"
     },
     {
-      "basename": "2.1 JRE",
-      "path": "2. Áreas/Programación/Tecnologías/Java/2.1 JRE.md"
+      "basename": "Gateway",
+      "path": "2. Áreas/Software/Redes/Gateway.md"
     },
     {
-      "basename": "JVM",
-      "path": "2. Áreas/Programación/Tecnologías/Java/JVM.md"
+      "basename": "MIME Types",
+      "path": "2. Áreas/Software/Redes/MIME Types.md"
     },
     {
-      "basename": "Build Tools Java",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Build Tools Java.md"
+      "basename": "Componentes claves de una red",
+      "path": "2. Áreas/Software/Redes/Componentes claves de una red.md"
     },
     {
-      "basename": "2.2 JDK",
-      "path": "2. Áreas/Programación/Tecnologías/Java/2.2 JDK.md"
+      "basename": "gRPC",
+      "path": "2. Áreas/Software/Redes/gRPC.md"
     },
     {
-      "basename": "1.8.4 Operadores lógicos",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8.4 Operadores lógicos.md"
+      "basename": "HTTP",
+      "path": "2. Áreas/Software/Redes/HTTP.md"
     },
     {
-      "basename": "1.8.3 Operadores de comparación",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8.3 Operadores de comparación.md"
+      "basename": "Moto",
+      "path": "3. Otros/Moto.md"
     },
     {
-      "basename": "1.8.2 Operadores de asignación",
-      "path": "2. Áreas/Programación/Lógica de programación/1.8.2 Operadores de asignación.md"
+      "basename": "Darius",
+      "path": "3. Otros/Darius.md"
     },
     {
-      "basename": "Tipos de datos",
-      "path": "1. Proyectos/Sura/Sarlaft 4.0/Tipos de datos.md"
-    },
-    {
-      "basename": "8. Biblioteca",
-      "path": "2. Áreas/Programación/Conceptos de programación/8. Biblioteca.md"
-    },
-    {
-      "basename": "8. Framework",
-      "path": "2. Áreas/Programación/Conceptos de programación/8. Framework.md"
-    },
-    {
-      "basename": "Maven",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Maven.md"
-    },
-    {
-      "basename": "JRE",
-      "path": "2. Áreas/Programación/Tecnologías/Java/JRE.md"
-    },
-    {
-      "basename": "Javadoc",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Javadoc.md"
-    },
-    {
-      "basename": "Java EE",
-      "path": "2. Áreas/Programación/Tecnologías/Java/Java EE.md"
+      "basename": "JetBrains Atajos",
+      "path": "3. Otros/JetBrains Atajos.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }

@@ -1,0 +1,1 @@
+es el tiempo que la tarda un mensaje para salir de una computadora y llegar a la otra

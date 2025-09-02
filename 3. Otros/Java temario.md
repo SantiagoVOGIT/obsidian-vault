@@ -1,0 +1,100 @@
+Repositorios, aggregates, events
+
+TEMARIO JAVA
+
+- Tipos de datos primitivos
+- Variable
+- Constantes
+	- final
+- Operadores
+	- Aritméticos
+	- Asignación
+	- Comparación
+	- Lógicos
+- Concatenación
+- Casting
+- Estructuras de control
+	- Estructuras secuenciales
+	- Estructuras condicionales
+		- if
+		- if-else
+		- else-if
+		- switch
+		- Ternario
+	- Estructuras de repetición
+		- for
+		- for-each
+		- while
+		- do-while
+		- Acomulador
+		- Contador
+	- Estructuras de salto.
+		- break
+		- continue
+		- return
+- Programación orientada a objetos
+	- Clase
+		- Atributos
+		- Métodos
+			- Parámetros 
+			- varargs
+			- Tipo de retorno
+				- void
+			- Recursividad
+			- Getter 
+			- Setter
+			- Sobrecarga de métodos 
+		- this
+		- Constructor
+			- Sobrecarga de constructores 
+		- Tipos de clases
+			- enum
+			- abstractas
+			- interfaces
+				- default
+		- Composición
+	- Objeto
+		- Instanciación de un objeto
+			- new
+		- Identidad de un objeto
+		- 
+	- Encapsulamiento
+		- Modificadores de acceso
+			- public
+			- private
+			- protected
+			- Por defecto
+	- static
+	- Herencia
+		- extends
+		- super
+		- instanceof
+		- Upcasting
+		- Downcasting
+	- Polimorfismo por herencia
+		- Override
+	- Excepción
+		- Error
+		- try-catch
+			- finally
+			- Multicatch
+			- try-with-resources
+		- Throw
+		- Throws
+		- Tipos de excepciones
+			- Checked
+			- Unchecked
+	- Genéricos 
+		- Comodín
+		- Comodines limitados
+		- Genéricos anidados
+- Anotaciones
+- Paquetes
+- Módulos
+- Colecciones y APIs del JDK
+- Entrada/Salida y NIO.2
+- Concurrencia y paralelismo
+- Reflexión y ClassLoader.
+- Programación funcional (Java 8+)}
+- Construcción y despliegue (Maven/Gradle, JAR/WAR).
+- Rendimiento y Garbage Collection.
